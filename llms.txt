@@ -1,0 +1,50 @@
+# The Agent Index
+
+> The living index of AI agent frameworks — the libraries used to build agentic systems:
+> multi-agent, autonomous agents, orchestration, memory and agent SDKs — ranked daily by GitHub momentum.
+
+Updated: 2026-06-10T13:49:58.669506+00:00
+Tools indexed: 279
+
+## Top AI agent frameworks by momentum
+
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) — momentum 87, ⭐184875 — Autonomous Agents — AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provi
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) — momentum 86, ⭐138963 — Agent Frameworks — The agent engineering platform.
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) — momentum 84, ⭐98083 — Tools & Browser — 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) — momentum 83, ⭐70880 — Agent Frameworks — An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) — momentum 82, ⭐58248 — Memory & State — Universal memory layer for AI Agents
+- [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) — momentum 81, ⭐53198 — Multi-Agent — Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intellige
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) — momentum 81, ⭐50062 — Agent Frameworks — LlamaIndex is the leading document agent and OCR platform
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) — momentum 80, ⭐43995 — Orchestration — Lightweight, open-source AI agent for your tools, chats, and workflows.
+- [agno-agi/agno](https://github.com/agno-agi/agno) — momentum 80, ⭐40619 — Agent Frameworks — Build, run, and manage agent platforms.
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) — momentum 79, ⭐34550 — Agent Frameworks — The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of t
+- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) — momentum 79, ⭐34362 — Agent Frameworks — AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and A
+- [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) — momentum 79, ⭐34350 — Orchestration — Build resilient agents.
+- [simstudioai/sim](https://github.com/simstudioai/sim) — momentum 79, ⭐28745 — Orchestration — Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforc
+- [browser-use/browser-harness](https://github.com/browser-use/browser-harness) — momentum 79, ⭐14604 — Autonomous Agents — Browser Harness | Self-healing harness that enables LLMs to complete any task.
+- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) — momentum 78, ⭐28708 — Agent Frameworks — Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed wor
+- [getzep/graphiti](https://github.com/getzep/graphiti) — momentum 78, ⭐27249 — Memory & State — Build Real-Time Knowledge Graphs for AI Agents
+- [openai/openai-agents-python](https://github.com/openai/openai-agents-python) — momentum 78, ⭐27059 — Multi-Agent — A lightweight, powerful framework for multi-agent workflows
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) — momentum 78, ⭐27005 — Orchestration — Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
+- [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) — momentum 78, ⭐26645 — Agent Frameworks — Build and run agents you can see, understand and trust.
+- [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) — momentum 78, ⭐26498 — Autonomous Agents — Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) — momentum 78, ⭐25516 — Memory & State — Open-source AI orchestration framework for building context-engineered, production-ready LLM applica
+- [volcengine/OpenViking](https://github.com/volcengine/OpenViking) — momentum 78, ⭐25449 — Memory & State — OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw).
+- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) — momentum 78, ⭐24926 — Agent Frameworks — From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents w
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) — momentum 78, ⭐23059 — Tools & Browser — The SDK For Browser Agents
+- [strukto-ai/mirage](https://github.com/strukto-ai/mirage) — momentum 78, ⭐3120 — Agent Frameworks — A Unified Virtual Filesystem For AI Agents
+- [666ghj/BettaFish](https://github.com/666ghj/BettaFish) — momentum 77, ⭐41327 — Agent Frameworks — 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
+- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) — momentum 77, ⭐33363 — Multi-Agent — ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
+- [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) — momentum 77, ⭐25573 — Agent Frameworks — 🚀 The fast, Pythonic way to build MCP servers and clients.
+- [a2aproject/A2A](https://github.com/a2aproject/A2A) — momentum 77, ⭐24224 — Agent Frameworks — Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque age
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) — momentum 77, ⭐22688 — Orchestration — AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Ag
+- [google/adk-python](https://github.com/google/adk-python) — momentum 77, ⭐20055 — Agent Frameworks — An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI a
+- [elizaOS/eliza](https://github.com/elizaOS/eliza) — momentum 77, ⭐18550 — Agent Frameworks — Open source agentic operating system
+- [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) — momentum 77, ⭐13338 — Autonomous Agents — Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞
+- [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) — momentum 77, ⭐6350 — Multi-Agent — From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration.
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) — momentum 76, ⭐27611 — Autonomous Agents — An autonomous agent that conducts deep research on any data using any LLM providers
+- [emcie-co/parlant](https://github.com/emcie-co/parlant) — momentum 76, ⭐18106 — Agent Frameworks — Build reliable customer-facing AI agents with Parlant: an interaction control harness optimized for 
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) — momentum 76, ⭐17924 — Agent Frameworks — Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep resea
+- [trycua/cua](https://github.com/trycua/cua) — momentum 76, ⭐17809 — Tools & Browser — Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and eva
+- [topoteretes/cognee](https://github.com/topoteretes/cognee) — momentum 76, ⭐17758 — Memory & State — Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term me
+- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) — momentum 76, ⭐17679 — Agent SDKs — AI Agent Framework, the Pydantic way

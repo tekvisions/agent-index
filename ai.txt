@@ -1,0 +1,22 @@
+# ai.txt — AI usage guidance for agents.kymatalabs.com
+# The Agent Index · part of The Living Indexes by Kymata Labs LLC
+# A living, self-updating directory of AI agent frameworks — multi-agent, autonomous agents,
+# orchestration, memory & agent SDKs — ranked daily by GitHub momentum.
+
+# For structured guidance, read:
+#   https://agents.kymatalabs.com/llms.txt        (concise index for LLMs)
+#   https://agents.kymatalabs.com/sitemap.xml     (every framework's page)
+
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+
+# Hub: https://indexes.kymatalabs.com  ·  Network: https://www.kymatalabs.com
+Contact: contact@kymatalabs.com

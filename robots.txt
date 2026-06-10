@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://agents.kymatalabs.com/sitemap.xml
