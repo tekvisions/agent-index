@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-07-25T11:38:13.314106+00:00",
- "count": 279,
+ "generated_at": "2026-07-26T11:39:07.203967+00:00",
+ "count": 278,
  "categories": [
   {
    "name": "Agent Frameworks",
-   "count": 141
+   "count": 140
   },
   {
    "name": "Multi-Agent",
@@ -43,9 +43,9 @@
    "url": "https://github.com/DietrichGebert/ponytail",
    "owner": "DietrichGebert",
    "owner_avatar": "https://avatars.githubusercontent.com/u/137048761?v=4",
-   "stars": 89185,
-   "forks": 4889,
-   "open_issues": 102,
+   "stars": 89575,
+   "forks": 4916,
+   "open_issues": 103,
    "language": "JavaScript",
    "license": "MIT",
    "pushed_at": "2026-07-15T21:32:15Z",
@@ -74,12 +74,12 @@
    "url": "https://github.com/Significant-Gravitas/AutoGPT",
    "owner": "Significant-Gravitas",
    "owner_avatar": "https://avatars.githubusercontent.com/u/130738209?v=4",
-   "stars": 185679,
-   "forks": 46071,
-   "open_issues": 486,
+   "stars": 185694,
+   "forks": 46068,
+   "open_issues": 492,
    "language": "Python",
    "license": "NOASSERTION",
-   "pushed_at": "2026-07-25T03:31:09Z",
+   "pushed_at": "2026-07-26T10:07:17Z",
    "created_at": "2023-03-16T09:21:07Z",
    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
    "topics": [
@@ -106,12 +106,12 @@
    "url": "https://github.com/langchain-ai/langchain",
    "owner": "langchain-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/126733545?v=4",
-   "stars": 142568,
-   "forks": 23735,
+   "stars": 142611,
+   "forks": 23738,
    "open_issues": 445,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-07-25T08:41:10Z",
+   "pushed_at": "2026-07-26T08:48:10Z",
    "created_at": "2022-10-17T02:58:36Z",
    "description": "The agent engineering platform.",
    "topics": [
@@ -147,12 +147,12 @@
    "url": "https://github.com/browser-use/browser-use",
    "owner": "browser-use",
    "owner_avatar": "https://avatars.githubusercontent.com/u/192012301?v=4",
-   "stars": 106700,
-   "forks": 11733,
-   "open_issues": 333,
+   "stars": 106824,
+   "forks": 11739,
+   "open_issues": 329,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-07-25T01:29:05Z",
+   "pushed_at": "2026-07-26T03:17:39Z",
    "created_at": "2024-10-31T16:00:56Z",
    "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
    "topics": [
@@ -175,12 +175,12 @@
    "url": "https://github.com/bytedance/deer-flow",
    "owner": "bytedance",
    "owner_avatar": "https://avatars.githubusercontent.com/u/4158466?v=4",
-   "stars": 77823,
-   "forks": 10616,
-   "open_issues": 992,
+   "stars": 77871,
+   "forks": 10617,
+   "open_issues": 975,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-07-25T10:28:45Z",
+   "pushed_at": "2026-07-26T09:50:43Z",
    "created_at": "2025-05-07T02:50:19Z",
    "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
    "topics": [
@@ -214,12 +214,12 @@
    "url": "https://github.com/mem0ai/mem0",
    "owner": "mem0ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/137054526?v=4",
-   "stars": 61658,
-   "forks": 7186,
-   "open_issues": 711,
+   "stars": 61710,
+   "forks": 7192,
+   "open_issues": 723,
    "language": "TypeScript",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-25T11:23:01Z",
+   "pushed_at": "2026-07-25T12:24:49Z",
    "created_at": "2023-06-20T08:58:36Z",
    "description": "Universal memory layer for AI Agents",
    "topics": [
@@ -249,12 +249,12 @@
    "url": "https://github.com/crewAIInc/crewAI",
    "owner": "crewAIInc",
    "owner_avatar": "https://avatars.githubusercontent.com/u/170677839?v=4",
-   "stars": 56110,
-   "forks": 7950,
-   "open_issues": 667,
+   "stars": 56145,
+   "forks": 7966,
+   "open_issues": 671,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-07-25T10:13:34Z",
+   "pushed_at": "2026-07-26T10:30:35Z",
    "created_at": "2023-10-27T03:26:59Z",
    "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
    "topics": [
@@ -275,12 +275,12 @@
    "url": "https://github.com/run-llama/llama_index",
    "owner": "run-llama",
    "owner_avatar": "https://avatars.githubusercontent.com/u/130722866?v=4",
-   "stars": 51078,
-   "forks": 7809,
-   "open_issues": 577,
+   "stars": 51105,
+   "forks": 7812,
+   "open_issues": 579,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-07-25T02:17:52Z",
+   "pushed_at": "2026-07-26T02:17:58Z",
    "created_at": "2022-11-02T04:24:54Z",
    "description": "LlamaIndex is the leading document agent and OCR platform",
    "topics": [
@@ -306,12 +306,12 @@
    "url": "https://github.com/HKUDS/nanobot",
    "owner": "HKUDS",
    "owner_avatar": "https://avatars.githubusercontent.com/u/118165258?v=4",
-   "stars": 46216,
-   "forks": 8178,
-   "open_issues": 839,
+   "stars": 46250,
+   "forks": 8187,
+   "open_issues": 844,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-07-25T08:18:55Z",
+   "pushed_at": "2026-07-26T11:05:53Z",
    "created_at": "2026-02-01T07:16:15Z",
    "description": "Lightweight, open-source AI agent for your tools, chats, and workflows.",
    "topics": [
@@ -340,12 +340,12 @@
    "url": "https://github.com/cobusgreyling/loop-engineering",
    "owner": "cobusgreyling",
    "owner_avatar": "https://avatars.githubusercontent.com/u/7868717?v=4",
-   "stars": 9366,
-   "forks": 1284,
-   "open_issues": 15,
+   "stars": 9416,
+   "forks": 1290,
+   "open_issues": 23,
    "language": "JavaScript",
    "license": "MIT",
-   "pushed_at": "2026-07-25T03:24:43Z",
+   "pushed_at": "2026-07-26T03:25:50Z",
    "created_at": "2026-06-09T06:28:20Z",
    "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
    "topics": [
@@ -378,9 +378,9 @@
    "url": "https://github.com/elder-plinius/T3MP3ST",
    "owner": "elder-plinius",
    "owner_avatar": "https://avatars.githubusercontent.com/u/133052465?v=4",
-   "stars": 5173,
-   "forks": 1072,
-   "open_issues": 3,
+   "stars": 5203,
+   "forks": 1080,
+   "open_issues": 4,
    "language": "TypeScript",
    "license": "AGPL-3.0",
    "pushed_at": "2026-07-24T12:16:15Z",
@@ -404,12 +404,12 @@
    "url": "https://github.com/agno-agi/agno",
    "owner": "agno-agi",
    "owner_avatar": "https://avatars.githubusercontent.com/u/104874993?v=4",
-   "stars": 41416,
-   "forks": 5695,
-   "open_issues": 1020,
+   "stars": 41425,
+   "forks": 5697,
+   "open_issues": 1027,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-25T11:03:03Z",
+   "pushed_at": "2026-07-26T07:59:45Z",
    "created_at": "2022-05-04T15:23:02Z",
    "description": "Build, run, and manage agent platforms.",
    "topics": [
@@ -430,12 +430,12 @@
    "url": "https://github.com/langchain-ai/langgraph",
    "owner": "langchain-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/126733545?v=4",
-   "stars": 38104,
-   "forks": 6400,
-   "open_issues": 642,
+   "stars": 38166,
+   "forks": 6413,
+   "open_issues": 646,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-07-25T08:00:35Z",
+   "pushed_at": "2026-07-26T00:52:48Z",
    "created_at": "2023-08-09T18:33:12Z",
    "description": "Build resilient agents.",
    "topics": [
@@ -469,12 +469,12 @@
    "url": "https://github.com/AstrBotDevs/AstrBot",
    "owner": "AstrBotDevs",
    "owner_avatar": "https://avatars.githubusercontent.com/u/197911947?v=4",
-   "stars": 38050,
-   "forks": 2691,
-   "open_issues": 1331,
+   "stars": 38117,
+   "forks": 2700,
+   "open_issues": 1330,
    "language": "Python",
    "license": "AGPL-3.0",
-   "pushed_at": "2026-07-25T08:15:32Z",
+   "pushed_at": "2026-07-26T08:53:51Z",
    "created_at": "2022-12-08T13:27:46Z",
    "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
    "topics": [
@@ -507,12 +507,12 @@
    "url": "https://github.com/CopilotKit/CopilotKit",
    "owner": "CopilotKit",
    "owner_avatar": "https://avatars.githubusercontent.com/u/131273140?v=4",
-   "stars": 36265,
-   "forks": 4475,
-   "open_issues": 395,
+   "stars": 36289,
+   "forks": 4477,
+   "open_issues": 379,
    "language": "TypeScript",
    "license": "MIT",
-   "pushed_at": "2026-07-25T03:32:18Z",
+   "pushed_at": "2026-07-26T07:44:39Z",
    "created_at": "2023-06-19T04:08:31Z",
    "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
    "topics": [
@@ -542,15 +542,46 @@
    "rank": 15
   },
   {
+   "name": "BettaFish",
+   "full_name": "666ghj/BettaFish",
+   "slug": "666ghj-bettafish",
+   "url": "https://github.com/666ghj/BettaFish",
+   "owner": "666ghj",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/110395318?v=4",
+   "stars": 41847,
+   "forks": 7624,
+   "open_issues": 5,
+   "language": "Python",
+   "license": "GPL-2.0",
+   "pushed_at": "2026-07-21T06:13:29Z",
+   "created_at": "2024-07-01T13:11:38Z",
+   "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+   "topics": [
+    "agent-framework",
+    "data-analysis",
+    "deep-research",
+    "deep-search",
+    "llms",
+    "multi-agent-system",
+    "nlp",
+    "public-opinion-analysis",
+    "python3",
+    "sentiment-analysis"
+   ],
+   "category": "Agent Frameworks",
+   "momentum": 79,
+   "rank": 16
+  },
+  {
    "name": "dokploy",
    "full_name": "Dokploy/dokploy",
    "slug": "dokploy-dokploy",
    "url": "https://github.com/Dokploy/dokploy",
    "owner": "Dokploy",
    "owner_avatar": "https://avatars.githubusercontent.com/u/156882017?v=4",
-   "stars": 36079,
-   "forks": 2790,
-   "open_issues": 734,
+   "stars": 36096,
+   "forks": 2789,
+   "open_issues": 735,
    "language": "TypeScript",
    "license": "NOASSERTION",
    "pushed_at": "2026-07-25T09:20:06Z",
@@ -576,37 +607,6 @@
     "vps"
    ],
    "category": "Agent Frameworks",
-   "momentum": 80,
-   "rank": 16
-  },
-  {
-   "name": "BettaFish",
-   "full_name": "666ghj/BettaFish",
-   "slug": "666ghj-bettafish",
-   "url": "https://github.com/666ghj/BettaFish",
-   "owner": "666ghj",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/110395318?v=4",
-   "stars": 41841,
-   "forks": 7624,
-   "open_issues": 5,
-   "language": "Python",
-   "license": "GPL-2.0",
-   "pushed_at": "2026-07-21T06:13:29Z",
-   "created_at": "2024-07-01T13:11:38Z",
-   "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
-   "topics": [
-    "agent-framework",
-    "data-analysis",
-    "deep-research",
-    "deep-search",
-    "llms",
-    "multi-agent-system",
-    "nlp",
-    "public-opinion-analysis",
-    "python3",
-    "sentiment-analysis"
-   ],
-   "category": "Agent Frameworks",
    "momentum": 79,
    "rank": 17
   },
@@ -617,8 +617,8 @@
    "url": "https://github.com/OpenBMB/ChatDev",
    "owner": "OpenBMB",
    "owner_avatar": "https://avatars.githubusercontent.com/u/89920203?v=4",
-   "stars": 33820,
-   "forks": 4224,
+   "stars": 33827,
+   "forks": 4226,
    "open_issues": 73,
    "language": "Python",
    "license": "Apache-2.0",
@@ -631,86 +631,18 @@
    "rank": 18
   },
   {
-   "name": "DeepTutor",
-   "full_name": "HKUDS/DeepTutor",
-   "slug": "hkuds-deeptutor",
-   "url": "https://github.com/HKUDS/DeepTutor",
-   "owner": "HKUDS",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/118165258?v=4",
-   "stars": 29651,
-   "forks": 3909,
-   "open_issues": 65,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-07-24T14:15:03Z",
-   "created_at": "2025-12-28T15:35:54Z",
-   "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-   "topics": [
-    "ai-agents",
-    "ai-tutor",
-    "clawdbot",
-    "cli-tool",
-    "deepresearch",
-    "interactive-learning",
-    "large-language-models",
-    "multi-agent-systems",
-    "rag"
-   ],
-   "category": "Agent Frameworks",
-   "momentum": 79,
-   "rank": 19
-  },
-  {
-   "name": "composio",
-   "full_name": "ComposioHQ/composio",
-   "slug": "composiohq-composio",
-   "url": "https://github.com/ComposioHQ/composio",
-   "owner": "ComposioHQ",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/128464815?v=4",
-   "stars": 29369,
-   "forks": 4670,
-   "open_issues": 99,
-   "language": "TypeScript",
-   "license": "MIT",
-   "pushed_at": "2026-07-25T06:31:23Z",
-   "created_at": "2024-02-23T13:58:27Z",
-   "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.",
-   "topics": [
-    "agentic-ai",
-    "agents",
-    "ai",
-    "ai-agents",
-    "aiagents",
-    "developer-tools",
-    "function-calling",
-    "gpt-4",
-    "javascript",
-    "js",
-    "llm",
-    "llmops",
-    "mcp",
-    "python",
-    "remote-mcp-server",
-    "sse",
-    "typescript"
-   ],
-   "category": "Agent Frameworks",
-   "momentum": 79,
-   "rank": 20
-  },
-  {
    "name": "cognee",
    "full_name": "topoteretes/cognee",
    "slug": "topoteretes-cognee",
    "url": "https://github.com/topoteretes/cognee",
    "owner": "topoteretes",
    "owner_avatar": "https://avatars.githubusercontent.com/u/125468716?v=4",
-   "stars": 29297,
-   "forks": 2797,
-   "open_issues": 590,
+   "stars": 29361,
+   "forks": 2821,
+   "open_issues": 508,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-25T11:34:45Z",
+   "pushed_at": "2026-07-26T11:08:52Z",
    "created_at": "2023-08-16T16:16:33Z",
    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
    "topics": [
@@ -736,7 +668,7 @@
    ],
    "category": "Memory & State",
    "momentum": 79,
-   "rank": 21
+   "rank": 19
   },
   {
    "name": "sim",
@@ -745,12 +677,12 @@
    "url": "https://github.com/simstudioai/sim",
    "owner": "simstudioai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/199344406?v=4",
-   "stars": 29216,
+   "stars": 29224,
    "forks": 3739,
-   "open_issues": 227,
+   "open_issues": 228,
    "language": "TypeScript",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-25T11:32:11Z",
+   "pushed_at": "2026-07-26T08:08:46Z",
    "created_at": "2025-01-05T22:47:49Z",
    "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
    "topics": [
@@ -775,7 +707,45 @@
    ],
    "category": "Orchestration",
    "momentum": 79,
-   "rank": 22
+   "rank": 20
+  },
+  {
+   "name": "composio",
+   "full_name": "ComposioHQ/composio",
+   "slug": "composiohq-composio",
+   "url": "https://github.com/ComposioHQ/composio",
+   "owner": "ComposioHQ",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/128464815?v=4",
+   "stars": 29385,
+   "forks": 4668,
+   "open_issues": 100,
+   "language": "TypeScript",
+   "license": "MIT",
+   "pushed_at": "2026-07-25T06:31:23Z",
+   "created_at": "2024-02-23T13:58:27Z",
+   "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.",
+   "topics": [
+    "agentic-ai",
+    "agents",
+    "ai",
+    "ai-agents",
+    "aiagents",
+    "developer-tools",
+    "function-calling",
+    "gpt-4",
+    "javascript",
+    "js",
+    "llm",
+    "llmops",
+    "mcp",
+    "python",
+    "remote-mcp-server",
+    "sse",
+    "typescript"
+   ],
+   "category": "Agent Frameworks",
+   "momentum": 78,
+   "rank": 21
   },
   {
    "name": "graphiti",
@@ -784,12 +754,12 @@
    "url": "https://github.com/getzep/graphiti",
    "owner": "getzep",
    "owner_avatar": "https://avatars.githubusercontent.com/u/132832125?v=4",
-   "stars": 29186,
-   "forks": 2939,
-   "open_issues": 436,
+   "stars": 29207,
+   "forks": 2943,
+   "open_issues": 438,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-24T21:37:05Z",
+   "pushed_at": "2026-07-25T14:54:00Z",
    "created_at": "2024-08-08T22:08:30Z",
    "description": "Build Real-Time Knowledge Graphs for AI Agents",
    "topics": [
@@ -799,8 +769,8 @@
     "rag"
    ],
    "category": "Memory & State",
-   "momentum": 79,
-   "rank": 23
+   "momentum": 78,
+   "rank": 22
   },
   {
    "name": "agentscope",
@@ -809,9 +779,9 @@
    "url": "https://github.com/agentscope-ai/agentscope",
    "owner": "agentscope-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/211762292?v=4",
-   "stars": 28251,
-   "forks": 3249,
-   "open_issues": 298,
+   "stars": 28277,
+   "forks": 3254,
+   "open_issues": 303,
    "language": "Python",
    "license": "Apache-2.0",
    "pushed_at": "2026-07-23T13:28:56Z",
@@ -830,7 +800,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 78,
-   "rank": 24
+   "rank": 23
   },
   {
    "name": "openai-agents-python",
@@ -839,12 +809,12 @@
    "url": "https://github.com/openai/openai-agents-python",
    "owner": "openai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/14957082?v=4",
-   "stars": 28159,
-   "forks": 4377,
-   "open_issues": 61,
+   "stars": 28174,
+   "forks": 4376,
+   "open_issues": 58,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-07-25T11:06:49Z",
+   "pushed_at": "2026-07-26T10:02:33Z",
    "created_at": "2025-03-11T03:42:36Z",
    "description": "A lightweight, powerful framework for multi-agent workflows",
    "topics": [
@@ -858,7 +828,7 @@
    ],
    "category": "Multi-Agent",
    "momentum": 78,
-   "rank": 25
+   "rank": 24
   },
   {
    "name": "OpenViking",
@@ -867,12 +837,12 @@
    "url": "https://github.com/volcengine/OpenViking",
    "owner": "volcengine",
    "owner_avatar": "https://avatars.githubusercontent.com/u/67365215?v=4",
-   "stars": 27208,
+   "stars": 27241,
    "forks": 2139,
-   "open_issues": 411,
+   "open_issues": 413,
    "language": "Python",
    "license": "AGPL-3.0",
-   "pushed_at": "2026-07-25T09:45:59Z",
+   "pushed_at": "2026-07-26T10:22:36Z",
    "created_at": "2026-01-05T07:11:17Z",
    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
    "topics": [
@@ -884,7 +854,7 @@
    ],
    "category": "Memory & State",
    "momentum": 78,
-   "rank": 26
+   "rank": 25
   },
   {
    "name": "fastmcp",
@@ -893,12 +863,12 @@
    "url": "https://github.com/PrefectHQ/fastmcp",
    "owner": "PrefectHQ",
    "owner_avatar": "https://avatars.githubusercontent.com/u/39270919?v=4",
-   "stars": 26831,
-   "forks": 2184,
-   "open_issues": 261,
+   "stars": 26847,
+   "forks": 2187,
+   "open_issues": 265,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-24T01:26:47Z",
+   "pushed_at": "2026-07-26T04:12:21Z",
    "created_at": "2024-11-30T01:47:40Z",
    "description": "🚀 The fast, Pythonic way to build MCP servers and clients.",
    "topics": [
@@ -914,7 +884,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 78,
-   "rank": 27
+   "rank": 26
   },
   {
    "name": "mastra",
@@ -923,12 +893,12 @@
    "url": "https://github.com/mastra-ai/mastra",
    "owner": "mastra-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/149120496?v=4",
-   "stars": 26549,
-   "forks": 2509,
-   "open_issues": 577,
+   "stars": 26580,
+   "forks": 2513,
+   "open_issues": 588,
    "language": "TypeScript",
    "license": "NOASSERTION",
-   "pushed_at": "2026-07-25T06:58:00Z",
+   "pushed_at": "2026-07-26T08:45:10Z",
    "created_at": "2024-08-06T20:44:31Z",
    "description": "Mastra is the modern TypeScript framework for AI-powered applications and agents.",
    "topics": [
@@ -948,7 +918,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 78,
-   "rank": 28
+   "rank": 27
   },
   {
    "name": "haystack",
@@ -957,9 +927,9 @@
    "url": "https://github.com/deepset-ai/haystack",
    "owner": "deepset-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/51827949?v=4",
-   "stars": 26010,
-   "forks": 2950,
-   "open_issues": 118,
+   "stars": 26015,
+   "forks": 2951,
+   "open_issues": 119,
    "language": "Python",
    "license": "Apache-2.0",
    "pushed_at": "2026-07-25T03:05:22Z",
@@ -989,7 +959,7 @@
    ],
    "category": "Memory & State",
    "momentum": 78,
-   "rank": 29
+   "rank": 28
   },
   {
    "name": "stagehand",
@@ -998,12 +968,12 @@
    "url": "https://github.com/browserbase/stagehand",
    "owner": "browserbase",
    "owner_avatar": "https://avatars.githubusercontent.com/u/158221360?v=4",
-   "stars": 23630,
-   "forks": 1628,
-   "open_issues": 302,
+   "stars": 23641,
+   "forks": 1629,
+   "open_issues": 312,
    "language": "TypeScript",
    "license": "MIT",
-   "pushed_at": "2026-07-25T05:27:18Z",
+   "pushed_at": "2026-07-26T11:32:31Z",
    "created_at": "2024-03-24T19:19:44Z",
    "description": "The SDK For Browser Agents",
    "topics": [
@@ -1016,7 +986,7 @@
    ],
    "category": "Tools & Browser",
    "momentum": 78,
-   "rank": 30
+   "rank": 29
   },
   {
    "name": "activepieces",
@@ -1025,12 +995,12 @@
    "url": "https://github.com/activepieces/activepieces",
    "owner": "activepieces",
    "owner_avatar": "https://avatars.githubusercontent.com/u/99494700?v=4",
-   "stars": 23418,
-   "forks": 3957,
+   "stars": 23429,
+   "forks": 3961,
    "open_issues": 439,
    "language": "TypeScript",
    "license": "NOASSERTION",
-   "pushed_at": "2026-07-24T23:46:50Z",
+   "pushed_at": "2026-07-26T11:19:49Z",
    "created_at": "2022-12-03T02:52:46Z",
    "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
    "topics": [
@@ -1050,7 +1020,7 @@
    ],
    "category": "Orchestration",
    "momentum": 78,
-   "rank": 31
+   "rank": 30
   },
   {
    "name": "browser-harness",
@@ -1059,12 +1029,12 @@
    "url": "https://github.com/browser-use/browser-harness",
    "owner": "browser-use",
    "owner_avatar": "https://avatars.githubusercontent.com/u/192012301?v=4",
-   "stars": 16242,
-   "forks": 1537,
+   "stars": 16261,
+   "forks": 1541,
    "open_issues": 216,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-07-21T21:24:01Z",
+   "pushed_at": "2026-07-26T03:16:13Z",
    "created_at": "2026-04-17T01:56:15Z",
    "description": "Browser Harness | Self-healing harness that enables LLMs to complete any task.",
    "topics": [
@@ -1085,7 +1055,7 @@
    ],
    "category": "Autonomous Agents",
    "momentum": 78,
-   "rank": 32
+   "rank": 31
   },
   {
    "name": "mindshub",
@@ -1094,8 +1064,8 @@
    "url": "https://github.com/mindsdb/mindshub",
    "owner": "mindsdb",
    "owner_avatar": "https://avatars.githubusercontent.com/u/31035808?v=4",
-   "stars": 39492,
-   "forks": 6223,
+   "stars": 39497,
+   "forks": 6224,
    "open_issues": 5,
    "language": "Makefile",
    "license": "MIT",
@@ -1121,7 +1091,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 77,
-   "rank": 33
+   "rank": 32
   },
   {
    "name": "gpt-researcher",
@@ -1130,9 +1100,9 @@
    "url": "https://github.com/assafelovic/gpt-researcher",
    "owner": "assafelovic",
    "owner_avatar": "https://avatars.githubusercontent.com/u/13554167?v=4",
-   "stars": 28626,
-   "forks": 3862,
-   "open_issues": 138,
+   "stars": 28647,
+   "forks": 3866,
+   "open_issues": 143,
    "language": "Python",
    "license": "Apache-2.0",
    "pushed_at": "2026-07-18T07:56:55Z",
@@ -1153,7 +1123,7 @@
    ],
    "category": "Autonomous Agents",
    "momentum": 77,
-   "rank": 34
+   "rank": 33
   },
   {
    "name": "letta",
@@ -1162,8 +1132,8 @@
    "url": "https://github.com/letta-ai/letta",
    "owner": "letta-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/177780362?v=4",
-   "stars": 23952,
-   "forks": 2548,
+   "stars": 23964,
+   "forks": 2551,
    "open_issues": 50,
    "language": "Python",
    "license": "Apache-2.0",
@@ -1178,36 +1148,7 @@
    ],
    "category": "Memory & State",
    "momentum": 77,
-   "rank": 35
-  },
-  {
-   "name": "go-micro",
-   "full_name": "micro/go-micro",
-   "slug": "micro-go-micro",
-   "url": "https://github.com/micro/go-micro",
-   "owner": "micro",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/5161210?v=4",
-   "stars": 22968,
-   "forks": 2411,
-   "open_issues": 9,
-   "language": "Go",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-07-20T10:03:54Z",
-   "created_at": "2015-01-13T23:30:18Z",
-   "description": "A Go agent harness and service framework",
-   "topics": [
-    "ai",
-    "ai-agents",
-    "distributed-systems",
-    "go",
-    "golang",
-    "mcp",
-    "micro",
-    "microservices"
-   ],
-   "category": "Agent Frameworks",
-   "momentum": 77,
-   "rank": 36
+   "rank": 34
   },
   {
    "name": "teable",
@@ -1216,12 +1157,12 @@
    "url": "https://github.com/teableio/teable",
    "owner": "teableio",
    "owner_avatar": "https://avatars.githubusercontent.com/u/113977713?v=4",
-   "stars": 21545,
+   "stars": 21551,
    "forks": 1316,
    "open_issues": 117,
    "language": "TypeScript",
    "license": "NOASSERTION",
-   "pushed_at": "2026-07-24T09:00:00Z",
+   "pushed_at": "2026-07-26T01:57:43Z",
    "created_at": "2022-11-01T07:02:49Z",
    "description": "✨ AI Spreadsheet for Business",
    "topics": [
@@ -1240,7 +1181,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 77,
-   "rank": 37
+   "rank": 35
   },
   {
    "name": "pentagi",
@@ -1249,12 +1190,12 @@
    "url": "https://github.com/vxcontrol/pentagi",
    "owner": "vxcontrol",
    "owner_avatar": "https://avatars.githubusercontent.com/u/39194251?v=4",
-   "stars": 21223,
+   "stars": 21248,
    "forks": 2783,
    "open_issues": 47,
    "language": "Go",
    "license": "MIT",
-   "pushed_at": "2026-07-25T10:30:15Z",
+   "pushed_at": "2026-07-25T12:02:52Z",
    "created_at": "2025-01-06T22:22:48Z",
    "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
    "topics": [
@@ -1279,7 +1220,7 @@
    ],
    "category": "Autonomous Agents",
    "momentum": 77,
-   "rank": 38
+   "rank": 36
   },
   {
    "name": "adk-python",
@@ -1288,12 +1229,12 @@
    "url": "https://github.com/google/adk-python",
    "owner": "google",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1342004?v=4",
-   "stars": 20875,
-   "forks": 3757,
-   "open_issues": 608,
+   "stars": 20887,
+   "forks": 3759,
+   "open_issues": 611,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-25T06:42:35Z",
+   "pushed_at": "2026-07-25T23:27:49Z",
    "created_at": "2025-04-01T20:44:40Z",
    "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
    "topics": [
@@ -1316,7 +1257,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 77,
-   "rank": 39
+   "rank": 37
   },
   {
    "name": "cua",
@@ -1325,12 +1266,12 @@
    "url": "https://github.com/trycua/cua",
    "owner": "trycua",
    "owner_avatar": "https://avatars.githubusercontent.com/u/191107687?v=4",
-   "stars": 20557,
-   "forks": 1371,
-   "open_issues": 568,
+   "stars": 20621,
+   "forks": 1374,
+   "open_issues": 574,
    "language": "HTML",
    "license": "MIT",
-   "pushed_at": "2026-07-25T10:42:22Z",
+   "pushed_at": "2026-07-26T10:59:53Z",
    "created_at": "2025-01-31T15:02:49Z",
    "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
    "topics": [
@@ -1355,7 +1296,33 @@
    ],
    "category": "Tools & Browser",
    "momentum": 77,
-   "rank": 40
+   "rank": 38
+  },
+  {
+   "name": "pydantic-ai",
+   "full_name": "pydantic/pydantic-ai",
+   "slug": "pydantic-pydantic-ai",
+   "url": "https://github.com/pydantic/pydantic-ai",
+   "owner": "pydantic",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/110818415?v=4",
+   "stars": 18816,
+   "forks": 2415,
+   "open_issues": 513,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-07-26T01:56:20Z",
+   "created_at": "2024-06-21T15:55:04Z",
+   "description": "AI Agent Framework, the Pydantic way",
+   "topics": [
+    "agent-framework",
+    "genai",
+    "llm",
+    "pydantic",
+    "python"
+   ],
+   "category": "Agent SDKs",
+   "momentum": 77,
+   "rank": 39
   },
   {
    "name": "eliza",
@@ -1364,12 +1331,12 @@
    "url": "https://github.com/elizaOS/eliza",
    "owner": "elizaOS",
    "owner_avatar": "https://avatars.githubusercontent.com/u/186240462?v=4",
-   "stars": 18806,
+   "stars": 18812,
    "forks": 5589,
-   "open_issues": 282,
+   "open_issues": 289,
    "language": "TypeScript",
    "license": "MIT",
-   "pushed_at": "2026-07-25T10:35:29Z",
+   "pushed_at": "2026-07-26T04:11:52Z",
    "created_at": "2024-07-09T07:55:40Z",
    "description": "Open source agentic operating system",
    "topics": [
@@ -1391,33 +1358,32 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 77,
-   "rank": 41
+   "rank": 40
   },
   {
-   "name": "pydantic-ai",
-   "full_name": "pydantic/pydantic-ai",
-   "slug": "pydantic-pydantic-ai",
-   "url": "https://github.com/pydantic/pydantic-ai",
-   "owner": "pydantic",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/110818415?v=4",
-   "stars": 18803,
-   "forks": 2413,
-   "open_issues": 507,
+   "name": "hindsight",
+   "full_name": "vectorize-io/hindsight",
+   "slug": "vectorize-io-hindsight",
+   "url": "https://github.com/vectorize-io/hindsight",
+   "owner": "vectorize-io",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/81837244?v=4",
+   "stars": 18809,
+   "forks": 1173,
+   "open_issues": 87,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-07-25T10:58:55Z",
-   "created_at": "2024-06-21T15:55:04Z",
-   "description": "AI Agent Framework, the Pydantic way",
+   "pushed_at": "2026-07-26T03:43:24Z",
+   "created_at": "2025-10-30T11:49:48Z",
+   "description": "Hindsight: Agent Memory That  Learns",
    "topics": [
-    "agent-framework",
-    "genai",
-    "llm",
-    "pydantic",
-    "python"
+    "agentic-ai",
+    "agents",
+    "ai-memory",
+    "memory"
    ],
-   "category": "Agent SDKs",
+   "category": "Memory & State",
    "momentum": 77,
-   "rank": 42
+   "rank": 41
   },
   {
    "name": "agenticSeek",
@@ -1426,9 +1392,9 @@
    "url": "https://github.com/Fosowl/agenticSeek",
    "owner": "Fosowl",
    "owner_avatar": "https://avatars.githubusercontent.com/u/49105846?v=4",
-   "stars": 26685,
-   "forks": 2989,
-   "open_issues": 34,
+   "stars": 26689,
+   "forks": 2988,
+   "open_issues": 35,
    "language": "Python",
    "license": "GPL-3.0",
    "pushed_at": "2026-07-12T11:50:42Z",
@@ -1446,6 +1412,35 @@
    ],
    "category": "Autonomous Agents",
    "momentum": 76,
+   "rank": 42
+  },
+  {
+   "name": "go-micro",
+   "full_name": "micro/go-micro",
+   "slug": "micro-go-micro",
+   "url": "https://github.com/micro/go-micro",
+   "owner": "micro",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/5161210?v=4",
+   "stars": 22972,
+   "forks": 2411,
+   "open_issues": 9,
+   "language": "Go",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-07-20T10:03:54Z",
+   "created_at": "2015-01-13T23:30:18Z",
+   "description": "A Go agent harness and service framework",
+   "topics": [
+    "ai",
+    "ai-agents",
+    "distributed-systems",
+    "go",
+    "golang",
+    "mcp",
+    "micro",
+    "microservices"
+   ],
+   "category": "Agent Frameworks",
+   "momentum": 76,
    "rank": 43
   },
   {
@@ -1455,7 +1450,7 @@
    "url": "https://github.com/camel-ai/owl",
    "owner": "camel-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/134388954?v=4",
-   "stars": 20063,
+   "stars": 20067,
    "forks": 2305,
    "open_issues": 116,
    "language": "Python",
@@ -1481,9 +1476,9 @@
    "url": "https://github.com/Tencent/WeKnora",
    "owner": "Tencent",
    "owner_avatar": "https://avatars.githubusercontent.com/u/18461506?v=4",
-   "stars": 18881,
-   "forks": 2643,
-   "open_issues": 488,
+   "stars": 18919,
+   "forks": 2652,
+   "open_issues": 504,
    "language": "Go",
    "license": "NOASSERTION",
    "pushed_at": "2026-07-24T08:54:08Z",
@@ -1516,43 +1511,18 @@
    "rank": 45
   },
   {
-   "name": "hindsight",
-   "full_name": "vectorize-io/hindsight",
-   "slug": "vectorize-io-hindsight",
-   "url": "https://github.com/vectorize-io/hindsight",
-   "owner": "vectorize-io",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/81837244?v=4",
-   "stars": 18785,
-   "forks": 1169,
-   "open_issues": 77,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-07-24T18:49:11Z",
-   "created_at": "2025-10-30T11:49:48Z",
-   "description": "Hindsight: Agent Memory That  Learns",
-   "topics": [
-    "agentic-ai",
-    "agents",
-    "ai-memory",
-    "memory"
-   ],
-   "category": "Memory & State",
-   "momentum": 76,
-   "rank": 46
-  },
-  {
    "name": "DocsGPT",
    "full_name": "arc53/DocsGPT",
    "slug": "arc53-docsgpt",
    "url": "https://github.com/arc53/DocsGPT",
    "owner": "arc53",
    "owner_avatar": "https://avatars.githubusercontent.com/u/103419759?v=4",
-   "stars": 18019,
-   "forks": 2081,
-   "open_issues": 89,
+   "stars": 18061,
+   "forks": 2088,
+   "open_issues": 91,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-07-24T11:56:50Z",
+   "pushed_at": "2026-07-25T16:15:59Z",
    "created_at": "2023-02-02T11:03:23Z",
    "description": "Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.",
    "topics": [
@@ -1578,7 +1548,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 76,
-   "rank": 47
+   "rank": 46
   },
   {
    "name": "camel",
@@ -1587,9 +1557,9 @@
    "url": "https://github.com/camel-ai/camel",
    "owner": "camel-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/134388954?v=4",
-   "stars": 17489,
-   "forks": 2020,
-   "open_issues": 468,
+   "stars": 17492,
+   "forks": 2023,
+   "open_issues": 475,
    "language": "Python",
    "license": "Apache-2.0",
    "pushed_at": "2026-07-22T15:12:33Z",
@@ -1608,7 +1578,7 @@
    ],
    "category": "Multi-Agent",
    "momentum": 76,
-   "rank": 48
+   "rank": 47
   },
   {
    "name": "leon",
@@ -1617,7 +1587,7 @@
    "url": "https://github.com/leon-ai/leon",
    "owner": "leon-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/35167224?v=4",
-   "stars": 17382,
+   "stars": 17383,
    "forks": 1452,
    "open_issues": 109,
    "language": "TypeScript",
@@ -1649,7 +1619,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 76,
-   "rank": 49
+   "rank": 48
   },
   {
    "name": "gastown",
@@ -1658,18 +1628,18 @@
    "url": "https://github.com/gastownhall/gastown",
    "owner": "gastownhall",
    "owner_avatar": "https://avatars.githubusercontent.com/u/255961667?v=4",
-   "stars": 17216,
-   "forks": 1577,
+   "stars": 17222,
+   "forks": 1578,
    "open_issues": 275,
    "language": "Go",
    "license": "MIT",
-   "pushed_at": "2026-07-25T08:34:02Z",
+   "pushed_at": "2026-07-26T05:23:25Z",
    "created_at": "2025-12-16T00:33:33Z",
    "description": "Gas Town - multi-agent workspace manager",
    "topics": [],
    "category": "Multi-Agent",
    "momentum": 76,
-   "rank": 50
+   "rank": 49
   },
   {
    "name": "trigger.dev",
@@ -1678,12 +1648,12 @@
    "url": "https://github.com/triggerdotdev/trigger.dev",
    "owner": "triggerdotdev",
    "owner_avatar": "https://avatars.githubusercontent.com/u/95297378?v=4",
-   "stars": 15752,
-   "forks": 1372,
-   "open_issues": 409,
+   "stars": 15760,
+   "forks": 1373,
+   "open_issues": 410,
    "language": "TypeScript",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-25T11:35:01Z",
+   "pushed_at": "2026-07-26T10:47:21Z",
    "created_at": "2022-11-30T14:59:07Z",
    "description": "Trigger.dev – build and deploy fully‑managed AI agents and workflows",
    "topics": [
@@ -1703,34 +1673,7 @@
    ],
    "category": "Orchestration",
    "momentum": 76,
-   "rank": 51
-  },
-  {
-   "name": "hermes-desktop",
-   "full_name": "fathah/hermes-desktop",
-   "slug": "fathah-hermes-desktop",
-   "url": "https://github.com/fathah/hermes-desktop",
-   "owner": "fathah",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/48355244?v=4",
-   "stars": 13552,
-   "forks": 1543,
-   "open_issues": 368,
-   "language": "TypeScript",
-   "license": "MIT",
-   "pushed_at": "2026-07-24T16:20:39Z",
-   "created_at": "2026-04-02T15:26:49Z",
-   "description": "Desktop Companion for Hermes Agent",
-   "topics": [
-    "ai",
-    "ai-agent",
-    "autonomous-agents",
-    "chatbot",
-    "hermes",
-    "llm"
-   ],
-   "category": "Agent Frameworks",
-   "momentum": 76,
-   "rank": 52
+   "rank": 50
   },
   {
    "name": "ai-website-cloner-template",
@@ -1739,8 +1682,8 @@
    "url": "https://github.com/JCodesMore/ai-website-cloner-template",
    "owner": "JCodesMore",
    "owner_avatar": "https://avatars.githubusercontent.com/u/182581310?v=4",
-   "stars": 30151,
-   "forks": 4324,
+   "stars": 30240,
+   "forks": 4347,
    "open_issues": 29,
    "language": "TypeScript",
    "license": "MIT",
@@ -1770,7 +1713,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 75,
-   "rank": 53
+   "rank": 51
   },
   {
    "name": "edict",
@@ -1779,7 +1722,7 @@
    "url": "https://github.com/cft0808/edict",
    "owner": "cft0808",
    "owner_avatar": "https://avatars.githubusercontent.com/u/41196455?v=4",
-   "stars": 16272,
+   "stars": 16275,
    "forks": 1710,
    "open_issues": 32,
    "language": "Python",
@@ -1804,7 +1747,7 @@
    ],
    "category": "Multi-Agent",
    "momentum": 75,
-   "rank": 54
+   "rank": 52
   },
   {
    "name": "eigent",
@@ -1813,12 +1756,12 @@
    "url": "https://github.com/eigent-ai/eigent",
    "owner": "eigent-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/163795819?v=4",
-   "stars": 14652,
-   "forks": 1736,
+   "stars": 14663,
+   "forks": 1739,
    "open_issues": 208,
    "language": "TypeScript",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-24T20:13:12Z",
+   "pushed_at": "2026-07-25T15:51:57Z",
    "created_at": "2025-07-29T15:56:02Z",
    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
    "topics": [
@@ -1834,7 +1777,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 75,
-   "rank": 55
+   "rank": 53
   },
   {
    "name": "memU",
@@ -1843,12 +1786,12 @@
    "url": "https://github.com/NevaMind-AI/memU",
    "owner": "NevaMind-AI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/217726889?v=4",
-   "stars": 14058,
-   "forks": 1042,
-   "open_issues": 97,
+   "stars": 14062,
+   "forks": 1043,
+   "open_issues": 94,
    "language": "Python",
    "license": "NOASSERTION",
-   "pushed_at": "2026-07-25T07:36:34Z",
+   "pushed_at": "2026-07-26T09:27:03Z",
    "created_at": "2025-07-29T01:54:40Z",
    "description": "Personal memory across agents",
    "topics": [
@@ -1865,7 +1808,7 @@
    ],
    "category": "Memory & State",
    "momentum": 75,
-   "rank": 56
+   "rank": 54
   },
   {
    "name": "GenericAgent",
@@ -1874,12 +1817,12 @@
    "url": "https://github.com/lsdefine/GenericAgent",
    "owner": "lsdefine",
    "owner_avatar": "https://avatars.githubusercontent.com/u/3377819?v=4",
-   "stars": 13564,
-   "forks": 1576,
-   "open_issues": 166,
+   "stars": 13574,
+   "forks": 1577,
+   "open_issues": 167,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-07-25T05:39:41Z",
+   "pushed_at": "2026-07-25T13:46:07Z",
    "created_at": "2026-01-16T15:45:24Z",
    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
    "topics": [
@@ -1901,7 +1844,34 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 75,
-   "rank": 57
+   "rank": 55
+  },
+  {
+   "name": "hermes-desktop",
+   "full_name": "fathah/hermes-desktop",
+   "slug": "fathah-hermes-desktop",
+   "url": "https://github.com/fathah/hermes-desktop",
+   "owner": "fathah",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/48355244?v=4",
+   "stars": 13568,
+   "forks": 1545,
+   "open_issues": 371,
+   "language": "TypeScript",
+   "license": "MIT",
+   "pushed_at": "2026-07-24T16:20:39Z",
+   "created_at": "2026-04-02T15:26:49Z",
+   "description": "Desktop Companion for Hermes Agent",
+   "topics": [
+    "ai",
+    "ai-agent",
+    "autonomous-agents",
+    "chatbot",
+    "hermes",
+    "llm"
+   ],
+   "category": "Agent Frameworks",
+   "momentum": 75,
+   "rank": 56
   },
   {
    "name": "waoowaoo",
@@ -1910,12 +1880,12 @@
    "url": "https://github.com/waooAI/waoowaoo",
    "owner": "waooAI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/264387079?v=4",
-   "stars": 13358,
-   "forks": 2978,
+   "stars": 13370,
+   "forks": 2981,
    "open_issues": 141,
    "language": "TypeScript",
    "license": "NOASSERTION",
-   "pushed_at": "2026-07-24T18:54:29Z",
+   "pushed_at": "2026-07-26T11:37:24Z",
    "created_at": "2026-01-22T12:09:36Z",
    "description": "首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.",
    "topics": [
@@ -1930,7 +1900,7 @@
    ],
    "category": "Orchestration",
    "momentum": 75,
-   "rank": 58
+   "rank": 57
   },
   {
    "name": "E2B",
@@ -1939,8 +1909,8 @@
    "url": "https://github.com/e2b-dev/E2B",
    "owner": "e2b-dev",
    "owner_avatar": "https://avatars.githubusercontent.com/u/129434473?v=4",
-   "stars": 13098,
-   "forks": 972,
+   "stars": 13107,
+   "forks": 973,
    "open_issues": 62,
    "language": "Python",
    "license": "Apache-2.0",
@@ -1969,38 +1939,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 75,
-   "rank": 59
-  },
-  {
-   "name": "agent-framework",
-   "full_name": "microsoft/agent-framework",
-   "slug": "microsoft-agent-framework",
-   "url": "https://github.com/microsoft/agent-framework",
-   "owner": "microsoft",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/6154722?v=4",
-   "stars": 12386,
-   "forks": 2080,
-   "open_issues": 650,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-07-24T23:02:23Z",
-   "created_at": "2025-04-28T19:40:42Z",
-   "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
-   "topics": [
-    "agent-framework",
-    "agentic-ai",
-    "agents",
-    "ai",
-    "dotnet",
-    "multi-agent",
-    "orchestration",
-    "python",
-    "sdk",
-    "workflows"
-   ],
-   "category": "Multi-Agent",
-   "momentum": 75,
-   "rank": 60
+   "rank": 58
   },
   {
    "name": "hermes-studio",
@@ -2009,12 +1948,12 @@
    "url": "https://github.com/EKKOLearnAI/hermes-studio",
    "owner": "EKKOLearnAI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/152005280?v=4",
-   "stars": 9477,
-   "forks": 1160,
-   "open_issues": 137,
+   "stars": 9496,
+   "forks": 1161,
+   "open_issues": 139,
    "language": "TypeScript",
    "license": "NOASSERTION",
-   "pushed_at": "2026-07-25T08:01:57Z",
+   "pushed_at": "2026-07-26T09:30:24Z",
    "created_at": "2026-04-11T07:38:18Z",
    "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics",
    "topics": [
@@ -2035,7 +1974,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 75,
-   "rank": 61
+   "rank": 59
   },
   {
    "name": "parlant",
@@ -2044,9 +1983,9 @@
    "url": "https://github.com/emcie-co/parlant",
    "owner": "emcie-co",
    "owner_avatar": "https://avatars.githubusercontent.com/u/160175171?v=4",
-   "stars": 18177,
-   "forks": 1537,
-   "open_issues": 40,
+   "stars": 18179,
+   "forks": 1540,
+   "open_issues": 42,
    "language": "Python",
    "license": "Apache-2.0",
    "pushed_at": "2026-07-12T19:40:55Z",
@@ -2067,7 +2006,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 74,
-   "rank": 62
+   "rank": 60
   },
   {
    "name": "DeepCode",
@@ -2076,9 +2015,9 @@
    "url": "https://github.com/HKUDS/DeepCode",
    "owner": "HKUDS",
    "owner_avatar": "https://avatars.githubusercontent.com/u/118165258?v=4",
-   "stars": 16086,
+   "stars": 16089,
    "forks": 2109,
-   "open_issues": 53,
+   "open_issues": 54,
    "language": "Python",
    "license": "MIT",
    "pushed_at": "2026-07-17T10:32:20Z",
@@ -2090,7 +2029,38 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 74,
-   "rank": 63
+   "rank": 61
+  },
+  {
+   "name": "agent-framework",
+   "full_name": "microsoft/agent-framework",
+   "slug": "microsoft-agent-framework",
+   "url": "https://github.com/microsoft/agent-framework",
+   "owner": "microsoft",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/6154722?v=4",
+   "stars": 12396,
+   "forks": 2084,
+   "open_issues": 655,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-07-24T23:02:23Z",
+   "created_at": "2025-04-28T19:40:42Z",
+   "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
+   "topics": [
+    "agent-framework",
+    "agentic-ai",
+    "agents",
+    "ai",
+    "dotnet",
+    "multi-agent",
+    "orchestration",
+    "python",
+    "sdk",
+    "workflows"
+   ],
+   "category": "Multi-Agent",
+   "momentum": 74,
+   "rank": 62
   },
   {
    "name": "OpenSandbox",
@@ -2099,8 +2069,8 @@
    "url": "https://github.com/opensandbox-group/OpenSandbox",
    "owner": "opensandbox-group",
    "owner_avatar": "https://avatars.githubusercontent.com/u/290567599?v=4",
-   "stars": 12163,
-   "forks": 1017,
+   "stars": 12169,
+   "forks": 1016,
    "open_issues": 130,
    "language": "Python",
    "license": "Apache-2.0",
@@ -2116,7 +2086,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 74,
-   "rank": 64
+   "rank": 63
   },
   {
    "name": "EverOS",
@@ -2125,12 +2095,12 @@
    "url": "https://github.com/EverMind-AI/EverOS",
    "owner": "EverMind-AI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/229275294?v=4",
-   "stars": 11514,
+   "stars": 11550,
    "forks": 869,
    "open_issues": 61,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-24T10:18:32Z",
+   "pushed_at": "2026-07-26T06:34:14Z",
    "created_at": "2025-10-28T15:09:32Z",
    "description": "One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.",
    "topics": [
@@ -2151,6 +2121,39 @@
    ],
    "category": "Memory & State",
    "momentum": 74,
+   "rank": 64
+  },
+  {
+   "name": "jcode",
+   "full_name": "1jehuang/jcode",
+   "slug": "1jehuang-jcode",
+   "url": "https://github.com/1jehuang/jcode",
+   "owner": "1jehuang",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/94247773?v=4",
+   "stars": 11549,
+   "forks": 1276,
+   "open_issues": 138,
+   "language": "Rust",
+   "license": "MIT",
+   "pushed_at": "2026-07-26T08:20:48Z",
+   "created_at": "2026-01-05T09:43:36Z",
+   "description": "The most intelligent agent harness for code",
+   "topics": [
+    "ai",
+    "ai-agent",
+    "ai-coding-agent",
+    "claude",
+    "cli",
+    "coding-agent",
+    "llm",
+    "mcp",
+    "openai",
+    "rust",
+    "terminal",
+    "tui"
+   ],
+   "category": "Agent Frameworks",
+   "momentum": 74,
    "rank": 65
   },
   {
@@ -2160,12 +2163,12 @@
    "url": "https://github.com/livekit/agents",
    "owner": "livekit",
    "owner_avatar": "https://avatars.githubusercontent.com/u/69438833?v=4",
-   "stars": 11498,
-   "forks": 3379,
-   "open_issues": 694,
+   "stars": 11506,
+   "forks": 3383,
+   "open_issues": 695,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-25T02:06:00Z",
+   "pushed_at": "2026-07-25T17:51:04Z",
    "created_at": "2023-10-19T23:00:55Z",
    "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
    "topics": [
@@ -2187,12 +2190,12 @@
    "url": "https://github.com/getpaseo/paseo",
    "owner": "getpaseo",
    "owner_avatar": "https://avatars.githubusercontent.com/u/259503569?v=4",
-   "stars": 11356,
-   "forks": 1123,
-   "open_issues": 857,
+   "stars": 11410,
+   "forks": 1131,
+   "open_issues": 871,
    "language": "TypeScript",
    "license": "NOASSERTION",
-   "pushed_at": "2026-07-24T20:29:28Z",
+   "pushed_at": "2026-07-26T08:10:46Z",
    "created_at": "2025-10-13T12:27:02Z",
    "description": "Orchestrate multiple coding agents from desktop and mobile",
    "topics": [
@@ -2217,51 +2220,18 @@
    "rank": 67
   },
   {
-   "name": "jcode",
-   "full_name": "1jehuang/jcode",
-   "slug": "1jehuang-jcode",
-   "url": "https://github.com/1jehuang/jcode",
-   "owner": "1jehuang",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/94247773?v=4",
-   "stars": 11321,
-   "forks": 1239,
-   "open_issues": 131,
-   "language": "Rust",
-   "license": "MIT",
-   "pushed_at": "2026-07-25T08:29:37Z",
-   "created_at": "2026-01-05T09:43:36Z",
-   "description": "The most intelligent agent harness for code",
-   "topics": [
-    "ai",
-    "ai-agent",
-    "ai-coding-agent",
-    "claude",
-    "cli",
-    "coding-agent",
-    "llm",
-    "mcp",
-    "openai",
-    "rust",
-    "terminal",
-    "tui"
-   ],
-   "category": "Agent Frameworks",
-   "momentum": 74,
-   "rank": 68
-  },
-  {
    "name": "ART",
    "full_name": "OpenPipe/ART",
    "slug": "openpipe-art",
    "url": "https://github.com/OpenPipe/ART",
    "owner": "OpenPipe",
    "owner_avatar": "https://avatars.githubusercontent.com/u/139012218?v=4",
-   "stars": 10529,
-   "forks": 964,
+   "stars": 10532,
+   "forks": 966,
    "open_issues": 122,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-25T05:18:06Z",
+   "pushed_at": "2026-07-25T20:05:17Z",
    "created_at": "2025-03-10T18:25:47Z",
    "description": "Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen3.6, GPT-OSS, Llama, and more!",
    "topics": [
@@ -2277,7 +2247,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 74,
-   "rank": 69
+   "rank": 68
   },
   {
    "name": "spring-ai-alibaba",
@@ -2286,8 +2256,8 @@
    "url": "https://github.com/alibaba/spring-ai-alibaba",
    "owner": "alibaba",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1961952?v=4",
-   "stars": 10435,
-   "forks": 2321,
+   "stars": 10438,
+   "forks": 2323,
    "open_issues": 183,
    "language": "Java",
    "license": "Apache-2.0",
@@ -2307,7 +2277,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 74,
-   "rank": 70
+   "rank": 69
   },
   {
    "name": "MemOS",
@@ -2316,9 +2286,9 @@
    "url": "https://github.com/MemTensor/MemOS",
    "owner": "MemTensor",
    "owner_avatar": "https://avatars.githubusercontent.com/u/210160027?v=4",
-   "stars": 10369,
-   "forks": 945,
-   "open_issues": 82,
+   "stars": 10382,
+   "forks": 946,
+   "open_issues": 84,
    "language": "TypeScript",
    "license": "Apache-2.0",
    "pushed_at": "2026-07-25T08:06:48Z",
@@ -2348,7 +2318,7 @@
    ],
    "category": "Memory & State",
    "momentum": 74,
-   "rank": 71
+   "rank": 70
   },
   {
    "name": "mcp-use",
@@ -2357,12 +2327,12 @@
    "url": "https://github.com/mcp-use/mcp-use",
    "owner": "mcp-use",
    "owner_avatar": "https://avatars.githubusercontent.com/u/207005519?v=4",
-   "stars": 10351,
-   "forks": 1378,
+   "stars": 10372,
+   "forks": 1379,
    "open_issues": 122,
    "language": "TypeScript",
    "license": "MIT",
-   "pushed_at": "2026-07-25T01:20:15Z",
+   "pushed_at": "2026-07-25T23:25:39Z",
    "created_at": "2025-03-28T10:06:31Z",
    "description": "The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.",
    "topics": [
@@ -2389,7 +2359,124 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 74,
+   "rank": 71
+  },
+  {
+   "name": "TencentDB-Agent-Memory",
+   "full_name": "TencentCloud/TencentDB-Agent-Memory",
+   "slug": "tencentcloud-tencentdb-agent-memory",
+   "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+   "owner": "TencentCloud",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/20101770?v=4",
+   "stars": 9284,
+   "forks": 884,
+   "open_issues": 345,
+   "language": "TypeScript",
+   "license": "NOASSERTION",
+   "pushed_at": "2026-07-24T08:44:55Z",
+   "created_at": "2026-04-07T06:34:26Z",
+   "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+   "topics": [
+    "agent",
+    "ai-agent",
+    "embedding",
+    "llm",
+    "local-first",
+    "long-term-memory",
+    "memory",
+    "openclaw-plugin",
+    "vector-search"
+   ],
+   "category": "Memory & State",
+   "momentum": 74,
    "rank": 72
+  },
+  {
+   "name": "PentestGPT",
+   "full_name": "GreyDGL/PentestGPT",
+   "slug": "greydgl-pentestgpt",
+   "url": "https://github.com/GreyDGL/PentestGPT",
+   "owner": "GreyDGL",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/78410652?v=4",
+   "stars": 14513,
+   "forks": 2526,
+   "open_issues": 71,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-07-14T12:58:31Z",
+   "created_at": "2023-02-27T06:01:53Z",
+   "description": "Automated Penetration Testing Agentic Framework Powered by Large Language Models",
+   "topics": [
+    "large-language-models",
+    "llm",
+    "penetration-testing",
+    "python"
+   ],
+   "category": "Agent Frameworks",
+   "momentum": 73,
+   "rank": 73
+  },
+  {
+   "name": "AutoResearchClaw",
+   "full_name": "aiming-lab/AutoResearchClaw",
+   "slug": "aiming-lab-autoresearchclaw",
+   "url": "https://github.com/aiming-lab/AutoResearchClaw",
+   "owner": "aiming-lab",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/186755503?v=4",
+   "stars": 13888,
+   "forks": 1629,
+   "open_issues": 7,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-07-13T08:57:26Z",
+   "created_at": "2026-03-15T03:38:49Z",
+   "description": "Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
+   "topics": [
+    "autonomous-research",
+    "citation-verification",
+    "llm-agents",
+    "metaclaw",
+    "multi-agent-debate",
+    "openclaw",
+    "paper-generation",
+    "scientific-discovery",
+    "self-evolving"
+   ],
+   "category": "Autonomous Agents",
+   "momentum": 73,
+   "rank": 74
+  },
+  {
+   "name": "magentic-ui",
+   "full_name": "microsoft/magentic-ui",
+   "slug": "microsoft-magentic-ui",
+   "url": "https://github.com/microsoft/magentic-ui",
+   "owner": "microsoft",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/6154722?v=4",
+   "stars": 9992,
+   "forks": 1008,
+   "open_issues": 9,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-07-23T18:10:57Z",
+   "created_at": "2025-05-05T20:24:30Z",
+   "description": "MagenticLite is an experimental agent that works across the browser and local file system",
+   "topics": [
+    "agents",
+    "ai",
+    "ai-ux",
+    "autogen",
+    "browser-use",
+    "computer-use-agent",
+    "cua",
+    "fara",
+    "magenticbrain",
+    "magenticlite",
+    "ui"
+   ],
+   "category": "Agent Frameworks",
+   "momentum": 73,
+   "rank": 75
   },
   {
    "name": "pyod",
@@ -2398,7 +2485,7 @@
    "url": "https://github.com/yzhao062/pyod",
    "owner": "yzhao062",
    "owner_avatar": "https://avatars.githubusercontent.com/u/15079146?v=4",
-   "stars": 9929,
+   "stars": 9932,
    "forks": 1482,
    "open_issues": 226,
    "language": "Python",
@@ -2428,125 +2515,8 @@
     "unsupervised-learning"
    ],
    "category": "Orchestration",
-   "momentum": 74,
-   "rank": 73
-  },
-  {
-   "name": "TencentDB-Agent-Memory",
-   "full_name": "TencentCloud/TencentDB-Agent-Memory",
-   "slug": "tencentcloud-tencentdb-agent-memory",
-   "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-   "owner": "TencentCloud",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/20101770?v=4",
-   "stars": 9276,
-   "forks": 883,
-   "open_issues": 343,
-   "language": "TypeScript",
-   "license": "NOASSERTION",
-   "pushed_at": "2026-07-24T08:44:55Z",
-   "created_at": "2026-04-07T06:34:26Z",
-   "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
-   "topics": [
-    "agent",
-    "ai-agent",
-    "embedding",
-    "llm",
-    "local-first",
-    "long-term-memory",
-    "memory",
-    "openclaw-plugin",
-    "vector-search"
-   ],
-   "category": "Memory & State",
-   "momentum": 74,
-   "rank": 74
-  },
-  {
-   "name": "PentestGPT",
-   "full_name": "GreyDGL/PentestGPT",
-   "slug": "greydgl-pentestgpt",
-   "url": "https://github.com/GreyDGL/PentestGPT",
-   "owner": "GreyDGL",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/78410652?v=4",
-   "stars": 14489,
-   "forks": 2524,
-   "open_issues": 70,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-07-14T12:58:31Z",
-   "created_at": "2023-02-27T06:01:53Z",
-   "description": "Automated Penetration Testing Agentic Framework Powered by Large Language Models",
-   "topics": [
-    "large-language-models",
-    "llm",
-    "penetration-testing",
-    "python"
-   ],
-   "category": "Agent Frameworks",
-   "momentum": 73,
-   "rank": 75
-  },
-  {
-   "name": "AutoResearchClaw",
-   "full_name": "aiming-lab/AutoResearchClaw",
-   "slug": "aiming-lab-autoresearchclaw",
-   "url": "https://github.com/aiming-lab/AutoResearchClaw",
-   "owner": "aiming-lab",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/186755503?v=4",
-   "stars": 13876,
-   "forks": 1628,
-   "open_issues": 7,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-07-13T08:57:26Z",
-   "created_at": "2026-03-15T03:38:49Z",
-   "description": "Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
-   "topics": [
-    "autonomous-research",
-    "citation-verification",
-    "llm-agents",
-    "metaclaw",
-    "multi-agent-debate",
-    "openclaw",
-    "paper-generation",
-    "scientific-discovery",
-    "self-evolving"
-   ],
-   "category": "Autonomous Agents",
    "momentum": 73,
    "rank": 76
-  },
-  {
-   "name": "magentic-ui",
-   "full_name": "microsoft/magentic-ui",
-   "slug": "microsoft-magentic-ui",
-   "url": "https://github.com/microsoft/magentic-ui",
-   "owner": "microsoft",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/6154722?v=4",
-   "stars": 9987,
-   "forks": 1006,
-   "open_issues": 9,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-07-23T18:10:57Z",
-   "created_at": "2025-05-05T20:24:30Z",
-   "description": "MagenticLite is an experimental agent that works across the browser and local file system",
-   "topics": [
-    "agents",
-    "ai",
-    "ai-ux",
-    "autogen",
-    "browser-use",
-    "computer-use-agent",
-    "cua",
-    "fara",
-    "magenticbrain",
-    "magenticlite",
-    "ui"
-   ],
-   "category": "Agent Frameworks",
-   "momentum": 73,
-   "rank": 77
   },
   {
    "name": "astron-agent",
@@ -2555,7 +2525,7 @@
    "url": "https://github.com/iflytek/astron-agent",
    "owner": "iflytek",
    "owner_avatar": "https://avatars.githubusercontent.com/u/26786495?v=4",
-   "stars": 9389,
+   "stars": 9390,
    "forks": 874,
    "open_issues": 45,
    "language": "Java",
@@ -2586,7 +2556,7 @@
    ],
    "category": "Orchestration",
    "momentum": 73,
-   "rank": 78
+   "rank": 77
   },
   {
    "name": "presenton",
@@ -2595,8 +2565,8 @@
    "url": "https://github.com/presenton/presenton",
    "owner": "presenton",
    "owner_avatar": "https://avatars.githubusercontent.com/u/210876119?v=4",
-   "stars": 9173,
-   "forks": 1433,
+   "stars": 9178,
+   "forks": 1436,
    "open_issues": 33,
    "language": "TypeScript",
    "license": "Apache-2.0",
@@ -2615,7 +2585,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 73,
-   "rank": 79
+   "rank": 78
   },
   {
    "name": "evolver",
@@ -2624,7 +2594,7 @@
    "url": "https://github.com/EvoMap/evolver",
    "owner": "EvoMap",
    "owner_avatar": "https://avatars.githubusercontent.com/u/263044117?v=4",
-   "stars": 8876,
+   "stars": 8880,
    "forks": 823,
    "open_issues": 8,
    "language": "JavaScript",
@@ -2656,7 +2626,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 73,
-   "rank": 80
+   "rank": 79
   },
   {
    "name": "agent-orchestrator",
@@ -2665,12 +2635,12 @@
    "url": "https://github.com/AgentWrapper/agent-orchestrator",
    "owner": "AgentWrapper",
    "owner_avatar": "https://avatars.githubusercontent.com/u/11289825?v=4",
-   "stars": 8563,
-   "forks": 1240,
-   "open_issues": 435,
+   "stars": 8582,
+   "forks": 1244,
+   "open_issues": 441,
    "language": "Go",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-25T10:28:42Z",
+   "pushed_at": "2026-07-26T11:37:03Z",
    "created_at": "2026-02-13T09:52:36Z",
    "description": "Agent IDE that enables you to manage fleets of coding agents. It comes with an agentic orchestrator that plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts, and code reviews.",
    "topics": [
@@ -2689,7 +2659,7 @@
    ],
    "category": "Orchestration",
    "momentum": 73,
-   "rank": 81
+   "rank": 80
   },
   {
    "name": "PraisonAI",
@@ -2698,12 +2668,12 @@
    "url": "https://github.com/MervinPraison/PraisonAI",
    "owner": "MervinPraison",
    "owner_avatar": "https://avatars.githubusercontent.com/u/454862?v=4",
-   "stars": 8512,
-   "forks": 1331,
-   "open_issues": 57,
+   "stars": 8516,
+   "forks": 1333,
+   "open_issues": 63,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-07-25T10:56:19Z",
+   "pushed_at": "2026-07-26T11:36:50Z",
    "created_at": "2024-03-19T16:45:25Z",
    "description": "PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with built-in memory, RAG, and support for 100+ LLMs.",
    "topics": [
@@ -2730,6 +2700,47 @@
    ],
    "category": "Memory & State",
    "momentum": 73,
+   "rank": 81
+  },
+  {
+   "name": "lamda",
+   "full_name": "firerpa/lamda",
+   "slug": "firerpa-lamda",
+   "url": "https://github.com/firerpa/lamda",
+   "owner": "firerpa",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/176481157?v=4",
+   "stars": 7958,
+   "forks": 1056,
+   "open_issues": 46,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-07-26T10:36:18Z",
+   "created_at": "2022-07-10T03:20:56Z",
+   "description": "Android Full-Stack Device Control Platform: WebRTC/H.264 remote desktop, UI/OCR/image-matching automation, one-click MITM, built-in Frida, proxy/VPN/frp/P2P networking, MCP/Agent, 160+ APIs, designed for multi-device clusters and engineered deployments.",
+   "topics": [
+    "adb",
+    "agents",
+    "ai",
+    "android",
+    "appium",
+    "automation",
+    "dynamic-analysis",
+    "frida",
+    "magisk",
+    "mcp",
+    "mcp-server",
+    "mobile-security",
+    "pentesting",
+    "remote-control",
+    "reverse-engineering",
+    "security",
+    "uiautomation",
+    "uiautomator2",
+    "workflow",
+    "xposed"
+   ],
+   "category": "Agent Frameworks",
+   "momentum": 73,
    "rank": 82
   },
   {
@@ -2740,11 +2751,11 @@
    "owner": "strukto-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/248286111?v=4",
    "stars": 3357,
-   "forks": 243,
-   "open_issues": 133,
+   "forks": 244,
+   "open_issues": 129,
    "language": "TypeScript",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-25T06:12:22Z",
+   "pushed_at": "2026-07-26T10:55:18Z",
    "created_at": "2026-05-06T17:00:48Z",
    "description": "The World's First Unified Virtual Filesystem For AI Agents",
    "topics": [
@@ -2767,13 +2778,46 @@
    "rank": 83
   },
   {
+   "name": "TradingAgents-astock",
+   "full_name": "simonlin1212/TradingAgents-astock",
+   "slug": "simonlin1212-tradingagents-astock",
+   "url": "https://github.com/simonlin1212/TradingAgents-astock",
+   "owner": "simonlin1212",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/166034225?v=4",
+   "stars": 2618,
+   "forks": 697,
+   "open_issues": 10,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-07-26T08:37:20Z",
+   "created_at": "2026-05-13T00:22:30Z",
+   "description": "A股多Agent投研框架 — 适配A股数据源(龙虎榜/游资/解禁等)，7位分析师基于A股规则的辩论决策，基于TradingAgents深度改造，适配大A。A-share multi-agent investment research framework — 7 AI analysts, bull/bear debate, risk assessment。",
+   "topics": [
+    "a-share",
+    "ai-agent",
+    "china-stocks",
+    "claude",
+    "fintech",
+    "investment-research",
+    "langgraph",
+    "llm",
+    "multi-agent",
+    "python",
+    "quantitative-finance",
+    "trading-agents"
+   ],
+   "category": "Multi-Agent",
+   "momentum": 73,
+   "rank": 84
+  },
+  {
    "name": "openfang",
    "full_name": "RightNow-AI/openfang",
    "slug": "rightnow-ai-openfang",
    "url": "https://github.com/RightNow-AI/openfang",
    "owner": "RightNow-AI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/226207176?v=4",
-   "stars": 18053,
+   "stars": 18061,
    "forks": 2281,
    "open_issues": 112,
    "language": "Rust",
@@ -2793,7 +2837,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 72,
-   "rank": 84
+   "rank": 85
   },
   {
    "name": "voltagent",
@@ -2802,8 +2846,8 @@
    "url": "https://github.com/VoltAgent/voltagent",
    "owner": "VoltAgent",
    "owner_avatar": "https://avatars.githubusercontent.com/u/201282378?v=4",
-   "stars": 10144,
-   "forks": 1056,
+   "stars": 10163,
+   "forks": 1060,
    "open_issues": 74,
    "language": "TypeScript",
    "license": "MIT",
@@ -2834,7 +2878,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 72,
-   "rank": 85
+   "rank": 86
   },
   {
    "name": "xiaobei",
@@ -2843,7 +2887,7 @@
    "url": "https://github.com/TeamWiseFlow/xiaobei",
    "owner": "TeamWiseFlow",
    "owner_avatar": "https://avatars.githubusercontent.com/u/167423252?v=4",
-   "stars": 8349,
+   "stars": 8350,
    "forks": 1418,
    "open_issues": 0,
    "language": "Python",
@@ -2862,7 +2906,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 72,
-   "rank": 86
+   "rank": 87
   },
   {
    "name": "camofox-browser",
@@ -2871,9 +2915,9 @@
    "url": "https://github.com/jo-inc/camofox-browser",
    "owner": "jo-inc",
    "owner_avatar": "https://avatars.githubusercontent.com/u/226147249?v=4",
-   "stars": 8045,
-   "forks": 842,
-   "open_issues": 53,
+   "stars": 8076,
+   "forks": 847,
+   "open_issues": 57,
    "language": "JavaScript",
    "license": "MIT",
    "pushed_at": "2026-07-20T16:38:50Z",
@@ -2898,7 +2942,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 72,
-   "rank": 87
+   "rank": 88
   },
   {
    "name": "Bindu",
@@ -2907,8 +2951,8 @@
    "url": "https://github.com/GetBindu/Bindu",
    "owner": "GetBindu",
    "owner_avatar": "https://avatars.githubusercontent.com/u/234059020?v=4",
-   "stars": 7878,
-   "forks": 423,
+   "stars": 7883,
+   "forks": 424,
    "open_issues": 150,
    "language": "Python",
    "license": "NOASSERTION",
@@ -2926,7 +2970,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 72,
-   "rank": 88
+   "rank": 89
   },
   {
    "name": "agent-squad",
@@ -2935,7 +2979,7 @@
    "url": "https://github.com/2FastLabs/agent-squad",
    "owner": "2FastLabs",
    "owner_avatar": "https://avatars.githubusercontent.com/u/215317808?v=4",
-   "stars": 7721,
+   "stars": 7722,
    "forks": 732,
    "open_issues": 67,
    "language": "Swift",
@@ -2967,7 +3011,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 72,
-   "rank": 89
+   "rank": 90
   },
   {
    "name": "yao",
@@ -3008,7 +3052,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 72,
-   "rank": 90
+   "rank": 91
   },
   {
    "name": "ClawX",
@@ -3037,7 +3081,7 @@
    ],
    "category": "Orchestration",
    "momentum": 72,
-   "rank": 91
+   "rank": 92
   },
   {
    "name": "flue",
@@ -3046,8 +3090,8 @@
    "url": "https://github.com/withastro/flue",
    "owner": "withastro",
    "owner_avatar": "https://avatars.githubusercontent.com/u/44914786?v=4",
-   "stars": 7447,
-   "forks": 441,
+   "stars": 7460,
+   "forks": 442,
    "open_issues": 1,
    "language": "TypeScript",
    "license": "Apache-2.0",
@@ -3057,7 +3101,7 @@
    "topics": [],
    "category": "Agent Frameworks",
    "momentum": 72,
-   "rank": 92
+   "rank": 93
   },
   {
    "name": "steel-browser",
@@ -3066,8 +3110,8 @@
    "url": "https://github.com/steel-dev/steel-browser",
    "owner": "steel-dev",
    "owner_avatar": "https://avatars.githubusercontent.com/u/183960033?v=4",
-   "stars": 7380,
-   "forks": 951,
+   "stars": 7384,
+   "forks": 953,
    "open_issues": 46,
    "language": "TypeScript",
    "license": "Apache-2.0",
@@ -3083,7 +3127,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 72,
-   "rank": 93
+   "rank": 94
   },
   {
    "name": "oh-my-opencode-slim",
@@ -3092,8 +3136,8 @@
    "url": "https://github.com/alvinunreal/oh-my-opencode-slim",
    "owner": "alvinunreal",
    "owner_avatar": "https://avatars.githubusercontent.com/u/204474669?v=4",
-   "stars": 7323,
-   "forks": 446,
+   "stars": 7355,
+   "forks": 447,
    "open_issues": 40,
    "language": "TypeScript",
    "license": "MIT",
@@ -3110,7 +3154,7 @@
    ],
    "category": "Multi-Agent",
    "momentum": 72,
-   "rank": 94
+   "rank": 95
   },
   {
    "name": "flyte",
@@ -3119,8 +3163,8 @@
    "url": "https://github.com/flyteorg/flyte",
    "owner": "flyteorg",
    "owner_avatar": "https://avatars.githubusercontent.com/u/35380635?v=4",
-   "stars": 7149,
-   "forks": 855,
+   "stars": 7148,
+   "forks": 854,
    "open_issues": 196,
    "language": "Go",
    "license": "Apache-2.0",
@@ -3151,7 +3195,7 @@
    ],
    "category": "Orchestration",
    "momentum": 72,
-   "rank": 95
+   "rank": 96
   },
   {
    "name": "swarms",
@@ -3160,9 +3204,9 @@
    "url": "https://github.com/kyegomez/swarms",
    "owner": "kyegomez",
    "owner_avatar": "https://avatars.githubusercontent.com/u/98760976?v=4",
-   "stars": 6987,
-   "forks": 970,
-   "open_issues": 55,
+   "stars": 6990,
+   "forks": 971,
+   "open_issues": 56,
    "language": "Python",
    "license": "Apache-2.0",
    "pushed_at": "2026-07-23T20:52:02Z",
@@ -3190,7 +3234,7 @@
    ],
    "category": "Multi-Agent",
    "momentum": 72,
-   "rank": 96
+   "rank": 97
   },
   {
    "name": "stagewise",
@@ -3199,12 +3243,12 @@
    "url": "https://github.com/stagewise-io/stagewise",
    "owner": "stagewise-io",
    "owner_avatar": "https://avatars.githubusercontent.com/u/209243254?v=4",
-   "stars": 6756,
+   "stars": 6757,
    "forks": 502,
    "open_issues": 46,
    "language": "TypeScript",
    "license": "AGPL-3.0",
-   "pushed_at": "2026-07-25T11:32:23Z",
+   "pushed_at": "2026-07-25T21:03:53Z",
    "created_at": "2025-04-26T12:43:16Z",
    "description": "The Open Source Agentic IDE. Create and orchestrate coding agents, show app previews and run git workflows. Use your favorite models across all providers.",
    "topics": [
@@ -3214,7 +3258,7 @@
    ],
    "category": "Orchestration",
    "momentum": 72,
-   "rank": 97
+   "rank": 98
   },
   {
    "name": "harness-sdk",
@@ -3223,9 +3267,9 @@
    "url": "https://github.com/strands-agents/harness-sdk",
    "owner": "strands-agents",
    "owner_avatar": "https://avatars.githubusercontent.com/u/209155962?v=4",
-   "stars": 6691,
-   "forks": 990,
-   "open_issues": 604,
+   "stars": 6696,
+   "forks": 991,
+   "open_issues": 607,
    "language": "Python",
    "license": "Apache-2.0",
    "pushed_at": "2026-07-24T21:53:43Z",
@@ -3255,7 +3299,7 @@
    ],
    "category": "Agent SDKs",
    "momentum": 72,
-   "rank": 98
+   "rank": 99
   },
   {
    "name": "ClawRouter",
@@ -3264,12 +3308,12 @@
    "url": "https://github.com/BlockRunAI/ClawRouter",
    "owner": "BlockRunAI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/250889376?v=4",
-   "stars": 6677,
+   "stars": 6682,
    "forks": 632,
-   "open_issues": 27,
+   "open_issues": 28,
    "language": "TypeScript",
    "license": "MIT",
-   "pushed_at": "2026-07-25T05:05:03Z",
+   "pushed_at": "2026-07-26T05:21:59Z",
    "created_at": "2026-02-03T17:32:00Z",
    "description": "The agent-native LLM router for autonomous agents. 55+ models (8 free), <1ms local routing, USDC payments on Base & Solana via x402.",
    "topics": [
@@ -3292,7 +3336,7 @@
    ],
    "category": "Autonomous Agents",
    "momentum": 72,
-   "rank": 99
+   "rank": 100
   },
   {
    "name": "open-multi-agent",
@@ -3301,12 +3345,12 @@
    "url": "https://github.com/open-multi-agent/open-multi-agent",
    "owner": "open-multi-agent",
    "owner_avatar": "https://avatars.githubusercontent.com/u/279300633?v=4",
-   "stars": 6656,
+   "stars": 6660,
    "forks": 2416,
-   "open_issues": 7,
+   "open_issues": 8,
    "language": "TypeScript",
    "license": "MIT",
-   "pushed_at": "2026-07-25T02:20:27Z",
+   "pushed_at": "2026-07-26T07:06:30Z",
    "created_at": "2026-03-31T19:07:34Z",
    "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plans the task DAG at runtime and runs it on any LLM (Claude, ChatGPT, Gemini, DeepSeek, or local models).",
    "topics": [
@@ -3333,39 +3377,6 @@
    ],
    "category": "Multi-Agent",
    "momentum": 72,
-   "rank": 100
-  },
-  {
-   "name": "TradingAgents-astock",
-   "full_name": "simonlin1212/TradingAgents-astock",
-   "slug": "simonlin1212-tradingagents-astock",
-   "url": "https://github.com/simonlin1212/TradingAgents-astock",
-   "owner": "simonlin1212",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/166034225?v=4",
-   "stars": 2601,
-   "forks": 692,
-   "open_issues": 13,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-07-24T07:54:26Z",
-   "created_at": "2026-05-13T00:22:30Z",
-   "description": "A股多Agent投研框架 — 适配A股数据源(龙虎榜/游资/解禁等)，7位分析师基于A股规则的辩论决策，基于TradingAgents深度改造，适配大A。A-share multi-agent investment research framework — 7 AI analysts, bull/bear debate, risk assessment。",
-   "topics": [
-    "a-share",
-    "ai-agent",
-    "china-stocks",
-    "claude",
-    "fintech",
-    "investment-research",
-    "langgraph",
-    "llm",
-    "multi-agent",
-    "python",
-    "quantitative-finance",
-    "trading-agents"
-   ],
-   "category": "Multi-Agent",
-   "momentum": 72,
    "rank": 101
   },
   {
@@ -3375,7 +3386,7 @@
    "url": "https://github.com/larlarua/AutoCVE",
    "owner": "larlarua",
    "owner_avatar": "https://avatars.githubusercontent.com/u/90000267?v=4",
-   "stars": 1153,
+   "stars": 1257,
    "forks": 89,
    "open_issues": 11,
    "language": "Python",
@@ -3410,7 +3421,7 @@
    "url": "https://github.com/wangrongding/wechat-bot",
    "owner": "wangrongding",
    "owner_avatar": "https://avatars.githubusercontent.com/u/42437658?v=4",
-   "stars": 11215,
+   "stars": 11218,
    "forks": 1273,
    "open_issues": 119,
    "language": "JavaScript",
@@ -3436,7 +3447,7 @@
    "url": "https://github.com/jeinlee1991/chinese-llm-benchmark",
    "owner": "jeinlee1991",
    "owner_avatar": "https://avatars.githubusercontent.com/u/46815718?v=4",
-   "stars": 6310,
+   "stars": 6312,
    "forks": 260,
    "open_issues": 16,
    "language": "",
@@ -3455,44 +3466,15 @@
    "rank": 104
   },
   {
-   "name": "CodePilot",
-   "full_name": "op7418/CodePilot",
-   "slug": "op7418-codepilot",
-   "url": "https://github.com/op7418/CodePilot",
-   "owner": "op7418",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/13505770?v=4",
-   "stars": 6193,
-   "forks": 665,
-   "open_issues": 405,
-   "language": "TypeScript",
-   "license": "NOASSERTION",
-   "pushed_at": "2026-07-22T06:11:08Z",
-   "created_at": "2026-02-06T12:38:55Z",
-   "description": "A multi-model AI agent desktop client — connect any AI provider, extend with MCP & skills, control from your phone. Built with Electron + Next.js.",
-   "topics": [
-    "ai",
-    "anthropic",
-    "claude",
-    "claude-code",
-    "desktop-app",
-    "electron",
-    "gui",
-    "nextjs"
-   ],
-   "category": "Agent Frameworks",
-   "momentum": 71,
-   "rank": 105
-  },
-  {
    "name": "honcho",
    "full_name": "plastic-labs/honcho",
    "slug": "plastic-labs-honcho",
    "url": "https://github.com/plastic-labs/honcho",
    "owner": "plastic-labs",
    "owner_avatar": "https://avatars.githubusercontent.com/u/123981229?v=4",
-   "stars": 6191,
-   "forks": 756,
-   "open_issues": 165,
+   "stars": 6217,
+   "forks": 758,
+   "open_issues": 166,
    "language": "Python",
    "license": "AGPL-3.0",
    "pushed_at": "2026-07-24T20:02:36Z",
@@ -3522,6 +3504,35 @@
    ],
    "category": "Memory & State",
    "momentum": 71,
+   "rank": 105
+  },
+  {
+   "name": "CodePilot",
+   "full_name": "op7418/CodePilot",
+   "slug": "op7418-codepilot",
+   "url": "https://github.com/op7418/CodePilot",
+   "owner": "op7418",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/13505770?v=4",
+   "stars": 6191,
+   "forks": 666,
+   "open_issues": 405,
+   "language": "TypeScript",
+   "license": "NOASSERTION",
+   "pushed_at": "2026-07-22T06:11:08Z",
+   "created_at": "2026-02-06T12:38:55Z",
+   "description": "A multi-model AI agent desktop client — connect any AI provider, extend with MCP & skills, control from your phone. Built with Electron + Next.js.",
+   "topics": [
+    "ai",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "desktop-app",
+    "electron",
+    "gui",
+    "nextjs"
+   ],
+   "category": "Agent Frameworks",
+   "momentum": 71,
    "rank": 106
   },
   {
@@ -3531,12 +3542,12 @@
    "url": "https://github.com/ModelEngine-Group/nexent",
    "owner": "ModelEngine-Group",
    "owner_avatar": "https://avatars.githubusercontent.com/u/200162819?v=4",
-   "stars": 5787,
-   "forks": 708,
-   "open_issues": 197,
+   "stars": 5789,
+   "forks": 707,
+   "open_issues": 196,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-07-25T10:57:02Z",
+   "pushed_at": "2026-07-26T11:35:05Z",
    "created_at": "2025-04-28T10:44:33Z",
    "description": "Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles — unified tools, skills, memory, and orchestration with built-in constraints, feedback loops, and control planes.",
    "topics": [
@@ -3564,12 +3575,12 @@
    "url": "https://github.com/rllm-org/rllm",
    "owner": "rllm-org",
    "owner_avatar": "https://avatars.githubusercontent.com/u/221438497?v=4",
-   "stars": 5730,
+   "stars": 5732,
    "forks": 594,
-   "open_issues": 132,
+   "open_issues": 131,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-25T09:20:01Z",
+   "pushed_at": "2026-07-26T02:02:30Z",
    "created_at": "2025-01-26T05:31:40Z",
    "description": "Democratizing Reinforcement Learning for LLMs",
    "topics": [
@@ -3599,12 +3610,12 @@
    "url": "https://github.com/netease-youdao/LobsterAI",
    "owner": "netease-youdao",
    "owner_avatar": "https://avatars.githubusercontent.com/u/3909232?v=4",
-   "stars": 5676,
-   "forks": 886,
+   "stars": 5683,
+   "forks": 889,
    "open_issues": 775,
    "language": "TypeScript",
    "license": "MIT",
-   "pushed_at": "2026-07-25T07:22:54Z",
+   "pushed_at": "2026-07-25T14:32:21Z",
    "created_at": "2026-02-12T09:56:20Z",
    "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
    "topics": [
@@ -3637,9 +3648,9 @@
    "url": "https://github.com/areal-project/AReaL",
    "owner": "areal-project",
    "owner_avatar": "https://avatars.githubusercontent.com/u/283073558?v=4",
-   "stars": 5600,
-   "forks": 568,
-   "open_issues": 109,
+   "stars": 5601,
+   "forks": 567,
+   "open_issues": 108,
    "language": "Python",
    "license": "Apache-2.0",
    "pushed_at": "2026-07-24T10:30:31Z",
@@ -3666,12 +3677,12 @@
    "url": "https://github.com/Mai-with-u/MaiBot",
    "owner": "Mai-with-u",
    "owner_avatar": "https://avatars.githubusercontent.com/u/241250930?v=4",
-   "stars": 5573,
-   "forks": 585,
-   "open_issues": 48,
+   "stars": 5581,
+   "forks": 587,
+   "open_issues": 50,
    "language": "Python",
    "license": "GPL-3.0",
-   "pushed_at": "2026-07-25T02:49:13Z",
+   "pushed_at": "2026-07-26T03:14:59Z",
    "created_at": "2025-02-25T16:05:07Z",
    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style of a real human. She does not pursue perfection, nor does she seek efficiency; instead, she values warmth, authenticity, and genuine connection.",
    "topics": [
@@ -3696,9 +3707,9 @@
    "url": "https://github.com/liliMozi/openhanako",
    "owner": "liliMozi",
    "owner_avatar": "https://avatars.githubusercontent.com/u/266472116?v=4",
-   "stars": 5523,
-   "forks": 502,
-   "open_issues": 783,
+   "stars": 5532,
+   "forks": 505,
+   "open_issues": 788,
    "language": "TypeScript",
    "license": "Apache-2.0",
    "pushed_at": "2026-07-24T09:20:15Z",
@@ -3718,10 +3729,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/261659312?v=4",
    "stars": 5425,
    "forks": 106,
-   "open_issues": 92,
+   "open_issues": 94,
    "language": "TypeScript",
    "license": "MIT",
-   "pushed_at": "2026-07-23T10:14:42Z",
+   "pushed_at": "2026-07-25T22:01:05Z",
    "created_at": "2026-01-27T12:05:07Z",
    "description": "The SDK for autonomous economic agents. Give an agent an identity, a wallet, and the ability to find, negotiate with, and settle with other agents - peer-to-peer, with perfect privacy and ultra-fast finality",
    "topics": [
@@ -3741,12 +3752,12 @@
    "url": "https://github.com/cloudflare/agents",
    "owner": "cloudflare",
    "owner_avatar": "https://avatars.githubusercontent.com/u/314135?v=4",
-   "stars": 5310,
+   "stars": 5313,
    "forks": 635,
-   "open_issues": 134,
+   "open_issues": 135,
    "language": "TypeScript",
    "license": "MIT",
-   "pushed_at": "2026-07-24T10:37:39Z",
+   "pushed_at": "2026-07-26T10:55:54Z",
    "created_at": "2025-01-29T23:14:04Z",
    "description": "Build and deploy AI Agents on Cloudflare",
    "topics": [
@@ -3767,12 +3778,12 @@
    "url": "https://github.com/agentscope-ai/AgentTeams",
    "owner": "agentscope-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/211762292?v=4",
-   "stars": 5169,
-   "forks": 613,
+   "stars": 5174,
+   "forks": 615,
    "open_issues": 270,
    "language": "Go",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-25T05:54:12Z",
+   "pushed_at": "2026-07-26T11:28:57Z",
    "created_at": "2026-02-21T14:07:55Z",
    "description": "An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms.",
    "topics": [
@@ -3790,12 +3801,12 @@
    "url": "https://github.com/microsoft/agent-governance-toolkit",
    "owner": "microsoft",
    "owner_avatar": "https://avatars.githubusercontent.com/u/6154722?v=4",
-   "stars": 4912,
-   "forks": 790,
-   "open_issues": 124,
+   "stars": 4918,
+   "forks": 812,
+   "open_issues": 125,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-07-25T10:55:01Z",
+   "pushed_at": "2026-07-26T08:52:42Z",
    "created_at": "2026-03-02T22:11:47Z",
    "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
    "topics": [
@@ -3823,8 +3834,8 @@
    "url": "https://github.com/google-antigravity/antigravity-sdk-python",
    "owner": "google-antigravity",
    "owner_avatar": "https://avatars.githubusercontent.com/u/242056456?v=4",
-   "stars": 2624,
-   "forks": 991,
+   "stars": 2647,
+   "forks": 998,
    "open_issues": 32,
    "language": "Python",
    "license": "Apache-2.0",
@@ -3853,8 +3864,8 @@
    "url": "https://github.com/OpenNSWM-Lab/FAROS",
    "owner": "OpenNSWM-Lab",
    "owner_avatar": "https://avatars.githubusercontent.com/u/284286314?v=4",
-   "stars": 2312,
-   "forks": 301,
+   "stars": 2385,
+   "forks": 310,
    "open_issues": 13,
    "language": "Python",
    "license": "",
@@ -3894,12 +3905,12 @@
    "url": "https://github.com/agentlas-ai/Agentlas-OS",
    "owner": "agentlas-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/291026769?v=4",
-   "stars": 1063,
-   "forks": 119,
+   "stars": 1109,
+   "forks": 120,
    "open_issues": 0,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-25T09:57:04Z",
+   "pushed_at": "2026-07-26T09:51:07Z",
    "created_at": "2026-06-04T04:33:26Z",
    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
    "topics": [
@@ -3928,44 +3939,13 @@
    "rank": 119
   },
   {
-   "name": "MiroThinker",
-   "full_name": "MiroMindAI/MiroThinker",
-   "slug": "miromindai-mirothinker",
-   "url": "https://github.com/MiroMindAI/MiroThinker",
-   "owner": "MiroMindAI",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/209656584?v=4",
-   "stars": 8346,
-   "forks": 645,
-   "open_issues": 4,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-07-06T14:50:39Z",
-   "created_at": "2025-08-07T13:32:12Z",
-   "description": "MiroThinker is a deep research agent optimized for complex research and prediction tasks. Our latest models, MiroThinker-1.7, achieves 74.0 and 75.3 on the BrowseComp and BrowseComp Zh, respectively.",
-   "topics": [
-    "agent",
-    "agent-framework",
-    "browsecomp",
-    "deep-research",
-    "futurex",
-    "gaia",
-    "hle",
-    "research-agent",
-    "search-agent",
-    "xbench"
-   ],
-   "category": "Agent Frameworks",
-   "momentum": 70,
-   "rank": 120
-  },
-  {
    "name": "solace-agent-mesh",
    "full_name": "SolaceLabs/solace-agent-mesh",
    "slug": "solacelabs-solace-agent-mesh",
    "url": "https://github.com/SolaceLabs/solace-agent-mesh",
    "owner": "SolaceLabs",
    "owner_avatar": "https://avatars.githubusercontent.com/u/19931892?v=4",
-   "stars": 4968,
+   "stars": 4969,
    "forks": 269,
    "open_issues": 70,
    "language": "Python",
@@ -3997,7 +3977,7 @@
    ],
    "category": "Multi-Agent",
    "momentum": 70,
-   "rank": 121
+   "rank": 120
   },
   {
    "name": "oasis",
@@ -4006,9 +3986,9 @@
    "url": "https://github.com/camel-ai/oasis",
    "owner": "camel-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/134388954?v=4",
-   "stars": 4957,
-   "forks": 610,
-   "open_issues": 56,
+   "stars": 4959,
+   "forks": 608,
+   "open_issues": 55,
    "language": "Python",
    "license": "Apache-2.0",
    "pushed_at": "2026-07-22T15:13:01Z",
@@ -4027,7 +4007,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 70,
-   "rank": 122
+   "rank": 121
   },
   {
    "name": "skillhub",
@@ -4036,8 +4016,8 @@
    "url": "https://github.com/iflytek/skillhub",
    "owner": "iflytek",
    "owner_avatar": "https://avatars.githubusercontent.com/u/26786495?v=4",
-   "stars": 4876,
-   "forks": 657,
+   "stars": 4898,
+   "forks": 666,
    "open_issues": 41,
    "language": "Java",
    "license": "Apache-2.0",
@@ -4066,7 +4046,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 70,
-   "rank": 123
+   "rank": 122
   },
   {
    "name": "ag2",
@@ -4075,12 +4055,12 @@
    "url": "https://github.com/ag2ai/ag2",
    "owner": "ag2ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/188122941?v=4",
-   "stars": 4798,
+   "stars": 4799,
    "forks": 685,
-   "open_issues": 29,
+   "open_issues": 28,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-24T21:20:54Z",
+   "pushed_at": "2026-07-26T03:41:00Z",
    "created_at": "2024-11-11T20:43:34Z",
    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
    "topics": [
@@ -4103,7 +4083,7 @@
    ],
    "category": "Multi-Agent",
    "momentum": 70,
-   "rank": 124
+   "rank": 123
   },
   {
    "name": "skills",
@@ -4112,8 +4092,8 @@
    "url": "https://github.com/browser-act/skills",
    "owner": "browser-act",
    "owner_avatar": "https://avatars.githubusercontent.com/u/255086931?v=4",
-   "stars": 4765,
-   "forks": 226,
+   "stars": 4798,
+   "forks": 229,
    "open_issues": 8,
    "language": "Python",
    "license": "MIT",
@@ -4144,7 +4124,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 70,
-   "rank": 125
+   "rank": 124
   },
   {
    "name": "agentscope-java",
@@ -4153,12 +4133,12 @@
    "url": "https://github.com/agentscope-ai/agentscope-java",
    "owner": "agentscope-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/211762292?v=4",
-   "stars": 4696,
-   "forks": 1042,
-   "open_issues": 699,
+   "stars": 4710,
+   "forks": 1045,
+   "open_issues": 705,
    "language": "Java",
    "license": "",
-   "pushed_at": "2026-07-24T16:09:24Z",
+   "pushed_at": "2026-07-25T19:04:48Z",
    "created_at": "2025-09-23T04:37:43Z",
    "description": "Build distributed, production-grade, long-running agents.",
    "topics": [
@@ -4174,37 +4154,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 70,
-   "rank": 126
-  },
-  {
-   "name": "OpenAgentsControl",
-   "full_name": "darrenhinde/OpenAgentsControl",
-   "slug": "darrenhinde-openagentscontrol",
-   "url": "https://github.com/darrenhinde/OpenAgentsControl",
-   "owner": "darrenhinde",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/107584450?v=4",
-   "stars": 4629,
-   "forks": 371,
-   "open_issues": 54,
-   "language": "TypeScript",
-   "license": "MIT",
-   "pushed_at": "2026-07-21T22:24:58Z",
-   "created_at": "2025-08-14T21:44:01Z",
-   "description": "AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeScript, Python, Go, Rust) with automatic testing, code review, and validation built for OpenCode",
-   "topics": [
-    "ai-agents",
-    "ai-agents-framework",
-    "ai-t",
-    "automation",
-    "code-generation",
-    "code-validation",
-    "developer-tools",
-    "opencode",
-    "prompt-engineering"
-   ],
-   "category": "Orchestration",
-   "momentum": 70,
-   "rank": 127
+   "rank": 125
   },
   {
    "name": "agency-swarm",
@@ -4213,18 +4163,18 @@
    "url": "https://github.com/VRSEN/agency-swarm",
    "owner": "VRSEN",
    "owner_avatar": "https://avatars.githubusercontent.com/u/71930995?v=4",
-   "stars": 4498,
-   "forks": 1055,
-   "open_issues": 7,
+   "stars": 4500,
+   "forks": 1057,
+   "open_issues": 6,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-07-25T06:23:28Z",
+   "pushed_at": "2026-07-25T22:45:12Z",
    "created_at": "2023-11-16T02:29:26Z",
    "description": "Reliable Multi-Agent Orchestration Framework",
    "topics": [],
    "category": "Multi-Agent",
    "momentum": 70,
-   "rank": 128
+   "rank": 126
   },
   {
    "name": "koog",
@@ -4233,8 +4183,8 @@
    "url": "https://github.com/JetBrains/koog",
    "owner": "JetBrains",
    "owner_avatar": "https://avatars.githubusercontent.com/u/878437?v=4",
-   "stars": 4472,
-   "forks": 450,
+   "stars": 4475,
+   "forks": 449,
    "open_issues": 171,
    "language": "Kotlin",
    "license": "Apache-2.0",
@@ -4265,7 +4215,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 70,
-   "rank": 129
+   "rank": 127
   },
   {
    "name": "gptme",
@@ -4275,11 +4225,11 @@
    "owner": "gptme",
    "owner_avatar": "https://avatars.githubusercontent.com/u/157223935?v=4",
    "stars": 4369,
-   "forks": 397,
-   "open_issues": 4,
+   "forks": 396,
+   "open_issues": 8,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-07-25T09:32:02Z",
+   "pushed_at": "2026-07-26T11:34:53Z",
    "created_at": "2023-03-24T16:25:01Z",
    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!",
    "topics": [
@@ -4302,7 +4252,7 @@
    ],
    "category": "Autonomous Agents",
    "momentum": 70,
-   "rank": 130
+   "rank": 128
   },
   {
    "name": "agenta",
@@ -4311,12 +4261,12 @@
    "url": "https://github.com/Agenta-AI/agenta",
    "owner": "Agenta-AI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/127993667?v=4",
-   "stars": 4332,
-   "forks": 584,
-   "open_issues": 261,
+   "stars": 4337,
+   "forks": 586,
+   "open_issues": 223,
    "language": "TypeScript",
    "license": "NOASSERTION",
-   "pushed_at": "2026-07-25T00:16:44Z",
+   "pushed_at": "2026-07-25T20:47:06Z",
    "created_at": "2023-04-26T09:54:28Z",
    "description": "The open-source workspace for building and running AI agents. Build agents through chat, share them with your team, and run background agents on schedules or app events.",
    "topics": [
@@ -4342,7 +4292,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 70,
-   "rank": 131
+   "rank": 129
   },
   {
    "name": "oracle-ai-developer-hub",
@@ -4351,8 +4301,8 @@
    "url": "https://github.com/oracle-devrel/oracle-ai-developer-hub",
    "owner": "oracle-devrel",
    "owner_avatar": "https://avatars.githubusercontent.com/u/83461399?v=4",
-   "stars": 4293,
-   "forks": 789,
+   "stars": 4294,
+   "forks": 790,
    "open_issues": 49,
    "language": "Jupyter Notebook",
    "license": "",
@@ -4375,7 +4325,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 70,
-   "rank": 132
+   "rank": 130
   },
   {
    "name": "memgraph",
@@ -4384,12 +4334,12 @@
    "url": "https://github.com/memgraph/memgraph",
    "owner": "memgraph",
    "owner_avatar": "https://avatars.githubusercontent.com/u/17707542?v=4",
-   "stars": 4272,
-   "forks": 249,
-   "open_issues": 768,
+   "stars": 4276,
+   "forks": 250,
+   "open_issues": 767,
    "language": "C++",
    "license": "NOASSERTION",
-   "pushed_at": "2026-07-24T17:02:18Z",
+   "pushed_at": "2026-07-25T16:06:28Z",
    "created_at": "2020-09-21T10:14:04Z",
    "description": "High-performance open-source in-memory graph database for GraphRAG, AI memory, agentic AI, and real-time graph analytics. Cypher-compatible, built in C++.",
    "topics": [
@@ -4411,34 +4361,7 @@
    ],
    "category": "Memory & State",
    "momentum": 70,
-   "rank": 133
-  },
-  {
-   "name": "cli-printing-press",
-   "full_name": "mvanhorn/cli-printing-press",
-   "slug": "mvanhorn-cli-printing-press",
-   "url": "https://github.com/mvanhorn/cli-printing-press",
-   "owner": "mvanhorn",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/455140?v=4",
-   "stars": 4253,
-   "forks": 454,
-   "open_issues": 219,
-   "language": "Go",
-   "license": "MIT",
-   "pushed_at": "2026-07-23T21:19:29Z",
-   "created_at": "2026-03-23T16:02:09Z",
-   "description": "Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound insight commands.",
-   "topics": [
-    "ai-agents",
-    "cli",
-    "cli-generator",
-    "developer-tools",
-    "golang",
-    "openapi"
-   ],
-   "category": "Agent Frameworks",
-   "momentum": 70,
-   "rank": 134
+   "rank": 131
   },
   {
    "name": "mcp-context-forge",
@@ -4447,12 +4370,12 @@
    "url": "https://github.com/IBM/mcp-context-forge",
    "owner": "IBM",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1459110?v=4",
-   "stars": 4138,
-   "forks": 770,
-   "open_issues": 1126,
+   "stars": 4141,
+   "forks": 771,
+   "open_issues": 1160,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-25T08:45:53Z",
+   "pushed_at": "2026-07-25T15:30:40Z",
    "created_at": "2025-05-08T08:16:59Z",
    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized discovery, guardrails and management. Optimizes Agent & Tool calling, and supports plugins.",
    "topics": [
@@ -4479,7 +4402,46 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 70,
-   "rank": 135
+   "rank": 132
+  },
+  {
+   "name": "langroid",
+   "full_name": "langroid/langroid",
+   "slug": "langroid-langroid",
+   "url": "https://github.com/langroid/langroid",
+   "owner": "langroid",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/130325191?v=4",
+   "stars": 4087,
+   "forks": 388,
+   "open_issues": 72,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-07-25T23:22:43Z",
+   "created_at": "2023-04-16T20:47:28Z",
+   "description": "Harness LLMs with Multi-Agent Programming",
+   "topics": [
+    "agents",
+    "ai",
+    "chatgpt",
+    "function-calling",
+    "gpt",
+    "gpt-4",
+    "gpt4",
+    "information-retrieval",
+    "language-model",
+    "llama",
+    "llm",
+    "llm-agent",
+    "llm-framework",
+    "local-llm",
+    "multi-agent-systems",
+    "openai-api",
+    "rag",
+    "retrieval-augmented-generation"
+   ],
+   "category": "Multi-Agent",
+   "momentum": 70,
+   "rank": 133
   },
   {
    "name": "agent-apprenticeship",
@@ -4520,7 +4482,7 @@
    ],
    "category": "Orchestration",
    "momentum": 70,
-   "rank": 136
+   "rank": 134
   },
   {
    "name": "Memori",
@@ -4529,8 +4491,8 @@
    "url": "https://github.com/MemoriLabs/Memori",
    "owner": "MemoriLabs",
    "owner_avatar": "https://avatars.githubusercontent.com/u/239418677?v=4",
-   "stars": 15656,
-   "forks": 2881,
+   "stars": 15664,
+   "forks": 2882,
    "open_issues": 25,
    "language": "Python",
    "license": "NOASSERTION",
@@ -4559,48 +4521,38 @@
    ],
    "category": "Memory & State",
    "momentum": 69,
-   "rank": 137
+   "rank": 135
   },
   {
-   "name": "lamda",
-   "full_name": "firerpa/lamda",
-   "slug": "firerpa-lamda",
-   "url": "https://github.com/firerpa/lamda",
-   "owner": "firerpa",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/176481157?v=4",
-   "stars": 7948,
-   "forks": 1056,
-   "open_issues": 46,
+   "name": "MiroThinker",
+   "full_name": "MiroMindAI/MiroThinker",
+   "slug": "miromindai-mirothinker",
+   "url": "https://github.com/MiroMindAI/MiroThinker",
+   "owner": "MiroMindAI",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/209656584?v=4",
+   "stars": 8354,
+   "forks": 646,
+   "open_issues": 5,
    "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-07-07T03:48:15Z",
-   "created_at": "2022-07-10T03:20:56Z",
-   "description": "Android Full-Stack Device Control Platform: WebRTC/H.264 remote desktop, UI/OCR/image-matching automation, one-click MITM, built-in Frida, proxy/VPN/frp/P2P networking, MCP/Agent, 160+ APIs, designed for multi-device clusters and engineered deployments.",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-07-06T14:50:39Z",
+   "created_at": "2025-08-07T13:32:12Z",
+   "description": "MiroThinker is a deep research agent optimized for complex research and prediction tasks. Our latest models, MiroThinker-1.7, achieves 74.0 and 75.3 on the BrowseComp and BrowseComp Zh, respectively.",
    "topics": [
-    "adb",
-    "agents",
-    "ai",
-    "android",
-    "appium",
-    "automation",
-    "dynamic-analysis",
-    "frida",
-    "magisk",
-    "mcp",
-    "mcp-server",
-    "mobile-security",
-    "pentesting",
-    "remote-control",
-    "reverse-engineering",
-    "security",
-    "uiautomation",
-    "uiautomator2",
-    "workflow",
-    "xposed"
+    "agent",
+    "agent-framework",
+    "browsecomp",
+    "deep-research",
+    "futurex",
+    "gaia",
+    "hle",
+    "research-agent",
+    "search-agent",
+    "xbench"
    ],
    "category": "Agent Frameworks",
    "momentum": 69,
-   "rank": 138
+   "rank": 136
   },
   {
    "name": "AgentGuide",
@@ -4609,8 +4561,8 @@
    "url": "https://github.com/adongwanai/AgentGuide",
    "owner": "adongwanai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/54011546?v=4",
-   "stars": 7347,
-   "forks": 725,
+   "stars": 7372,
+   "forks": 729,
    "open_issues": 114,
    "language": "HTML",
    "license": "",
@@ -4634,46 +4586,64 @@
    ],
    "category": "Orchestration",
    "momentum": 69,
-   "rank": 139
+   "rank": 137
   },
   {
-   "name": "langroid",
-   "full_name": "langroid/langroid",
-   "slug": "langroid-langroid",
-   "url": "https://github.com/langroid/langroid",
-   "owner": "langroid",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/130325191?v=4",
-   "stars": 4085,
-   "forks": 387,
-   "open_issues": 75,
-   "language": "Python",
+   "name": "OpenAgentsControl",
+   "full_name": "darrenhinde/OpenAgentsControl",
+   "slug": "darrenhinde-openagentscontrol",
+   "url": "https://github.com/darrenhinde/OpenAgentsControl",
+   "owner": "darrenhinde",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/107584450?v=4",
+   "stars": 4633,
+   "forks": 371,
+   "open_issues": 54,
+   "language": "TypeScript",
    "license": "MIT",
-   "pushed_at": "2026-07-23T20:42:13Z",
-   "created_at": "2023-04-16T20:47:28Z",
-   "description": "Harness LLMs with Multi-Agent Programming",
+   "pushed_at": "2026-07-21T22:24:58Z",
+   "created_at": "2025-08-14T21:44:01Z",
+   "description": "AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeScript, Python, Go, Rust) with automatic testing, code review, and validation built for OpenCode",
    "topics": [
-    "agents",
-    "ai",
-    "chatgpt",
-    "function-calling",
-    "gpt",
-    "gpt-4",
-    "gpt4",
-    "information-retrieval",
-    "language-model",
-    "llama",
-    "llm",
-    "llm-agent",
-    "llm-framework",
-    "local-llm",
-    "multi-agent-systems",
-    "openai-api",
-    "rag",
-    "retrieval-augmented-generation"
+    "ai-agents",
+    "ai-agents-framework",
+    "ai-t",
+    "automation",
+    "code-generation",
+    "code-validation",
+    "developer-tools",
+    "opencode",
+    "prompt-engineering"
    ],
-   "category": "Multi-Agent",
+   "category": "Orchestration",
    "momentum": 69,
-   "rank": 140
+   "rank": 138
+  },
+  {
+   "name": "cli-printing-press",
+   "full_name": "mvanhorn/cli-printing-press",
+   "slug": "mvanhorn-cli-printing-press",
+   "url": "https://github.com/mvanhorn/cli-printing-press",
+   "owner": "mvanhorn",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/455140?v=4",
+   "stars": 4265,
+   "forks": 454,
+   "open_issues": 232,
+   "language": "Go",
+   "license": "MIT",
+   "pushed_at": "2026-07-23T21:19:29Z",
+   "created_at": "2026-03-23T16:02:09Z",
+   "description": "Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound insight commands.",
+   "topics": [
+    "ai-agents",
+    "cli",
+    "cli-generator",
+    "developer-tools",
+    "golang",
+    "openapi"
+   ],
+   "category": "Agent Frameworks",
+   "momentum": 69,
+   "rank": 139
   },
   {
    "name": "fast-agent",
@@ -4682,12 +4652,12 @@
    "url": "https://github.com/evalstate/fast-agent",
    "owner": "evalstate",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1936278?v=4",
-   "stars": 3871,
-   "forks": 421,
+   "stars": 3873,
+   "forks": 422,
    "open_issues": 24,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-25T11:29:16Z",
+   "pushed_at": "2026-07-26T10:29:09Z",
    "created_at": "2025-01-18T20:39:51Z",
    "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
    "topics": [
@@ -4706,7 +4676,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 69,
-   "rank": 141
+   "rank": 140
   },
   {
    "name": "atmosphere",
@@ -4717,10 +4687,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/318873?v=4",
    "stars": 3789,
    "forks": 760,
-   "open_issues": 12,
+   "open_issues": 13,
    "language": "Java",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-25T02:13:18Z",
+   "pushed_at": "2026-07-26T07:22:01Z",
    "created_at": "2010-06-30T14:26:23Z",
    "description": "Real-time transport layer for Java AI agents. Build once with @Agent — deliver over WebSocket, SSE, gRPC, and WebTransport/HTTP3. Talk MCP, A2A and AG-UI.",
    "topics": [
@@ -4741,7 +4711,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 69,
-   "rank": 142
+   "rank": 141
   },
   {
    "name": "goclaw",
@@ -4750,9 +4720,9 @@
    "url": "https://github.com/nextlevelbuilder/goclaw",
    "owner": "nextlevelbuilder",
    "owner_avatar": "https://avatars.githubusercontent.com/u/246974152?v=4",
-   "stars": 3476,
-   "forks": 986,
-   "open_issues": 312,
+   "stars": 3478,
+   "forks": 985,
+   "open_issues": 311,
    "language": "Go",
    "license": "NOASSERTION",
    "pushed_at": "2026-07-25T08:02:08Z",
@@ -4778,7 +4748,7 @@
    ],
    "category": "Multi-Agent",
    "momentum": 69,
-   "rank": 143
+   "rank": 142
   },
   {
    "name": "MemMachine",
@@ -4787,12 +4757,12 @@
    "url": "https://github.com/MemMachine/MemMachine",
    "owner": "MemMachine",
    "owner_avatar": "https://avatars.githubusercontent.com/u/226739620?v=4",
-   "stars": 3340,
-   "forks": 198,
-   "open_issues": 89,
+   "stars": 3341,
+   "forks": 199,
+   "open_issues": 90,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-24T18:06:54Z",
+   "pushed_at": "2026-07-26T08:55:55Z",
    "created_at": "2025-08-15T16:40:53Z",
    "description": "Universal memory layer for AI Agents. It provides scalable, extensible, and interoperable memory storage and retrieval to streamline AI agent state management for next-generation autonomous systems.",
    "topics": [
@@ -4818,37 +4788,7 @@
    ],
    "category": "Memory & State",
    "momentum": 69,
-   "rank": 144
-  },
-  {
-   "name": "beeai-framework",
-   "full_name": "i-am-bee/beeai-framework",
-   "slug": "i-am-bee-beeai-framework",
-   "url": "https://github.com/i-am-bee/beeai-framework",
-   "owner": "i-am-bee",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/178592583?v=4",
-   "stars": 3335,
-   "forks": 467,
-   "open_issues": 17,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-07-24T09:24:41Z",
-   "created_at": "2024-08-23T14:03:06Z",
-   "description": "Build production-ready AI agents in both Python and Typescript.",
-   "topics": [
-    "agents",
-    "ai",
-    "ai-agent",
-    "beeai",
-    "framework",
-    "llm",
-    "multiagent",
-    "python",
-    "typescript"
-   ],
-   "category": "Agent Frameworks",
-   "momentum": 69,
-   "rank": 145
+   "rank": 143
   },
   {
    "name": "ROLL",
@@ -4857,12 +4797,12 @@
    "url": "https://github.com/alibaba/ROLL",
    "owner": "alibaba",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1961952?v=4",
-   "stars": 3325,
+   "stars": 3327,
    "forks": 302,
    "open_issues": 118,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-25T01:41:23Z",
+   "pushed_at": "2026-07-26T01:40:30Z",
    "created_at": "2025-05-28T11:27:18Z",
    "description": "An Efficient and User-Friendly Scaling Library for Reinforcement Learning with Large Language Models",
    "topics": [
@@ -4872,7 +4812,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 69,
-   "rank": 146
+   "rank": 144
   },
   {
    "name": "ReMe",
@@ -4881,12 +4821,12 @@
    "url": "https://github.com/agentscope-ai/ReMe",
    "owner": "agentscope-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/211762292?v=4",
-   "stars": 3216,
+   "stars": 3217,
    "forks": 276,
-   "open_issues": 25,
+   "open_issues": 26,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-25T10:09:39Z",
+   "pushed_at": "2026-07-26T11:00:46Z",
    "created_at": "2024-08-29T02:40:53Z",
    "description": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
    "topics": [
@@ -4899,7 +4839,7 @@
    ],
    "category": "Memory & State",
    "momentum": 69,
-   "rank": 147
+   "rank": 145
   },
   {
    "name": "Maestro",
@@ -4909,11 +4849,11 @@
    "owner": "RunMaestro",
    "owner_avatar": "https://avatars.githubusercontent.com/u/259239772?v=4",
    "stars": 3165,
-   "forks": 336,
-   "open_issues": 95,
+   "forks": 337,
+   "open_issues": 103,
    "language": "TypeScript",
    "license": "AGPL-3.0",
-   "pushed_at": "2026-07-25T09:15:34Z",
+   "pushed_at": "2026-07-26T09:01:13Z",
    "created_at": "2025-11-23T01:59:55Z",
    "description": "Agent Orchestration Command Center",
    "topics": [
@@ -4925,37 +4865,7 @@
    ],
    "category": "Orchestration",
    "momentum": 69,
-   "rank": 148
-  },
-  {
-   "name": "intentkit",
-   "full_name": "crestalnetwork/intentkit",
-   "slug": "crestalnetwork-intentkit",
-   "url": "https://github.com/crestalnetwork/intentkit",
-   "owner": "crestalnetwork",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/156485526?v=4",
-   "stars": 6504,
-   "forks": 714,
-   "open_issues": 96,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-07-01T18:25:31Z",
-   "created_at": "2024-12-09T04:32:22Z",
-   "description": "IntentKit is an open-source, self-hosted cloud agent cluster that manages a collaborative team of AI agents for you.",
-   "topics": [
-    "agent-framework",
-    "agentic",
-    "ai",
-    "ai-agent",
-    "ai-agent-framework",
-    "blockchain",
-    "intents",
-    "python",
-    "web3"
-   ],
-   "category": "Multi-Agent",
-   "momentum": 68,
-   "rank": 149
+   "rank": 146
   },
   {
    "name": "ruby_llm",
@@ -4965,7 +4875,7 @@
    "owner": "crmne",
    "owner_avatar": "https://avatars.githubusercontent.com/u/106617?v=4",
    "stars": 4270,
-   "forks": 481,
+   "forks": 480,
    "open_issues": 48,
    "language": "Ruby",
    "license": "MIT",
@@ -4996,7 +4906,7 @@
    ],
    "category": "Orchestration",
    "momentum": 68,
-   "rank": 150
+   "rank": 147
   },
   {
    "name": "liteflow",
@@ -5026,7 +4936,7 @@
    ],
    "category": "Orchestration",
    "momentum": 68,
-   "rank": 151
+   "rank": 148
   },
   {
    "name": "qiushi-skill",
@@ -5035,8 +4945,8 @@
    "url": "https://github.com/HughYau/qiushi-skill",
    "owner": "HughYau",
    "owner_avatar": "https://avatars.githubusercontent.com/u/42570255?v=4",
-   "stars": 3626,
-   "forks": 273,
+   "stars": 3632,
+   "forks": 274,
    "open_issues": 20,
    "language": "JavaScript",
    "license": "MIT",
@@ -5051,7 +4961,37 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 68,
-   "rank": 152
+   "rank": 149
+  },
+  {
+   "name": "beeai-framework",
+   "full_name": "i-am-bee/beeai-framework",
+   "slug": "i-am-bee-beeai-framework",
+   "url": "https://github.com/i-am-bee/beeai-framework",
+   "owner": "i-am-bee",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/178592583?v=4",
+   "stars": 3336,
+   "forks": 468,
+   "open_issues": 17,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-07-24T09:24:41Z",
+   "created_at": "2024-08-23T14:03:06Z",
+   "description": "Build production-ready AI agents in both Python and Typescript.",
+   "topics": [
+    "agents",
+    "ai",
+    "ai-agent",
+    "beeai",
+    "framework",
+    "llm",
+    "multiagent",
+    "python",
+    "typescript"
+   ],
+   "category": "Agent Frameworks",
+   "momentum": 68,
+   "rank": 150
   },
   {
    "name": "langgraphjs",
@@ -5060,12 +5000,12 @@
    "url": "https://github.com/langchain-ai/langgraphjs",
    "owner": "langchain-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/126733545?v=4",
-   "stars": 3139,
-   "forks": 530,
+   "stars": 3142,
+   "forks": 529,
    "open_issues": 90,
    "language": "TypeScript",
    "license": "MIT",
-   "pushed_at": "2026-07-24T21:44:05Z",
+   "pushed_at": "2026-07-26T01:28:14Z",
    "created_at": "2024-01-09T17:40:12Z",
    "description": "Framework to build resilient language agents as graphs.",
    "topics": [
@@ -5079,7 +5019,7 @@
    ],
    "category": "Orchestration",
    "momentum": 68,
-   "rank": 153
+   "rank": 151
   },
   {
    "name": "BotSharp",
@@ -5088,7 +5028,7 @@
    "url": "https://github.com/SciSharp/BotSharp",
    "owner": "SciSharp",
    "owner_avatar": "https://avatars.githubusercontent.com/u/44989469?v=4",
-   "stars": 3086,
+   "stars": 3088,
    "forks": 639,
    "open_issues": 48,
    "language": "C#",
@@ -5103,7 +5043,7 @@
    ],
    "category": "Multi-Agent",
    "momentum": 68,
-   "rank": 154
+   "rank": 152
   },
   {
    "name": "ralph-orchestrator",
@@ -5139,7 +5079,7 @@
    ],
    "category": "Orchestration",
    "momentum": 68,
-   "rank": 155
+   "rank": 153
   },
   {
    "name": "squad",
@@ -5149,7 +5089,7 @@
    "owner": "bradygaster",
    "owner_avatar": "https://avatars.githubusercontent.com/u/41929050?v=4",
    "stars": 3006,
-   "forks": 459,
+   "forks": 460,
    "open_issues": 109,
    "language": "TypeScript",
    "license": "MIT",
@@ -5167,7 +5107,7 @@
    ],
    "category": "Multi-Agent",
    "momentum": 68,
-   "rank": 156
+   "rank": 154
   },
   {
    "name": "holmesgpt",
@@ -5176,12 +5116,12 @@
    "url": "https://github.com/HolmesGPT/holmesgpt",
    "owner": "HolmesGPT",
    "owner_avatar": "https://avatars.githubusercontent.com/u/244508353?v=4",
-   "stars": 2926,
-   "forks": 420,
-   "open_issues": 355,
+   "stars": 2928,
+   "forks": 422,
+   "open_issues": 357,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-23T12:43:53Z",
+   "pushed_at": "2026-07-26T11:00:24Z",
    "created_at": "2024-05-30T13:27:10Z",
    "description": "SRE Agent - CNCF Sandbox Project",
    "topics": [
@@ -5208,7 +5148,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 68,
-   "rank": 157
+   "rank": 155
   },
   {
    "name": "GOD",
@@ -5217,7 +5157,7 @@
    "url": "https://github.com/XiaoLuoLYG/GOD",
    "owner": "XiaoLuoLYG",
    "owner_avatar": "https://avatars.githubusercontent.com/u/56611624?v=4",
-   "stars": 1032,
+   "stars": 1037,
    "forks": 118,
    "open_issues": 6,
    "language": "Python",
@@ -5242,7 +5182,37 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 68,
-   "rank": 158
+   "rank": 156
+  },
+  {
+   "name": "intentkit",
+   "full_name": "crestalnetwork/intentkit",
+   "slug": "crestalnetwork-intentkit",
+   "url": "https://github.com/crestalnetwork/intentkit",
+   "owner": "crestalnetwork",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/156485526?v=4",
+   "stars": 6505,
+   "forks": 714,
+   "open_issues": 96,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-07-01T18:25:31Z",
+   "created_at": "2024-12-09T04:32:22Z",
+   "description": "IntentKit is an open-source, self-hosted cloud agent cluster that manages a collaborative team of AI agents for you.",
+   "topics": [
+    "agent-framework",
+    "agentic",
+    "ai",
+    "ai-agent",
+    "ai-agent-framework",
+    "blockchain",
+    "intents",
+    "python",
+    "web3"
+   ],
+   "category": "Multi-Agent",
+   "momentum": 67,
+   "rank": 157
   },
   {
    "name": "nasiko",
@@ -5251,8 +5221,8 @@
    "url": "https://github.com/Nasiko-Labs/nasiko",
    "owner": "Nasiko-Labs",
    "owner_avatar": "https://avatars.githubusercontent.com/u/259143031?v=4",
-   "stars": 3935,
-   "forks": 608,
+   "stars": 3927,
+   "forks": 606,
    "open_issues": 89,
    "language": "Python",
    "license": "NOASSERTION",
@@ -5274,7 +5244,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 67,
-   "rank": 159
+   "rank": 158
   },
   {
    "name": "Acontext",
@@ -5283,7 +5253,7 @@
    "url": "https://github.com/memodb-io/Acontext",
    "owner": "memodb-io",
    "owner_avatar": "https://avatars.githubusercontent.com/u/180244457?v=4",
-   "stars": 3584,
+   "stars": 3585,
    "forks": 326,
    "open_issues": 36,
    "language": "JavaScript",
@@ -5310,44 +5280,7 @@
    ],
    "category": "Memory & State",
    "momentum": 67,
-   "rank": 160
-  },
-  {
-   "name": "openocta",
-   "full_name": "openocta/openocta",
-   "slug": "openocta-openocta",
-   "url": "https://github.com/openocta/openocta",
-   "owner": "openocta",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/264121059?v=4",
-   "stars": 3035,
-   "forks": 348,
-   "open_issues": 28,
-   "language": "TypeScript",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-07-15T07:52:44Z",
-   "created_at": "2026-02-26T09:12:26Z",
-   "description": "开源 work buddies，支持自定义模型接入、不用积分制付费。国产开源的个人桌面级智能体，适用于电脑办公、文档处理、IT运维与安全、市场营销等场景。",
-   "topics": [
-    "ai",
-    "ai-agent",
-    "ai-assistants",
-    "clawhub",
-    "golang",
-    "hermes",
-    "itops",
-    "llm",
-    "multi-agent",
-    "office",
-    "office-automation",
-    "openclaw",
-    "openhuman",
-    "work",
-    "workbuddies",
-    "workmate"
-   ],
-   "category": "Agent Frameworks",
-   "momentum": 67,
-   "rank": 161
+   "rank": 159
   },
   {
    "name": "OpenOutreach",
@@ -5356,12 +5289,12 @@
    "url": "https://github.com/eracle/OpenOutreach",
    "owner": "eracle",
    "owner_avatar": "https://avatars.githubusercontent.com/u/3613943?v=4",
-   "stars": 2522,
-   "forks": 476,
-   "open_issues": 109,
+   "stars": 2526,
+   "forks": 479,
+   "open_issues": 111,
    "language": "Python",
    "license": "NOASSERTION",
-   "pushed_at": "2026-07-25T03:18:00Z",
+   "pushed_at": "2026-07-25T17:41:59Z",
    "created_at": "2016-10-07T18:10:30Z",
    "description": "Agentic Email Automation Tool: Describe your product. Define your target market. The AI finds the leads for you.",
    "topics": [
@@ -5387,7 +5320,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 67,
-   "rank": 162
+   "rank": 160
   },
   {
    "name": "Vibe-Skills",
@@ -5396,8 +5329,8 @@
    "url": "https://github.com/foryourhealth111-pixel/Vibe-Skills",
    "owner": "foryourhealth111-pixel",
    "owner_avatar": "https://avatars.githubusercontent.com/u/251585801?v=4",
-   "stars": 2468,
-   "forks": 181,
+   "stars": 2479,
+   "forks": 183,
    "open_issues": 15,
    "language": "Python",
    "license": "Apache-2.0",
@@ -5427,7 +5360,7 @@
    ],
    "category": "Orchestration",
    "momentum": 67,
-   "rank": 163
+   "rank": 161
   },
   {
    "name": "llm-for-zotero",
@@ -5436,9 +5369,9 @@
    "url": "https://github.com/yilewang/llm-for-zotero",
    "owner": "yilewang",
    "owner_avatar": "https://avatars.githubusercontent.com/u/37648360?v=4",
-   "stars": 2410,
+   "stars": 2416,
    "forks": 127,
-   "open_issues": 104,
+   "open_issues": 105,
    "language": "TypeScript",
    "license": "AGPL-3.0",
    "pushed_at": "2026-07-24T20:44:36Z",
@@ -5457,7 +5390,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 67,
-   "rank": 164
+   "rank": 162
   },
   {
    "name": "VCPToolBox",
@@ -5466,12 +5399,12 @@
    "url": "https://github.com/lioensky/VCPToolBox",
    "owner": "lioensky",
    "owner_avatar": "https://avatars.githubusercontent.com/u/140802180?v=4",
-   "stars": 2210,
+   "stars": 2211,
    "forks": 359,
    "open_issues": 0,
    "language": "JavaScript",
    "license": "NOASSERTION",
-   "pushed_at": "2026-07-24T15:19:58Z",
+   "pushed_at": "2026-07-26T10:22:00Z",
    "created_at": "2025-05-12T13:51:06Z",
    "description": "VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改造成拥有永久自我意识、物理世界操作权及群体协作智能的完整智能体系统。",
    "topics": [
@@ -5495,7 +5428,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 67,
-   "rank": 165
+   "rank": 163
   },
   {
    "name": "boxlite",
@@ -5504,12 +5437,12 @@
    "url": "https://github.com/boxlite-ai/boxlite",
    "owner": "boxlite-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/244449675?v=4",
-   "stars": 2196,
+   "stars": 2198,
    "forks": 146,
-   "open_issues": 192,
+   "open_issues": 195,
    "language": "Rust",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-25T07:50:20Z",
+   "pushed_at": "2026-07-26T11:17:04Z",
    "created_at": "2025-12-07T22:49:32Z",
    "description": "The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.",
    "topics": [
@@ -5525,7 +5458,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 67,
-   "rank": 166
+   "rank": 164
   },
   {
    "name": "AssetOpsBench",
@@ -5534,12 +5467,12 @@
    "url": "https://github.com/IBM/AssetOpsBench",
    "owner": "IBM",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1459110?v=4",
-   "stars": 2065,
-   "forks": 293,
-   "open_issues": 46,
+   "stars": 2067,
+   "forks": 294,
+   "open_issues": 45,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-24T22:01:36Z",
+   "pushed_at": "2026-07-26T10:40:12Z",
    "created_at": "2025-05-01T20:48:50Z",
    "description": "AssetOpsBench - Industry 4.0: A unified benchmark and framework for building, orchestrating, and evaluating domain-specific AI agents for Industry 4.0 asset operations and maintenance, with 460+ scenarios, 5 specialist agents (IoT, FMSR, TSFM, Work Order,...), and multi-agent orchestration blueprints (MetaAgent, AgentHive) over MCP.",
    "topics": [
@@ -5554,7 +5487,7 @@
    ],
    "category": "Multi-Agent",
    "momentum": 67,
-   "rank": 167
+   "rank": 165
   },
   {
    "name": "Upsonic",
@@ -5590,7 +5523,7 @@
    ],
    "category": "Autonomous Agents",
    "momentum": 66,
-   "rank": 168
+   "rank": 166
   },
   {
    "name": "agentops",
@@ -5599,9 +5532,9 @@
    "url": "https://github.com/AgentOps-AI/agentops",
    "owner": "AgentOps-AI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/140554352?v=4",
-   "stars": 5729,
+   "stars": 5730,
    "forks": 613,
-   "open_issues": 172,
+   "open_issues": 177,
    "language": "Python",
    "license": "MIT",
    "pushed_at": "2026-06-25T08:25:03Z",
@@ -5628,7 +5561,7 @@
    ],
    "category": "Multi-Agent",
    "momentum": 66,
-   "rank": 169
+   "rank": 167
   },
   {
    "name": "DeepAnalyze",
@@ -5637,7 +5570,7 @@
    "url": "https://github.com/ruc-datalab/DeepAnalyze",
    "owner": "ruc-datalab",
    "owner_avatar": "https://avatars.githubusercontent.com/u/76154266?v=4",
-   "stars": 4396,
+   "stars": 4403,
    "forks": 697,
    "open_issues": 24,
    "language": "Python",
@@ -5669,7 +5602,44 @@
    ],
    "category": "Autonomous Agents",
    "momentum": 66,
-   "rank": 170
+   "rank": 168
+  },
+  {
+   "name": "openocta",
+   "full_name": "openocta/openocta",
+   "slug": "openocta-openocta",
+   "url": "https://github.com/openocta/openocta",
+   "owner": "openocta",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/264121059?v=4",
+   "stars": 3037,
+   "forks": 348,
+   "open_issues": 28,
+   "language": "TypeScript",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-07-15T07:52:44Z",
+   "created_at": "2026-02-26T09:12:26Z",
+   "description": "开源 work buddies，支持自定义模型接入、不用积分制付费。国产开源的个人桌面级智能体，适用于电脑办公、文档处理、IT运维与安全、市场营销等场景。",
+   "topics": [
+    "ai",
+    "ai-agent",
+    "ai-assistants",
+    "clawhub",
+    "golang",
+    "hermes",
+    "itops",
+    "llm",
+    "multi-agent",
+    "office",
+    "office-automation",
+    "openclaw",
+    "openhuman",
+    "work",
+    "workbuddies",
+    "workmate"
+   ],
+   "category": "Agent Frameworks",
+   "momentum": 66,
+   "rank": 169
   },
   {
    "name": "agentUniverse",
@@ -5699,7 +5669,7 @@
    ],
    "category": "Multi-Agent",
    "momentum": 66,
-   "rank": 171
+   "rank": 170
   },
   {
    "name": "forge",
@@ -5708,7 +5678,7 @@
    "url": "https://github.com/antoinezambelli/forge",
    "owner": "antoinezambelli",
    "owner_avatar": "https://avatars.githubusercontent.com/u/2261593?v=4",
-   "stars": 2202,
+   "stars": 2203,
    "forks": 169,
    "open_issues": 4,
    "language": "Python",
@@ -5731,7 +5701,7 @@
    ],
    "category": "Orchestration",
    "momentum": 66,
-   "rank": 172
+   "rank": 171
   },
   {
    "name": "tinyfish-cookbook",
@@ -5740,7 +5710,7 @@
    "url": "https://github.com/tinyfish-io/tinyfish-cookbook",
    "owner": "tinyfish-io",
    "owner_avatar": "https://avatars.githubusercontent.com/u/119996419?v=4",
-   "stars": 2085,
+   "stars": 2087,
    "forks": 319,
    "open_issues": 46,
    "language": "TypeScript",
@@ -5761,7 +5731,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 66,
-   "rank": 173
+   "rank": 172
   },
   {
    "name": "neuron-ai",
@@ -5770,7 +5740,7 @@
    "url": "https://github.com/neuron-core/neuron-ai",
    "owner": "neuron-core",
    "owner_avatar": "https://avatars.githubusercontent.com/u/230101083?v=4",
-   "stars": 2026,
+   "stars": 2028,
    "forks": 229,
    "open_issues": 10,
    "language": "PHP",
@@ -5792,7 +5762,7 @@
    ],
    "category": "Memory & State",
    "momentum": 66,
-   "rank": 174
+   "rank": 173
   },
   {
    "name": "agi",
@@ -5801,12 +5771,12 @@
    "url": "https://github.com/hyperspaceai/agi",
    "owner": "hyperspaceai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/12701374?v=4",
-   "stars": 2008,
-   "forks": 241,
+   "stars": 2011,
+   "forks": 242,
    "open_issues": 24,
    "language": "",
    "license": "MIT",
-   "pushed_at": "2026-07-25T11:30:13Z",
+   "pushed_at": "2026-07-26T11:37:44Z",
    "created_at": "2026-03-08T23:08:37Z",
    "description": "The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, share experiments via P2P gossip, and push breakthroughs here. Fully peer-to-peer. Join from your browser or CLI.",
    "topics": [
@@ -5825,46 +5795,7 @@
    ],
    "category": "Multi-Agent",
    "momentum": 66,
-   "rank": 175
-  },
-  {
-   "name": "cultivation-world-simulator",
-   "full_name": "4thfever/cultivation-world-simulator",
-   "slug": "4thfever-cultivation-world-simulator",
-   "url": "https://github.com/4thfever/cultivation-world-simulator",
-   "owner": "4thfever",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/19970391?v=4",
-   "stars": 1968,
-   "forks": 217,
-   "open_issues": 1,
-   "language": "Python",
-   "license": "NOASSERTION",
-   "pushed_at": "2026-07-20T17:30:35Z",
-   "created_at": "2025-08-18T15:09:49Z",
-   "description": "基于 AI Agent 工作流的修仙世界模拟器，旨在还原智能、开放的仙侠世界。| An open-source Cultivation World Simulator using Agentic Workflow to create a dynamic, emerging Xianxia world.",
-   "topics": [
-    "agentic-workflow",
-    "ai",
-    "ai-agents",
-    "ai-native",
-    "autonomous-agents",
-    "cultivation",
-    "cultivation-game",
-    "game",
-    "llm",
-    "open-source",
-    "procedural-generation",
-    "prompt-engineering",
-    "python",
-    "simulation",
-    "simulation-game",
-    "simulator",
-    "text-based-game",
-    "world-simulation"
-   ],
-   "category": "Orchestration",
-   "momentum": 66,
-   "rank": 176
+   "rank": 174
   },
   {
    "name": "yomo",
@@ -5899,7 +5830,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 66,
-   "rank": 177
+   "rank": 175
   },
   {
    "name": "argent",
@@ -5908,7 +5839,7 @@
    "url": "https://github.com/software-mansion/argent",
    "owner": "software-mansion",
    "owner_avatar": "https://avatars.githubusercontent.com/u/56880679?v=4",
-   "stars": 1807,
+   "stars": 1811,
    "forks": 53,
    "open_issues": 43,
    "language": "TypeScript",
@@ -5924,7 +5855,190 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 66,
+   "rank": 176
+  },
+  {
+   "name": "full-stack-ai-agent-template",
+   "full_name": "vstorm-co/full-stack-ai-agent-template",
+   "slug": "vstorm-co-full-stack-ai-agent-template",
+   "url": "https://github.com/vstorm-co/full-stack-ai-agent-template",
+   "owner": "vstorm-co",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/80465946?v=4",
+   "stars": 1658,
+   "forks": 314,
+   "open_issues": 2,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-07-25T23:32:35Z",
+   "created_at": "2025-12-19T12:23:15Z",
+   "description": "Full-stack AI app generator — FastAPI + Next.js with AI Agents, RAG, streaming, auth, and 20+ integrations out of the box.",
+   "topics": [
+    "agent-framework",
+    "ai-agent-template",
+    "ai-agents",
+    "crewai",
+    "docker",
+    "fastapi",
+    "full-stack",
+    "langchain",
+    "langgraph",
+    "llm",
+    "nextjs",
+    "postgresql",
+    "pydantic-ai",
+    "pydantic-deep",
+    "python",
+    "rag",
+    "react",
+    "typescript",
+    "vstorm",
+    "websocket"
+   ],
+   "category": "Agent Frameworks",
+   "momentum": 66,
+   "rank": 177
+  },
+  {
+   "name": "byterover-cli",
+   "full_name": "campfirein/byterover-cli",
+   "slug": "campfirein-byterover-cli",
+   "url": "https://github.com/campfirein/byterover-cli",
+   "owner": "campfirein",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/179183278?v=4",
+   "stars": 4929,
+   "forks": 453,
+   "open_issues": 18,
+   "language": "TypeScript",
+   "license": "NOASSERTION",
+   "pushed_at": "2026-06-25T17:00:57Z",
+   "created_at": "2025-06-19T22:40:22Z",
+   "description": "ByteRover CLI (brv) - The portable memory layer for  autonomous coding agents (formerly Cipher)",
+   "topics": [
+    "agent",
+    "ai",
+    "autonomous-agents",
+    "cli",
+    "coding-assistant",
+    "context-memory",
+    "developer-tools",
+    "knowledge-management",
+    "llm",
+    "mcp",
+    "memory",
+    "typescript",
+    "vibe-coding"
+   ],
+   "category": "Memory & State",
+   "momentum": 65,
    "rank": 178
+  },
+  {
+   "name": "Integuru",
+   "full_name": "Integuru-AI/Integuru",
+   "slug": "integuru-ai-integuru",
+   "url": "https://github.com/Integuru-AI/Integuru",
+   "owner": "Integuru-AI",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/183036973?v=4",
+   "stars": 4651,
+   "forks": 365,
+   "open_issues": 24,
+   "language": "Python",
+   "license": "AGPL-3.0",
+   "pushed_at": "2026-06-24T19:23:18Z",
+   "created_at": "2024-10-22T23:11:25Z",
+   "description": "The first AI agent that builds permissionless integrations through reverse engineering platforms' internal APIs.",
+   "topics": [
+    "agent",
+    "agents",
+    "ai-agent",
+    "ai-agents",
+    "api",
+    "apis",
+    "automation",
+    "integration",
+    "integrations",
+    "llm",
+    "open-source",
+    "openapi",
+    "robotic-process-automation",
+    "rpa",
+    "unofficial-api",
+    "unofficial-apis"
+   ],
+   "category": "Agent Frameworks",
+   "momentum": 65,
+   "rank": 179
+  },
+  {
+   "name": "MiroFlow",
+   "full_name": "MiroMindAI/MiroFlow",
+   "slug": "miromindai-miroflow",
+   "url": "https://github.com/MiroMindAI/MiroFlow",
+   "owner": "MiroMindAI",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/209656584?v=4",
+   "stars": 3084,
+   "forks": 320,
+   "open_issues": 2,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-07-06T14:50:43Z",
+   "created_at": "2025-08-05T09:43:34Z",
+   "description": "🏆 Top-1 on 5+ benchmarks | Web UI | Supports MiroThinker, Claude, Kimi, OpenAI",
+   "topics": [
+    "agent-framework",
+    "agents",
+    "browsecomp",
+    "claude",
+    "deep-research",
+    "futurex",
+    "gaia",
+    "gpt-5",
+    "hle",
+    "research-agent",
+    "xbench"
+   ],
+   "category": "Agent Frameworks",
+   "momentum": 65,
+   "rank": 180
+  },
+  {
+   "name": "cultivation-world-simulator",
+   "full_name": "4thfever/cultivation-world-simulator",
+   "slug": "4thfever-cultivation-world-simulator",
+   "url": "https://github.com/4thfever/cultivation-world-simulator",
+   "owner": "4thfever",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/19970391?v=4",
+   "stars": 1971,
+   "forks": 218,
+   "open_issues": 1,
+   "language": "Python",
+   "license": "NOASSERTION",
+   "pushed_at": "2026-07-20T17:30:35Z",
+   "created_at": "2025-08-18T15:09:49Z",
+   "description": "基于 AI Agent 工作流的修仙世界模拟器，旨在还原智能、开放的仙侠世界。| An open-source Cultivation World Simulator using Agentic Workflow to create a dynamic, emerging Xianxia world.",
+   "topics": [
+    "agentic-workflow",
+    "ai",
+    "ai-agents",
+    "ai-native",
+    "autonomous-agents",
+    "cultivation",
+    "cultivation-game",
+    "game",
+    "llm",
+    "open-source",
+    "procedural-generation",
+    "prompt-engineering",
+    "python",
+    "simulation",
+    "simulation-game",
+    "simulator",
+    "text-based-game",
+    "world-simulation"
+   ],
+   "category": "Orchestration",
+   "momentum": 65,
+   "rank": 181
   },
   {
    "name": "jido",
@@ -5953,8 +6067,8 @@
     "workflow"
    ],
    "category": "Orchestration",
-   "momentum": 66,
-   "rank": 179
+   "momentum": 65,
+   "rank": 182
   },
   {
    "name": "ai",
@@ -5963,9 +6077,9 @@
    "url": "https://github.com/stripe/ai",
    "owner": "stripe",
    "owner_avatar": "https://avatars.githubusercontent.com/u/856813?v=4",
-   "stars": 1707,
-   "forks": 313,
-   "open_issues": 68,
+   "stars": 1710,
+   "forks": 315,
+   "open_issues": 69,
    "language": "TypeScript",
    "license": "MIT",
    "pushed_at": "2026-07-25T00:54:24Z",
@@ -5981,8 +6095,8 @@
     "workflows"
    ],
    "category": "Agent Frameworks",
-   "momentum": 66,
-   "rank": 180
+   "momentum": 65,
+   "rank": 183
   },
   {
    "name": "adk-java",
@@ -5993,7 +6107,7 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/1342004?v=4",
    "stars": 1660,
    "forks": 380,
-   "open_issues": 71,
+   "open_issues": 73,
    "language": "Java",
    "license": "Apache-2.0",
    "pushed_at": "2026-07-24T19:55:42Z",
@@ -6020,49 +6134,8 @@
     "multi-agents-collaboration"
    ],
    "category": "Agent Frameworks",
-   "momentum": 66,
-   "rank": 181
-  },
-  {
-   "name": "full-stack-ai-agent-template",
-   "full_name": "vstorm-co/full-stack-ai-agent-template",
-   "slug": "vstorm-co-full-stack-ai-agent-template",
-   "url": "https://github.com/vstorm-co/full-stack-ai-agent-template",
-   "owner": "vstorm-co",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/80465946?v=4",
-   "stars": 1643,
-   "forks": 314,
-   "open_issues": 4,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-07-25T10:51:10Z",
-   "created_at": "2025-12-19T12:23:15Z",
-   "description": "Full-stack AI app generator — FastAPI + Next.js with AI Agents, RAG, streaming, auth, and 20+ integrations out of the box.",
-   "topics": [
-    "agent-framework",
-    "ai-agent-template",
-    "ai-agents",
-    "crewai",
-    "docker",
-    "fastapi",
-    "full-stack",
-    "langchain",
-    "langgraph",
-    "llm",
-    "nextjs",
-    "postgresql",
-    "pydantic-ai",
-    "pydantic-deep",
-    "python",
-    "rag",
-    "react",
-    "typescript",
-    "vstorm",
-    "websocket"
-   ],
-   "category": "Agent Frameworks",
-   "momentum": 66,
-   "rank": 182
+   "momentum": 65,
+   "rank": 184
   },
   {
    "name": "Agently",
@@ -6101,111 +6174,8 @@
     "python"
    ],
    "category": "Agent Frameworks",
-   "momentum": 66,
-   "rank": 183
-  },
-  {
-   "name": "byterover-cli",
-   "full_name": "campfirein/byterover-cli",
-   "slug": "campfirein-byterover-cli",
-   "url": "https://github.com/campfirein/byterover-cli",
-   "owner": "campfirein",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/179183278?v=4",
-   "stars": 4928,
-   "forks": 453,
-   "open_issues": 18,
-   "language": "TypeScript",
-   "license": "NOASSERTION",
-   "pushed_at": "2026-06-25T17:00:57Z",
-   "created_at": "2025-06-19T22:40:22Z",
-   "description": "ByteRover CLI (brv) - The portable memory layer for  autonomous coding agents (formerly Cipher)",
-   "topics": [
-    "agent",
-    "ai",
-    "autonomous-agents",
-    "cli",
-    "coding-assistant",
-    "context-memory",
-    "developer-tools",
-    "knowledge-management",
-    "llm",
-    "mcp",
-    "memory",
-    "typescript",
-    "vibe-coding"
-   ],
-   "category": "Memory & State",
-   "momentum": 65,
-   "rank": 184
-  },
-  {
-   "name": "Integuru",
-   "full_name": "Integuru-AI/Integuru",
-   "slug": "integuru-ai-integuru",
-   "url": "https://github.com/Integuru-AI/Integuru",
-   "owner": "Integuru-AI",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/183036973?v=4",
-   "stars": 4651,
-   "forks": 365,
-   "open_issues": 24,
-   "language": "Python",
-   "license": "AGPL-3.0",
-   "pushed_at": "2026-06-24T19:23:18Z",
-   "created_at": "2024-10-22T23:11:25Z",
-   "description": "The first AI agent that builds permissionless integrations through reverse engineering platforms' internal APIs.",
-   "topics": [
-    "agent",
-    "agents",
-    "ai-agent",
-    "ai-agents",
-    "api",
-    "apis",
-    "automation",
-    "integration",
-    "integrations",
-    "llm",
-    "open-source",
-    "openapi",
-    "robotic-process-automation",
-    "rpa",
-    "unofficial-api",
-    "unofficial-apis"
-   ],
-   "category": "Agent Frameworks",
    "momentum": 65,
    "rank": 185
-  },
-  {
-   "name": "MiroFlow",
-   "full_name": "MiroMindAI/MiroFlow",
-   "slug": "miromindai-miroflow",
-   "url": "https://github.com/MiroMindAI/MiroFlow",
-   "owner": "MiroMindAI",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/209656584?v=4",
-   "stars": 3082,
-   "forks": 319,
-   "open_issues": 2,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-07-06T14:50:43Z",
-   "created_at": "2025-08-05T09:43:34Z",
-   "description": "🏆 Top-1 on 5+ benchmarks | Web UI | Supports MiroThinker, Claude, Kimi, OpenAI",
-   "topics": [
-    "agent-framework",
-    "agents",
-    "browsecomp",
-    "claude",
-    "deep-research",
-    "futurex",
-    "gaia",
-    "gpt-5",
-    "hle",
-    "research-agent",
-    "xbench"
-   ],
-   "category": "Agent Frameworks",
-   "momentum": 65,
-   "rank": 186
   },
   {
    "name": "Adala",
@@ -6231,7 +6201,7 @@
    ],
    "category": "Autonomous Agents",
    "momentum": 65,
-   "rank": 187
+   "rank": 186
   },
   {
    "name": "ToolUniverse",
@@ -6240,12 +6210,12 @@
    "url": "https://github.com/mims-harvard/ToolUniverse",
    "owner": "mims-harvard",
    "owner_avatar": "https://avatars.githubusercontent.com/u/60720343?v=4",
-   "stars": 1592,
-   "forks": 243,
-   "open_issues": 24,
+   "stars": 1593,
+   "forks": 242,
+   "open_issues": 25,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-25T06:27:47Z",
+   "pushed_at": "2026-07-26T02:56:55Z",
    "created_at": "2025-03-03T21:09:47Z",
    "description": "Democratizing AI scientists with ToolUniverse",
    "topics": [
@@ -6268,7 +6238,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 65,
-   "rank": 188
+   "rank": 187
   },
   {
    "name": "trpc-agent-go",
@@ -6277,9 +6247,9 @@
    "url": "https://github.com/trpc-group/trpc-agent-go",
    "owner": "trpc-group",
    "owner_avatar": "https://avatars.githubusercontent.com/u/140800716?v=4",
-   "stars": 1589,
-   "forks": 269,
-   "open_issues": 160,
+   "stars": 1591,
+   "forks": 271,
+   "open_issues": 163,
    "language": "Go",
    "license": "Apache-2.0",
    "pushed_at": "2026-07-24T08:31:57Z",
@@ -6307,7 +6277,7 @@
    ],
    "category": "Memory & State",
    "momentum": 65,
-   "rank": 189
+   "rank": 188
   },
   {
    "name": "golem",
@@ -6344,36 +6314,47 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 65,
-   "rank": 190
+   "rank": 189
   },
   {
-   "name": "VideoAgent",
-   "full_name": "HKUDS/VideoAgent",
-   "slug": "hkuds-videoagent",
-   "url": "https://github.com/HKUDS/VideoAgent",
-   "owner": "HKUDS",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/118165258?v=4",
-   "stars": 1531,
-   "forks": 215,
-   "open_issues": 12,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-07-22T01:44:05Z",
-   "created_at": "2025-07-16T11:35:25Z",
-   "description": "\"VideoAgent: All-in-One Agentic Framework for Video Understanding, Editing, and Remaking\"",
+   "name": "ai-devkit",
+   "full_name": "codeaholicguy/ai-devkit",
+   "slug": "codeaholicguy-ai-devkit",
+   "url": "https://github.com/codeaholicguy/ai-devkit",
+   "owner": "codeaholicguy",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/4585708?v=4",
+   "stars": 1565,
+   "forks": 243,
+   "open_issues": 6,
+   "language": "TypeScript",
+   "license": "",
+   "pushed_at": "2026-07-26T04:57:30Z",
+   "created_at": "2025-10-14T08:00:48Z",
+   "description": "The control plane for AI coding agents.",
    "topics": [
-    "agents",
-    "audio-editing",
-    "audio-understanding",
-    "llm-agents",
-    "notebooklm",
-    "podcast",
-    "video-editing",
-    "video-understanding"
+    "agent-framework",
+    "agent-skills",
+    "ai",
+    "ai-agents",
+    "ai-coding",
+    "antigravity",
+    "claude-code",
+    "cli",
+    "codex-cli",
+    "coding-agents",
+    "cursor-ai",
+    "developer-tools",
+    "gemini-cli",
+    "mcp",
+    "memory",
+    "opencode",
+    "pi",
+    "software-engineering",
+    "workflow-automation"
    ],
    "category": "Agent Frameworks",
    "momentum": 65,
-   "rank": 191
+   "rank": 190
   },
   {
    "name": "mirascope",
@@ -6401,7 +6382,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 65,
-   "rank": 192
+   "rank": 191
   },
   {
    "name": "magic-context",
@@ -6410,9 +6391,9 @@
    "url": "https://github.com/cortexkit/magic-context",
    "owner": "cortexkit",
    "owner_avatar": "https://avatars.githubusercontent.com/u/271195168?v=4",
-   "stars": 1471,
+   "stars": 1491,
    "forks": 75,
-   "open_issues": 11,
+   "open_issues": 13,
    "language": "TypeScript",
    "license": "MIT",
    "pushed_at": "2026-07-25T08:50:21Z",
@@ -6435,81 +6416,7 @@
    ],
    "category": "Memory & State",
    "momentum": 65,
-   "rank": 193
-  },
-  {
-   "name": "chidori",
-   "full_name": "ThousandBirdsInc/chidori",
-   "slug": "thousandbirdsinc-chidori",
-   "url": "https://github.com/ThousandBirdsInc/chidori",
-   "owner": "ThousandBirdsInc",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/132998066?v=4",
-   "stars": 1361,
-   "forks": 57,
-   "open_issues": 18,
-   "language": "Rust",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-07-24T23:29:37Z",
-   "created_at": "2023-07-19T23:21:46Z",
-   "description": "The agent framework where every run is durable, replayable, and resumable by default.",
-   "topics": [
-    "agent-framework",
-    "agents",
-    "ai",
-    "checkpointing",
-    "deterministic",
-    "durable-execution",
-    "javascript-engine",
-    "llm",
-    "replay",
-    "resumable",
-    "rust",
-    "typescript"
-   ],
-   "category": "Orchestration",
-   "momentum": 65,
-   "rank": 194
-  },
-  {
-   "name": "Agent_Memory_Techniques",
-   "full_name": "NirDiamant/Agent_Memory_Techniques",
-   "slug": "nirdiamant-agent-memory-techniques",
-   "url": "https://github.com/NirDiamant/Agent_Memory_Techniques",
-   "owner": "NirDiamant",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/28316913?v=4",
-   "stars": 813,
-   "forks": 108,
-   "open_issues": 1,
-   "language": "Jupyter Notebook",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-07-14T18:50:35Z",
-   "created_at": "2026-05-05T21:08:23Z",
-   "description": "Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, episodic and semantic memory, MemGPT, Mem0, Letta, Zep, Graphiti, LoCoMo benchmarks, and production patterns.",
-   "topics": [
-    "agent-memory",
-    "ai-agents",
-    "anthropic",
-    "episodic-memory",
-    "generative-ai",
-    "graphiti",
-    "knowledge-graph",
-    "langchain",
-    "letta",
-    "llm",
-    "llm-agents",
-    "llm-memory",
-    "mem0",
-    "memgpt",
-    "openai",
-    "python",
-    "rag",
-    "semantic-memory",
-    "vector-database",
-    "zep"
-   ],
-   "category": "Memory & State",
-   "momentum": 65,
-   "rank": 195
+   "rank": 192
   },
   {
    "name": "autogen",
@@ -6518,9 +6425,9 @@
    "url": "https://github.com/microsoft/autogen",
    "owner": "microsoft",
    "owner_avatar": "https://avatars.githubusercontent.com/u/6154722?v=4",
-   "stars": 59960,
-   "forks": 9024,
-   "open_issues": 972,
+   "stars": 59981,
+   "forks": 9027,
+   "open_issues": 974,
    "language": "Python",
    "license": "CC-BY-4.0",
    "pushed_at": "2026-04-15T11:59:09Z",
@@ -6540,7 +6447,7 @@
    ],
    "category": "Multi-Agent",
    "momentum": 64,
-   "rank": 196
+   "rank": 193
   },
   {
    "name": "hive",
@@ -6549,9 +6456,9 @@
    "url": "https://github.com/aden-hive/hive",
    "owner": "aden-hive",
    "owner_avatar": "https://avatars.githubusercontent.com/u/262650699?v=4",
-   "stars": 10768,
-   "forks": 5667,
-   "open_issues": 1312,
+   "stars": 10771,
+   "forks": 5668,
+   "open_issues": 1314,
    "language": "Python",
    "license": "Apache-2.0",
    "pushed_at": "2026-05-29T21:55:22Z",
@@ -6575,7 +6482,7 @@
    ],
    "category": "Multi-Agent",
    "momentum": 64,
-   "rank": 197
+   "rank": 194
   },
   {
    "name": "opengap",
@@ -6606,47 +6513,69 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 64,
-   "rank": 198
+   "rank": 195
   },
   {
-   "name": "ai-devkit",
-   "full_name": "codeaholicguy/ai-devkit",
-   "slug": "codeaholicguy-ai-devkit",
-   "url": "https://github.com/codeaholicguy/ai-devkit",
-   "owner": "codeaholicguy",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/4585708?v=4",
-   "stars": 1565,
-   "forks": 243,
-   "open_issues": 8,
-   "language": "TypeScript",
-   "license": "",
-   "pushed_at": "2026-07-19T01:29:22Z",
-   "created_at": "2025-10-14T08:00:48Z",
-   "description": "The control plane for AI coding agents.",
+   "name": "VideoAgent",
+   "full_name": "HKUDS/VideoAgent",
+   "slug": "hkuds-videoagent",
+   "url": "https://github.com/HKUDS/VideoAgent",
+   "owner": "HKUDS",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/118165258?v=4",
+   "stars": 1535,
+   "forks": 215,
+   "open_issues": 12,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-07-22T01:44:05Z",
+   "created_at": "2025-07-16T11:35:25Z",
+   "description": "\"VideoAgent: All-in-One Agentic Framework for Video Understanding, Editing, and Remaking\"",
    "topics": [
-    "agent-framework",
-    "agent-skills",
-    "ai",
-    "ai-agents",
-    "ai-coding",
-    "antigravity",
-    "claude-code",
-    "cli",
-    "codex-cli",
-    "coding-agents",
-    "cursor-ai",
-    "developer-tools",
-    "gemini-cli",
-    "mcp",
-    "memory",
-    "opencode",
-    "pi",
-    "software-engineering",
-    "workflow-automation"
+    "agents",
+    "audio-editing",
+    "audio-understanding",
+    "llm-agents",
+    "notebooklm",
+    "podcast",
+    "video-editing",
+    "video-understanding"
    ],
    "category": "Agent Frameworks",
    "momentum": 64,
-   "rank": 199
+   "rank": 196
+  },
+  {
+   "name": "chidori",
+   "full_name": "ThousandBirdsInc/chidori",
+   "slug": "thousandbirdsinc-chidori",
+   "url": "https://github.com/ThousandBirdsInc/chidori",
+   "owner": "ThousandBirdsInc",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/132998066?v=4",
+   "stars": 1362,
+   "forks": 57,
+   "open_issues": 18,
+   "language": "Rust",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-07-24T23:29:37Z",
+   "created_at": "2023-07-19T23:21:46Z",
+   "description": "The agent framework where every run is durable, replayable, and resumable by default.",
+   "topics": [
+    "agent-framework",
+    "agents",
+    "ai",
+    "checkpointing",
+    "deterministic",
+    "durable-execution",
+    "javascript-engine",
+    "llm",
+    "replay",
+    "resumable",
+    "rust",
+    "typescript"
+   ],
+   "category": "Orchestration",
+   "momentum": 64,
+   "rank": 197
   },
   {
    "name": "evo",
@@ -6655,7 +6584,7 @@
    "url": "https://github.com/evo-hq/evo",
    "owner": "evo-hq",
    "owner_avatar": "https://avatars.githubusercontent.com/u/274232282?v=4",
-   "stars": 1350,
+   "stars": 1352,
    "forks": 101,
    "open_issues": 17,
    "language": "Python",
@@ -6675,7 +6604,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 64,
-   "rank": 200
+   "rank": 198
   },
   {
    "name": "meta-harness",
@@ -6684,7 +6613,7 @@
    "url": "https://github.com/stanford-iris-lab/meta-harness",
    "owner": "stanford-iris-lab",
    "owner_avatar": "https://avatars.githubusercontent.com/u/63766302?v=4",
-   "stars": 1324,
+   "stars": 1326,
    "forks": 127,
    "open_issues": 6,
    "language": "Python",
@@ -6698,7 +6627,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 64,
-   "rank": 201
+   "rank": 199
   },
   {
    "name": "commonly",
@@ -6707,12 +6636,12 @@
    "url": "https://github.com/Team-Commonly/commonly",
    "owner": "Team-Commonly",
    "owner_avatar": "https://avatars.githubusercontent.com/u/197545937?v=4",
-   "stars": 1274,
+   "stars": 1276,
    "forks": 180,
-   "open_issues": 48,
+   "open_issues": 50,
    "language": "TypeScript",
    "license": "NOASSERTION",
-   "pushed_at": "2026-07-25T04:37:16Z",
+   "pushed_at": "2026-07-25T22:44:00Z",
    "created_at": "2025-02-03T02:13:30Z",
    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. Any runtime, your infra — no per-agent fees.",
    "topics": [
@@ -6738,45 +6667,48 @@
    ],
    "category": "Memory & State",
    "momentum": 64,
-   "rank": 202
+   "rank": 200
   },
   {
-   "name": "WorldX",
-   "full_name": "YGYOOO/WorldX",
-   "slug": "ygyooo-worldx",
-   "url": "https://github.com/YGYOOO/WorldX",
-   "owner": "YGYOOO",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/15754991?v=4",
-   "stars": 1226,
-   "forks": 197,
-   "open_issues": 8,
-   "language": "TypeScript",
-   "license": "MIT",
-   "pushed_at": "2026-07-08T07:48:52Z",
-   "created_at": "2026-04-18T06:24:32Z",
-   "description": "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own. 一句话生成一个AI自主驱动的世界.",
+   "name": "Agent_Memory_Techniques",
+   "full_name": "NirDiamant/Agent_Memory_Techniques",
+   "slug": "nirdiamant-agent-memory-techniques",
+   "url": "https://github.com/NirDiamant/Agent_Memory_Techniques",
+   "owner": "NirDiamant",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/28316913?v=4",
+   "stars": 816,
+   "forks": 109,
+   "open_issues": 1,
+   "language": "Jupyter Notebook",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-07-14T18:50:35Z",
+   "created_at": "2026-05-05T21:08:23Z",
+   "description": "Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, episodic and semantic memory, MemGPT, Mem0, Letta, Zep, Graphiti, LoCoMo benchmarks, and production patterns.",
    "topics": [
-    "agent",
-    "ai",
+    "agent-memory",
     "ai-agents",
-    "ai-characters",
-    "ai-simulation",
-    "ai-world",
-    "emergent-behavior",
-    "game-ai",
-    "generative-agents",
+    "anthropic",
+    "episodic-memory",
     "generative-ai",
+    "graphiti",
+    "knowledge-graph",
+    "langchain",
+    "letta",
     "llm",
     "llm-agents",
-    "multi-agent-simulation",
-    "open-source",
-    "phaser",
-    "pixel-art",
-    "typescript"
+    "llm-memory",
+    "mem0",
+    "memgpt",
+    "openai",
+    "python",
+    "rag",
+    "semantic-memory",
+    "vector-database",
+    "zep"
    ],
-   "category": "Agent Frameworks",
+   "category": "Memory & State",
    "momentum": 64,
-   "rank": 203
+   "rank": 201
   },
   {
    "name": "web-ui",
@@ -6785,9 +6717,9 @@
    "url": "https://github.com/browser-use/web-ui",
    "owner": "browser-use",
    "owner_avatar": "https://avatars.githubusercontent.com/u/192012301?v=4",
-   "stars": 16241,
-   "forks": 2722,
-   "open_issues": 322,
+   "stars": 16244,
+   "forks": 2723,
+   "open_issues": 323,
    "language": "Python",
    "license": "MIT",
    "pushed_at": "2026-05-15T07:26:24Z",
@@ -6801,7 +6733,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 63,
-   "rank": 204
+   "rank": 202
   },
   {
    "name": "Webwright",
@@ -6810,8 +6742,8 @@
    "url": "https://github.com/microsoft/Webwright",
    "owner": "microsoft",
    "owner_avatar": "https://avatars.githubusercontent.com/u/6154722?v=4",
-   "stars": 5836,
-   "forks": 367,
+   "stars": 5837,
+   "forks": 368,
    "open_issues": 46,
    "language": "Python",
    "license": "MIT",
@@ -6821,7 +6753,7 @@
    "topics": [],
    "category": "Tools & Browser",
    "momentum": 63,
-   "rank": 205
+   "rank": 203
   },
   {
    "name": "ai-agents-from-zero",
@@ -6830,8 +6762,8 @@
    "url": "https://github.com/didilili/ai-agents-from-zero",
    "owner": "didilili",
    "owner_avatar": "https://avatars.githubusercontent.com/u/49889928?v=4",
-   "stars": 3024,
-   "forks": 437,
+   "stars": 3037,
+   "forks": 439,
    "open_issues": 28,
    "language": "Python",
    "license": "MIT",
@@ -6859,7 +6791,7 @@
    ],
    "category": "Orchestration",
    "momentum": 63,
-   "rank": 206
+   "rank": 204
   },
   {
    "name": "aideml",
@@ -6868,7 +6800,7 @@
    "url": "https://github.com/WecoAI/aideml",
    "owner": "WecoAI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/132215366?v=4",
-   "stars": 1443,
+   "stars": 1444,
    "forks": 208,
    "open_issues": 2,
    "language": "Python",
@@ -6890,7 +6822,45 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 63,
-   "rank": 207
+   "rank": 205
+  },
+  {
+   "name": "WorldX",
+   "full_name": "YGYOOO/WorldX",
+   "slug": "ygyooo-worldx",
+   "url": "https://github.com/YGYOOO/WorldX",
+   "owner": "YGYOOO",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/15754991?v=4",
+   "stars": 1226,
+   "forks": 198,
+   "open_issues": 8,
+   "language": "TypeScript",
+   "license": "MIT",
+   "pushed_at": "2026-07-08T07:48:52Z",
+   "created_at": "2026-04-18T06:24:32Z",
+   "description": "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own. 一句话生成一个AI自主驱动的世界.",
+   "topics": [
+    "agent",
+    "ai",
+    "ai-agents",
+    "ai-characters",
+    "ai-simulation",
+    "ai-world",
+    "emergent-behavior",
+    "game-ai",
+    "generative-agents",
+    "generative-ai",
+    "llm",
+    "llm-agents",
+    "multi-agent-simulation",
+    "open-source",
+    "phaser",
+    "pixel-art",
+    "typescript"
+   ],
+   "category": "Agent Frameworks",
+   "momentum": 63,
+   "rank": 206
   },
   {
    "name": "dynamiq",
@@ -6904,7 +6874,7 @@
    "open_issues": 11,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-23T15:05:09Z",
+   "pushed_at": "2026-07-25T17:30:01Z",
    "created_at": "2024-09-26T10:20:26Z",
    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
    "topics": [
@@ -6918,7 +6888,7 @@
    ],
    "category": "Orchestration",
    "momentum": 63,
-   "rank": 208
+   "rank": 207
   },
   {
    "name": "codex-autoresearch",
@@ -6945,7 +6915,7 @@
    ],
    "category": "Memory & State",
    "momentum": 63,
-   "rank": 209
+   "rank": 208
   },
   {
    "name": "mobilegym",
@@ -6985,41 +6955,7 @@
    ],
    "category": "Tools & Browser",
    "momentum": 63,
-   "rank": 210
-  },
-  {
-   "name": "Agent-S",
-   "full_name": "simular-ai/Agent-S",
-   "slug": "simular-ai-agent-s",
-   "url": "https://github.com/simular-ai/Agent-S",
-   "owner": "simular-ai",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/99358647?v=4",
-   "stars": 12063,
-   "forks": 1410,
-   "open_issues": 37,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-05-13T07:28:44Z",
-   "created_at": "2024-10-09T15:43:12Z",
-   "description": "Agent S: an open agentic framework that uses computers like a human",
-   "topics": [
-    "agent-computer-interface",
-    "ai-agents",
-    "computer-automation",
-    "computer-use",
-    "computer-use-agent",
-    "cua",
-    "grounding",
-    "gui-agents",
-    "in-context-reinforcement-learning",
-    "memory",
-    "mllm",
-    "planning",
-    "retrieval-augmented-generation"
-   ],
-   "category": "Agent Frameworks",
-   "momentum": 62,
-   "rank": 211
+   "rank": 209
   },
   {
    "name": "AGiXT",
@@ -7054,7 +6990,7 @@
    ],
    "category": "Memory & State",
    "momentum": 62,
-   "rank": 212
+   "rank": 210
   },
   {
    "name": "harmonist",
@@ -7063,7 +6999,7 @@
    "url": "https://github.com/GammaLabTechnologies/harmonist",
    "owner": "GammaLabTechnologies",
    "owner_avatar": "https://avatars.githubusercontent.com/u/278484961?v=4",
-   "stars": 2371,
+   "stars": 2372,
    "forks": 228,
    "open_issues": 0,
    "language": "Python",
@@ -7085,7 +7021,7 @@
    ],
    "category": "Orchestration",
    "momentum": 62,
-   "rank": 213
+   "rank": 211
   },
   {
    "name": "agent",
@@ -7116,7 +7052,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 62,
-   "rank": 214
+   "rank": 212
   },
   {
    "name": "Foundry",
@@ -7156,7 +7092,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 62,
-   "rank": 215
+   "rank": 213
   },
   {
    "name": "helix",
@@ -7165,12 +7101,12 @@
    "url": "https://github.com/helixml/helix",
    "owner": "helixml",
    "owner_avatar": "https://avatars.githubusercontent.com/u/149581110?v=4",
-   "stars": 792,
+   "stars": 793,
    "forks": 75,
    "open_issues": 113,
    "language": "Go",
    "license": "NOASSERTION",
-   "pushed_at": "2026-07-24T17:23:09Z",
+   "pushed_at": "2026-07-25T15:51:04Z",
    "created_at": "2023-10-17T07:11:12Z",
    "description": "♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini and open models on a full private AI Stack ♾️",
    "topics": [
@@ -7195,7 +7131,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 62,
-   "rank": 216
+   "rank": 214
   },
   {
    "name": "ChatTTS",
@@ -7204,8 +7140,8 @@
    "url": "https://github.com/2noise/ChatTTS",
    "owner": "2noise",
    "owner_avatar": "https://avatars.githubusercontent.com/u/164844019?v=4",
-   "stars": 39672,
-   "forks": 4250,
+   "stars": 39681,
+   "forks": 4251,
    "open_issues": 62,
    "language": "Python",
    "license": "AGPL-3.0",
@@ -7233,7 +7169,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 61,
-   "rank": 217
+   "rank": 215
   },
   {
    "name": "Vane",
@@ -7242,7 +7178,7 @@
    "url": "https://github.com/ItzCrazyKns/Vane",
    "owner": "ItzCrazyKns",
    "owner_avatar": "https://avatars.githubusercontent.com/u/95534749?v=4",
-   "stars": 35861,
+   "stars": 35870,
    "forks": 3955,
    "open_issues": 338,
    "language": "TypeScript",
@@ -7268,7 +7204,41 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 61,
-   "rank": 218
+   "rank": 216
+  },
+  {
+   "name": "Agent-S",
+   "full_name": "simular-ai/Agent-S",
+   "slug": "simular-ai-agent-s",
+   "url": "https://github.com/simular-ai/Agent-S",
+   "owner": "simular-ai",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/99358647?v=4",
+   "stars": 12072,
+   "forks": 1412,
+   "open_issues": 37,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-05-13T07:28:44Z",
+   "created_at": "2024-10-09T15:43:12Z",
+   "description": "Agent S: an open agentic framework that uses computers like a human",
+   "topics": [
+    "agent-computer-interface",
+    "ai-agents",
+    "computer-automation",
+    "computer-use",
+    "computer-use-agent",
+    "cua",
+    "grounding",
+    "gui-agents",
+    "in-context-reinforcement-learning",
+    "memory",
+    "mllm",
+    "planning",
+    "retrieval-augmented-generation"
+   ],
+   "category": "Agent Frameworks",
+   "momentum": 61,
+   "rank": 217
   },
   {
    "name": "comfyui_LLM_party",
@@ -7308,7 +7278,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 61,
-   "rank": 219
+   "rank": 218
   },
   {
    "name": "agentic_security",
@@ -7317,7 +7287,7 @@
    "url": "https://github.com/msoedov/agentic_security",
    "owner": "msoedov",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1958116?v=4",
-   "stars": 1940,
+   "stars": 1941,
    "forks": 269,
    "open_issues": 70,
    "language": "Python",
@@ -7342,8 +7312,8 @@
     "prompt-testing"
    ],
    "category": "Agent Frameworks",
-   "momentum": 61,
-   "rank": 220
+   "momentum": 60,
+   "rank": 219
   },
   {
    "name": "swarm",
@@ -7353,7 +7323,7 @@
    "owner": "openai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/14957082?v=4",
    "stars": 21858,
-   "forks": 2334,
+   "forks": 2333,
    "open_issues": 37,
    "language": "Python",
    "license": "MIT",
@@ -7363,36 +7333,7 @@
    "topics": [],
    "category": "Multi-Agent",
    "momentum": 59,
-   "rank": 221
-  },
-  {
-   "name": "verl-agent",
-   "full_name": "langfengQ/verl-agent",
-   "slug": "langfengq-verl-agent",
-   "url": "https://github.com/langfengQ/verl-agent",
-   "owner": "langfengQ",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/94028949?v=4",
-   "stars": 2152,
-   "forks": 206,
-   "open_issues": 65,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-06-09T13:35:49Z",
-   "created_at": "2025-03-23T13:18:13Z",
-   "description": "verl-agent is an extension of veRL, designed for training LLM/VLM agents via RL. verl-agent is also the official code for paper \"Group-in-Group Policy Optimization for LLM Agent Training\"",
-   "topics": [
-    "agent-framework",
-    "deepseek-r1",
-    "gigpo",
-    "grpo",
-    "large-language-models",
-    "llm-agents",
-    "llm-training",
-    "reinforcement-learning"
-   ],
-   "category": "Agent Frameworks",
-   "momentum": 59,
-   "rank": 222
+   "rank": 220
   },
   {
    "name": "designer-skills",
@@ -7401,7 +7342,7 @@
    "url": "https://github.com/Owl-Listener/designer-skills",
    "owner": "Owl-Listener",
    "owner_avatar": "https://avatars.githubusercontent.com/u/200631076?v=4",
-   "stars": 1899,
+   "stars": 1907,
    "forks": 317,
    "open_issues": 3,
    "language": "Markdown",
@@ -7423,7 +7364,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 59,
-   "rank": 223
+   "rank": 221
   },
   {
    "name": "Autonomous-Agents",
@@ -7464,7 +7405,36 @@
    ],
    "category": "Autonomous Agents",
    "momentum": 59,
-   "rank": 224
+   "rank": 222
+  },
+  {
+   "name": "verl-agent",
+   "full_name": "langfengQ/verl-agent",
+   "slug": "langfengq-verl-agent",
+   "url": "https://github.com/langfengQ/verl-agent",
+   "owner": "langfengQ",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/94028949?v=4",
+   "stars": 2154,
+   "forks": 206,
+   "open_issues": 65,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-06-09T13:35:49Z",
+   "created_at": "2025-03-23T13:18:13Z",
+   "description": "verl-agent is an extension of veRL, designed for training LLM/VLM agents via RL. verl-agent is also the official code for paper \"Group-in-Group Policy Optimization for LLM Agent Training\"",
+   "topics": [
+    "agent-framework",
+    "deepseek-r1",
+    "gigpo",
+    "grpo",
+    "large-language-models",
+    "llm-agents",
+    "llm-training",
+    "reinforcement-learning"
+   ],
+   "category": "Agent Frameworks",
+   "momentum": 58,
+   "rank": 223
   },
   {
    "name": "Paper2Slides",
@@ -7473,8 +7443,8 @@
    "url": "https://github.com/HKUDS/Paper2Slides",
    "owner": "HKUDS",
    "owner_avatar": "https://avatars.githubusercontent.com/u/118165258?v=4",
-   "stars": 3792,
-   "forks": 474,
+   "stars": 3793,
+   "forks": 473,
    "open_issues": 23,
    "language": "Python",
    "license": "MIT",
@@ -7488,8 +7458,8 @@
     "paper2slides"
    ],
    "category": "Agent Frameworks",
-   "momentum": 58,
-   "rank": 225
+   "momentum": 57,
+   "rank": 224
   },
   {
    "name": "a-evolve",
@@ -7517,7 +7487,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 57,
-   "rank": 226
+   "rank": 225
   },
   {
    "name": "danghuangshang",
@@ -7526,7 +7496,7 @@
    "url": "https://github.com/wanikua/danghuangshang",
    "owner": "wanikua",
    "owner_avatar": "https://avatars.githubusercontent.com/u/40750918?v=4",
-   "stars": 2699,
+   "stars": 2698,
    "forks": 251,
    "open_issues": 37,
    "language": "TypeScript",
@@ -7558,7 +7528,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 56,
-   "rank": 227
+   "rank": 226
   },
   {
    "name": "better-agents",
@@ -7589,7 +7559,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 56,
-   "rank": 228
+   "rank": 227
   },
   {
    "name": "auto-deep-researcher-24x7",
@@ -7622,7 +7592,7 @@
    ],
    "category": "Memory & State",
    "momentum": 56,
-   "rank": 229
+   "rank": 228
   },
   {
    "name": "DecryptPrompt",
@@ -7631,7 +7601,7 @@
    "url": "https://github.com/DSXiangLi/DecryptPrompt",
    "owner": "DSXiangLi",
    "owner_avatar": "https://avatars.githubusercontent.com/u/37739462?v=4",
-   "stars": 3426,
+   "stars": 3428,
    "forks": 320,
    "open_issues": 1,
    "language": "",
@@ -7656,36 +7626,8 @@
     "zero-shot-learning"
    ],
    "category": "Agent Frameworks",
-   "momentum": 55,
-   "rank": 230
-  },
-  {
-   "name": "spacebot",
-   "full_name": "spacedriveapp/spacebot",
-   "slug": "spacedriveapp-spacebot",
-   "url": "https://github.com/spacedriveapp/spacebot",
-   "owner": "spacedriveapp",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/101227423?v=4",
-   "stars": 2343,
-   "forks": 350,
-   "open_issues": 204,
-   "language": "Rust",
-   "license": "NOASSERTION",
-   "pushed_at": "2026-05-09T21:44:04Z",
-   "created_at": "2026-02-11T23:53:16Z",
-   "description": "An AI agent for teams, communities, and multi-user environments.",
-   "topics": [
-    "agent",
-    "agentic",
-    "ai",
-    "automation",
-    "developer-tools",
-    "enterprise",
-    "messaging"
-   ],
-   "category": "Agent Frameworks",
    "momentum": 54,
-   "rank": 231
+   "rank": 229
   },
   {
    "name": "NanoResearch",
@@ -7719,7 +7661,7 @@
    ],
    "category": "Autonomous Agents",
    "momentum": 54,
-   "rank": 232
+   "rank": 230
   },
   {
    "name": "PocketFlow",
@@ -7728,8 +7670,8 @@
    "url": "https://github.com/The-Pocket/PocketFlow",
    "owner": "The-Pocket",
    "owner_avatar": "https://avatars.githubusercontent.com/u/193350244?v=4",
-   "stars": 11037,
-   "forks": 1199,
+   "stars": 11042,
+   "forks": 1201,
    "open_issues": 72,
    "language": "Python",
    "license": "MIT",
@@ -7760,7 +7702,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 53,
-   "rank": 233
+   "rank": 231
   },
   {
    "name": "openbrowser",
@@ -7787,6 +7729,60 @@
    ],
    "category": "Autonomous Agents",
    "momentum": 53,
+   "rank": 232
+  },
+  {
+   "name": "spacebot",
+   "full_name": "spacedriveapp/spacebot",
+   "slug": "spacedriveapp-spacebot",
+   "url": "https://github.com/spacedriveapp/spacebot",
+   "owner": "spacedriveapp",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/101227423?v=4",
+   "stars": 2343,
+   "forks": 350,
+   "open_issues": 204,
+   "language": "Rust",
+   "license": "NOASSERTION",
+   "pushed_at": "2026-05-09T21:44:04Z",
+   "created_at": "2026-02-11T23:53:16Z",
+   "description": "An AI agent for teams, communities, and multi-user environments.",
+   "topics": [
+    "agent",
+    "agentic",
+    "ai",
+    "automation",
+    "developer-tools",
+    "enterprise",
+    "messaging"
+   ],
+   "category": "Agent Frameworks",
+   "momentum": 53,
+   "rank": 233
+  },
+  {
+   "name": "MetaGPT",
+   "full_name": "FoundationAgents/MetaGPT",
+   "slug": "foundationagents-metagpt",
+   "url": "https://github.com/FoundationAgents/MetaGPT",
+   "owner": "FoundationAgents",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/198047230?v=4",
+   "stars": 69516,
+   "forks": 8866,
+   "open_issues": 146,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-01-21T10:12:33Z",
+   "created_at": "2023-06-30T09:04:55Z",
+   "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+   "topics": [
+    "agent",
+    "gpt",
+    "llm",
+    "metagpt",
+    "multi-agent"
+   ],
+   "category": "Multi-Agent",
+   "momentum": 51,
    "rank": 234
   },
   {
@@ -7796,7 +7792,7 @@
    "url": "https://github.com/ATH-MaaS/ComfyUI-Copilot",
    "owner": "ATH-MaaS",
    "owner_avatar": "https://avatars.githubusercontent.com/u/172576026?v=4",
-   "stars": 5394,
+   "stars": 5396,
    "forks": 353,
    "open_issues": 52,
    "language": "TypeScript",
@@ -7820,54 +7816,8 @@
     "stable-diffusion"
    ],
    "category": "Orchestration",
-   "momentum": 52,
+   "momentum": 51,
    "rank": 235
-  },
-  {
-   "name": "MetaGPT",
-   "full_name": "FoundationAgents/MetaGPT",
-   "slug": "foundationagents-metagpt",
-   "url": "https://github.com/FoundationAgents/MetaGPT",
-   "owner": "FoundationAgents",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/198047230?v=4",
-   "stars": 69505,
-   "forks": 8867,
-   "open_issues": 146,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-01-21T10:12:33Z",
-   "created_at": "2023-06-30T09:04:55Z",
-   "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
-   "topics": [
-    "agent",
-    "gpt",
-    "llm",
-    "metagpt",
-    "multi-agent"
-   ],
-   "category": "Multi-Agent",
-   "momentum": 51,
-   "rank": 236
-  },
-  {
-   "name": "Qwen-Agent",
-   "full_name": "QwenLM/Qwen-Agent",
-   "slug": "qwenlm-qwen-agent",
-   "url": "https://github.com/QwenLM/Qwen-Agent",
-   "owner": "QwenLM",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/141221163?v=4",
-   "stars": 16843,
-   "forks": 1677,
-   "open_issues": 523,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-03-04T08:15:07Z",
-   "created_at": "2023-09-22T02:24:56Z",
-   "description": "Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.",
-   "topics": [],
-   "category": "Agent Frameworks",
-   "momentum": 51,
-   "rank": 237
   },
   {
    "name": "WorldSeed",
@@ -7908,6 +7858,51 @@
    ],
    "category": "Multi-Agent",
    "momentum": 51,
+   "rank": 236
+  },
+  {
+   "name": "Qwen-Agent",
+   "full_name": "QwenLM/Qwen-Agent",
+   "slug": "qwenlm-qwen-agent",
+   "url": "https://github.com/QwenLM/Qwen-Agent",
+   "owner": "QwenLM",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/141221163?v=4",
+   "stars": 16849,
+   "forks": 1678,
+   "open_issues": 524,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-03-04T08:15:07Z",
+   "created_at": "2023-09-22T02:24:56Z",
+   "description": "Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.",
+   "topics": [],
+   "category": "Agent Frameworks",
+   "momentum": 50,
+   "rank": 237
+  },
+  {
+   "name": "openclaw-mission-control",
+   "full_name": "abhi1693/openclaw-mission-control",
+   "slug": "abhi1693-openclaw-mission-control",
+   "url": "https://github.com/abhi1693/openclaw-mission-control",
+   "owner": "abhi1693",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/5083532?v=4",
+   "stars": 4101,
+   "forks": 827,
+   "open_issues": 86,
+   "language": "TypeScript",
+   "license": "MIT",
+   "pushed_at": "2026-04-06T23:48:57Z",
+   "created_at": "2026-02-01T16:53:45Z",
+   "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.",
+   "topics": [
+    "ai-agents",
+    "automation",
+    "openclaw",
+    "orchestration"
+   ],
+   "category": "Multi-Agent",
+   "momentum": 50,
    "rank": 238
   },
   {
@@ -7917,9 +7912,9 @@
    "url": "https://github.com/ValueCell-ai/valuecell",
    "owner": "ValueCell-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/234340495?v=4",
-   "stars": 10947,
-   "forks": 1813,
-   "open_issues": 64,
+   "stars": 10949,
+   "forks": 1814,
+   "open_issues": 65,
    "language": "Python",
    "license": "Apache-2.0",
    "pushed_at": "2026-03-09T08:30:21Z",
@@ -7940,33 +7935,8 @@
     "stock-market"
    ],
    "category": "Multi-Agent",
-   "momentum": 50,
+   "momentum": 49,
    "rank": 239
-  },
-  {
-   "name": "openclaw-mission-control",
-   "full_name": "abhi1693/openclaw-mission-control",
-   "slug": "abhi1693-openclaw-mission-control",
-   "url": "https://github.com/abhi1693/openclaw-mission-control",
-   "owner": "abhi1693",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/5083532?v=4",
-   "stars": 4102,
-   "forks": 826,
-   "open_issues": 86,
-   "language": "TypeScript",
-   "license": "MIT",
-   "pushed_at": "2026-04-06T23:48:57Z",
-   "created_at": "2026-02-01T16:53:45Z",
-   "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.",
-   "topics": [
-    "ai-agents",
-    "automation",
-    "openclaw",
-    "orchestration"
-   ],
-   "category": "Multi-Agent",
-   "momentum": 50,
-   "rank": 240
   },
   {
    "name": "AgentGPT",
@@ -7975,8 +7945,8 @@
    "url": "https://github.com/reworkd/AgentGPT",
    "owner": "reworkd",
    "owner_avatar": "https://avatars.githubusercontent.com/u/120154269?v=4",
-   "stars": 36288,
-   "forks": 9298,
+   "stars": 36292,
+   "forks": 9297,
    "open_issues": 219,
    "language": "TypeScript",
    "license": "GPL-3.0",
@@ -8002,7 +7972,7 @@
    ],
    "category": "Autonomous Agents",
    "momentum": 48,
-   "rank": 241
+   "rank": 240
   },
   {
    "name": "Star-Office-UI",
@@ -8011,7 +7981,7 @@
    "url": "https://github.com/ringhyacinth/Star-Office-UI",
    "owner": "ringhyacinth",
    "owner_avatar": "https://avatars.githubusercontent.com/u/63448697?v=4",
-   "stars": 7397,
+   "stars": 7400,
    "forks": 795,
    "open_issues": 23,
    "language": "HTML",
@@ -8033,7 +8003,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 48,
-   "rank": 242
+   "rank": 241
   },
   {
    "name": "youtu-agent",
@@ -8042,7 +8012,7 @@
    "url": "https://github.com/TencentCloudADP/youtu-agent",
    "owner": "TencentCloudADP",
    "owner_avatar": "https://avatars.githubusercontent.com/u/226510916?v=4",
-   "stars": 4581,
+   "stars": 4582,
    "forks": 471,
    "open_issues": 66,
    "language": "Python",
@@ -8058,7 +8028,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 48,
-   "rank": 243
+   "rank": 242
   },
   {
    "name": "RagaAI-Catalyst",
@@ -8067,8 +8037,8 @@
    "url": "https://github.com/raga-ai-hub/RagaAI-Catalyst",
    "owner": "raga-ai-hub",
    "owner_avatar": "https://avatars.githubusercontent.com/u/161833182?v=4",
-   "stars": 16141,
-   "forks": 3575,
+   "stars": 16142,
+   "forks": 3576,
    "open_issues": 34,
    "language": "Python",
    "license": "Apache-2.0",
@@ -8091,7 +8061,7 @@
    ],
    "category": "Multi-Agent",
    "momentum": 47,
-   "rank": 244
+   "rank": 243
   },
   {
    "name": "ralph",
@@ -8100,8 +8070,8 @@
    "url": "https://github.com/snarktank/ralph",
    "owner": "snarktank",
    "owner_avatar": "https://avatars.githubusercontent.com/u/152063952?v=4",
-   "stars": 21265,
-   "forks": 2057,
+   "stars": 21271,
+   "forks": 2058,
    "open_issues": 74,
    "language": "TypeScript",
    "license": "MIT",
@@ -8111,7 +8081,7 @@
    "topics": [],
    "category": "Autonomous Agents",
    "momentum": 46,
-   "rank": 245
+   "rank": 244
   },
   {
    "name": "DemoGPT",
@@ -8152,7 +8122,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 46,
-   "rank": 246
+   "rank": 245
   },
   {
    "name": "eko",
@@ -8193,7 +8163,7 @@
    ],
    "category": "Orchestration",
    "momentum": 45,
-   "rank": 247
+   "rank": 246
   },
   {
    "name": "awesome_ai_agents",
@@ -8202,7 +8172,7 @@
    "url": "https://github.com/jim-schwoebel/awesome_ai_agents",
    "owner": "jim-schwoebel",
    "owner_avatar": "https://avatars.githubusercontent.com/u/30424731?v=4",
-   "stars": 1897,
+   "stars": 1899,
    "forks": 626,
    "open_issues": 202,
    "language": "",
@@ -8234,7 +8204,7 @@
    ],
    "category": "Collections",
    "momentum": 45,
-   "rank": 248
+   "rank": 247
   },
   {
    "name": "SuperAGI",
@@ -8243,7 +8213,7 @@
    "url": "https://github.com/TransformerOptimus/SuperAGI",
    "owner": "TransformerOptimus",
    "owner_avatar": "https://avatars.githubusercontent.com/u/133493246?v=4",
-   "stars": 17640,
+   "stars": 17641,
    "forks": 2223,
    "open_issues": 270,
    "language": "Python",
@@ -8270,7 +8240,7 @@
    ],
    "category": "Autonomous Agents",
    "momentum": 44,
-   "rank": 249
+   "rank": 248
   },
   {
    "name": "sre",
@@ -8279,7 +8249,7 @@
    "url": "https://github.com/SmythOS/sre",
    "owner": "SmythOS",
    "owner_avatar": "https://avatars.githubusercontent.com/u/131191966?v=4",
-   "stars": 1285,
+   "stars": 1286,
    "forks": 198,
    "open_issues": 33,
    "language": "TypeScript",
@@ -8311,7 +8281,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 44,
-   "rank": 250
+   "rank": 249
   },
   {
    "name": "nanobrowser",
@@ -8320,9 +8290,9 @@
    "url": "https://github.com/nanobrowser/nanobrowser",
    "owner": "nanobrowser",
    "owner_avatar": "https://avatars.githubusercontent.com/u/180927616?v=4",
-   "stars": 13505,
-   "forks": 1419,
-   "open_issues": 71,
+   "stars": 13507,
+   "forks": 1418,
+   "open_issues": 72,
    "language": "TypeScript",
    "license": "Apache-2.0",
    "pushed_at": "2025-11-24T11:10:03Z",
@@ -8352,27 +8322,7 @@
    ],
    "category": "Tools & Browser",
    "momentum": 43,
-   "rank": 251
-  },
-  {
-   "name": "ROMA",
-   "full_name": "sentient-agi/ROMA",
-   "slug": "sentient-agi-roma",
-   "url": "https://github.com/sentient-agi/ROMA",
-   "owner": "sentient-agi",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/175796272?v=4",
-   "stars": 5103,
-   "forks": 773,
-   "open_issues": 30,
-   "language": "Python",
-   "license": "",
-   "pushed_at": "2026-02-16T21:30:31Z",
-   "created_at": "2025-05-12T19:35:31Z",
-   "description": "Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems.",
-   "topics": [],
-   "category": "Multi-Agent",
-   "momentum": 43,
-   "rank": 252
+   "rank": 250
   },
   {
    "name": "magentic",
@@ -8407,7 +8357,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 43,
-   "rank": 253
+   "rank": 251
   },
   {
    "name": "AutoAgent",
@@ -8416,7 +8366,7 @@
    "url": "https://github.com/HKUDS/AutoAgent",
    "owner": "HKUDS",
    "owner_avatar": "https://avatars.githubusercontent.com/u/118165258?v=4",
-   "stars": 9528,
+   "stars": 9532,
    "forks": 1339,
    "open_issues": 69,
    "language": "Python",
@@ -8430,7 +8380,27 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 42,
-   "rank": 254
+   "rank": 252
+  },
+  {
+   "name": "ROMA",
+   "full_name": "sentient-agi/ROMA",
+   "slug": "sentient-agi-roma",
+   "url": "https://github.com/sentient-agi/ROMA",
+   "owner": "sentient-agi",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/175796272?v=4",
+   "stars": 5101,
+   "forks": 773,
+   "open_issues": 30,
+   "language": "Python",
+   "license": "",
+   "pushed_at": "2026-02-16T21:30:31Z",
+   "created_at": "2025-05-12T19:35:31Z",
+   "description": "Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems.",
+   "topics": [],
+   "category": "Multi-Agent",
+   "momentum": 42,
+   "rank": 253
   },
   {
    "name": "XAgent",
@@ -8450,7 +8420,7 @@
    "topics": [],
    "category": "Autonomous Agents",
    "momentum": 41,
-   "rank": 255
+   "rank": 254
   },
   {
    "name": "ShortGPT",
@@ -8459,7 +8429,7 @@
    "url": "https://github.com/RayVentura/ShortGPT",
    "owner": "RayVentura",
    "owner_avatar": "https://avatars.githubusercontent.com/u/121462835?v=4",
-   "stars": 7724,
+   "stars": 7726,
    "forks": 1092,
    "open_issues": 84,
    "language": "Python",
@@ -8481,7 +8451,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 41,
-   "rank": 256
+   "rank": 255
   },
   {
    "name": "MindSearch",
@@ -8512,7 +8482,7 @@
    ],
    "category": "Multi-Agent",
    "momentum": 40,
-   "rank": 257
+   "rank": 256
   },
   {
    "name": "AppAgent",
@@ -8521,7 +8491,7 @@
    "url": "https://github.com/TencentQQGYLab/AppAgent",
    "owner": "TencentQQGYLab",
    "owner_avatar": "https://avatars.githubusercontent.com/u/163842438?v=4",
-   "stars": 6823,
+   "stars": 6824,
    "forks": 752,
    "open_issues": 97,
    "language": "Python",
@@ -8539,7 +8509,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 40,
-   "rank": 258
+   "rank": 257
   },
   {
    "name": "browser-agent",
@@ -8570,7 +8540,7 @@
    ],
    "category": "Tools & Browser",
    "momentum": 40,
-   "rank": 259
+   "rank": 258
   },
   {
    "name": "DevOpsGPT",
@@ -8590,7 +8560,7 @@
    "topics": [],
    "category": "Multi-Agent",
    "momentum": 39,
-   "rank": 260
+   "rank": 259
   },
   {
    "name": "agents",
@@ -8599,7 +8569,7 @@
    "url": "https://github.com/aiwaves-cn/agents",
    "owner": "aiwaves-cn",
    "owner_avatar": "https://avatars.githubusercontent.com/u/129118469?v=4",
-   "stars": 5957,
+   "stars": 5956,
    "forks": 482,
    "open_issues": 46,
    "language": "Python",
@@ -8614,7 +8584,7 @@
    ],
    "category": "Autonomous Agents",
    "momentum": 39,
-   "rank": 261
+   "rank": 260
   },
   {
    "name": "AgentBench",
@@ -8623,7 +8593,7 @@
    "url": "https://github.com/THUDM/AgentBench",
    "owner": "THUDM",
    "owner_avatar": "https://avatars.githubusercontent.com/u/48590610?v=4",
-   "stars": 3602,
+   "stars": 3603,
    "forks": 272,
    "open_issues": 75,
    "language": "Python",
@@ -8639,7 +8609,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 39,
-   "rank": 262
+   "rank": 261
   },
   {
    "name": "ragapp",
@@ -8666,7 +8636,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 38,
-   "rank": 263
+   "rank": 262
   },
   {
    "name": "codeinterpreter-api",
@@ -8676,7 +8646,7 @@
    "owner": "shroominic",
    "owner_avatar": "https://avatars.githubusercontent.com/u/34897716?v=4",
    "stars": 3848,
-   "forks": 388,
+   "forks": 387,
    "open_issues": 71,
    "language": "Python",
    "license": "MIT",
@@ -8693,7 +8663,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 37,
-   "rank": 264
+   "rank": 263
   },
   {
    "name": "rlcard",
@@ -8702,7 +8672,7 @@
    "url": "https://github.com/datamllab/rlcard",
    "owner": "datamllab",
    "owner_avatar": "https://avatars.githubusercontent.com/u/47761535?v=4",
-   "stars": 3520,
+   "stars": 3521,
    "forks": 751,
    "open_issues": 81,
    "language": "Python",
@@ -8732,7 +8702,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 37,
-   "rank": 265
+   "rank": 264
   },
   {
    "name": "llama-cpp-agent",
@@ -8761,7 +8731,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 37,
-   "rank": 266
+   "rank": 265
   },
   {
    "name": "Agently-Daily-News-Collector",
@@ -8789,7 +8759,7 @@
    ],
    "category": "Orchestration",
    "momentum": 37,
-   "rank": 267
+   "rank": 266
   },
   {
    "name": "codel",
@@ -8799,7 +8769,7 @@
    "owner": "semanser",
    "owner_avatar": "https://avatars.githubusercontent.com/u/4020045?v=4",
    "stars": 2463,
-   "forks": 202,
+   "forks": 201,
    "open_issues": 28,
    "language": "TypeScript",
    "license": "AGPL-3.0",
@@ -8819,7 +8789,7 @@
    ],
    "category": "Autonomous Agents",
    "momentum": 35,
-   "rank": 268
+   "rank": 267
   },
   {
    "name": "index",
@@ -8847,7 +8817,7 @@
    ],
    "category": "Tools & Browser",
    "momentum": 35,
-   "rank": 269
+   "rank": 268
   },
   {
    "name": "LLM-Agents-Papers",
@@ -8872,7 +8842,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 35,
-   "rank": 270
+   "rank": 269
   },
   {
    "name": "LLMCompiler",
@@ -8881,7 +8851,7 @@
    "url": "https://github.com/SqueezeAILab/LLMCompiler",
    "owner": "SqueezeAILab",
    "owner_avatar": "https://avatars.githubusercontent.com/u/92235103?v=4",
-   "stars": 1866,
+   "stars": 1867,
    "forks": 134,
    "open_issues": 8,
    "language": "Python",
@@ -8907,7 +8877,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 34,
-   "rank": 271
+   "rank": 270
   },
   {
    "name": "code-act",
@@ -8932,7 +8902,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 34,
-   "rank": 272
+   "rank": 271
   },
   {
    "name": "langchain-serve",
@@ -8964,7 +8934,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 34,
-   "rank": 273
+   "rank": 272
   },
   {
    "name": "TheoremExplainAgent",
@@ -8990,7 +8960,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 33,
-   "rank": 274
+   "rank": 273
   },
   {
    "name": "Director",
@@ -8999,7 +8969,7 @@
    "url": "https://github.com/video-db/Director",
    "owner": "video-db",
    "owner_avatar": "https://avatars.githubusercontent.com/u/153916972?v=4",
-   "stars": 1446,
+   "stars": 1448,
    "forks": 233,
    "open_issues": 20,
    "language": "Python",
@@ -9023,7 +8993,7 @@
    ],
    "category": "Orchestration",
    "momentum": 33,
-   "rank": 275
+   "rank": 274
   },
   {
    "name": "AIlice",
@@ -9033,7 +9003,7 @@
    "owner": "myshell-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/127754094?v=4",
    "stars": 1414,
-   "forks": 202,
+   "forks": 203,
    "open_issues": 7,
    "language": "Python",
    "license": "MIT",
@@ -9048,7 +9018,7 @@
    ],
    "category": "Autonomous Agents",
    "momentum": 33,
-   "rank": 276
+   "rank": 275
   },
   {
    "name": "KwaiAgents",
@@ -9076,7 +9046,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 32,
-   "rank": 277
+   "rank": 276
   },
   {
    "name": "groundingLMM",
@@ -9102,7 +9072,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 31,
-   "rank": 278
+   "rank": 277
   },
   {
    "name": "llm-functions",
@@ -9133,7 +9103,7 @@
    ],
    "category": "Agent Frameworks",
    "momentum": 30,
-   "rank": 279
+   "rank": 278
   }
  ]
 }
