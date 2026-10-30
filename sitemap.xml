@@ -40,7 +40,7 @@
   <url><loc>https://agents.kymatalabs.com/p/getzep-graphiti/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/trycua-cua/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/composiohq-composio/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://agents.kymatalabs.com/p/tencentcloud-tencentdb-agent-memory/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://agents.kymatalabs.com/p/openai-openai-agents-python/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/infisical-infisical/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/kestra-io-kestra/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/simstudioai-sim/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -49,20 +49,19 @@
   <url><loc>https://agents.kymatalabs.com/p/666ghj-bettafish/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/vxcontrol-pentagi/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/feder-cr-invisible-dots/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://agents.kymatalabs.com/p/openai-openai-agents-python/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://agents.kymatalabs.com/p/tencentcloud-tencentdb-agent-memory/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/deepset-ai-haystack/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/activepieces-activepieces/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/getpaseo-paseo/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/google-adk-python/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://agents.kymatalabs.com/p/teableio-teable/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/copilotkit-openbot/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/fosowl-agenticseek/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://agents.kymatalabs.com/p/teableio-teable/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/pydantic-pydantic-ai/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/camel-ai-owl/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/elizaos-eliza/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/arc53-docsgpt/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/windmill-labs-windmill/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://agents.kymatalabs.com/p/trhhubsd-artex/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/letta-ai-letta/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/gastownhall-gastown/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/emcie-co-parlant/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -74,11 +73,12 @@
   <url><loc>https://agents.kymatalabs.com/p/paradevai-paradev/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/eigent-ai-eigent/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/livekit-agents/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://agents.kymatalabs.com/p/nevamind-ai-memu/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/akitaonrails-ai-memory/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://agents.kymatalabs.com/p/nevamind-ai-memu/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/microsoft-agent-framework/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/lsdefine-genericagent/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/browseros-ai-browseros/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://agents.kymatalabs.com/p/trhhubsd-artex/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/assafelovic-gpt-researcher/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/nanobrowser-nanobrowser/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/evermind-ai-everos/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -93,6 +93,7 @@
   <url><loc>https://agents.kymatalabs.com/p/aden-hive-hive/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/openpipe-art/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/mcp-use-mcp-use/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://agents.kymatalabs.com/p/tigerless-labs-autoharness/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/yzhao062-pyod/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/alvinunreal-oh-my-opencode-slim/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/tencent-browserskill/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -109,10 +110,10 @@
   <url><loc>https://agents.kymatalabs.com/p/valuecell-ai-clawx/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/xerrors-yuxi/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/kyegomez-swarms/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://agents.kymatalabs.com/p/open-multi-agent-open-multi-agent/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/xiaobright-dsh-anchored-standard/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/memorilabs-memori/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/voltagent-voltagent/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://agents.kymatalabs.com/p/open-multi-agent-open-multi-agent/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/lilimozi-openhanako/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/stagewise-io-stagewise/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/mai-with-u-maibot/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -126,13 +127,12 @@
   <url><loc>https://agents.kymatalabs.com/p/agentscope-ai-agentscope-java/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/netease-youdao-lobsterai/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/modelengine-group-nexent/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://agents.kymatalabs.com/p/cloudflare-agents/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/evermind-ai-raven/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://agents.kymatalabs.com/p/cloudflare-agents/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/areal-project-areal/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/macro-inc-macro/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/sentelabsai-openexecutive/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/cft0808-edict/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://agents.kymatalabs.com/p/alibaba-spring-ai-alibaba/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/withastro-flue/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/yaoapp-yao/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/microsoft-cuawright/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -140,7 +140,6 @@
   <url><loc>https://agents.kymatalabs.com/p/camel-ai-oasis/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/iflytek-skillhub/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/ag2ai-ag2/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://agents.kymatalabs.com/p/darrenhinde-openagentscontrol/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/mvanhorn-cli-printing-press/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/agenta-ai-agenta/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/ibm-mcp-context-forge/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -149,7 +148,9 @@
   <url><loc>https://agents.kymatalabs.com/p/vrsen-agency-swarm/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/gptme-gptme/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/browser-use-web-ui/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://agents.kymatalabs.com/p/alibaba-spring-ai-alibaba/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/ageerle-ruoyi-ai/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://agents.kymatalabs.com/p/darrenhinde-openagentscontrol/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/solaceproducts-solace-agent-mesh/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/kungfu-systems-kungfu/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/crmne-ruby-llm/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -160,7 +161,6 @@
   <url><loc>https://agents.kymatalabs.com/p/strukto-ai-mirage/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/holmesgpt-holmesgpt/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/ascending-llc-jarvis-registry/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://agents.kymatalabs.com/p/runmaestro-maestro/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/alibaba-roll/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/gcwing-openbitfun/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/langchain-ai-langgraphjs/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -173,19 +173,20 @@
   <url><loc>https://agents.kymatalabs.com/p/yilewang-llm-for-zotero/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/dsxiangli-decryptprompt/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/i-am-bee-beeai-framework/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://agents.kymatalabs.com/p/maxmiksa-autonomous-company/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/software-mansion-argent/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://agents.kymatalabs.com/p/mll-lab-nu-ragen/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://agents.kymatalabs.com/p/boxlite-ai-boxlite/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/croffasia-itsaplan/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/zyrexnn-cybermes/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/microsoft-magentic-ui/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/firerpa-lamda/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/ruc-datalab-deepanalyze/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/eracle-openoutreach/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://agents.kymatalabs.com/p/maxmiksa-autonomous-company/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://agents.kymatalabs.com/p/mll-lab-nu-ragen/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://agents.kymatalabs.com/p/boxlite-ai-boxlite/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/cortexkit-magic-context/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/lioensky-vcptoolbox/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/neuron-core-neuron-ai/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://agents.kymatalabs.com/p/nomadamas-cozyclay/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/adongwanai-agentguide/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/opennswm-lab-faros/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/agentuniverse-ai-agentuniverse/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -206,13 +207,12 @@
   <url><loc>https://agents.kymatalabs.com/p/mirascope-mirascope/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/wangrongding-wechat-bot/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/getbindu-bindu/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://agents.kymatalabs.com/p/crestalnetwork-intentkit/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/hughyau-qiushi-skill/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/hyperspaceai-agi/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/ray-r-ren-agent-apprenticeship/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/ryanalberts-best-of-agent-harnesses/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://agents.kymatalabs.com/p/ongridio-ongrid/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/dynamiq-ai-dynamiq/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://agents.kymatalabs.com/p/crestalnetwork-intentkit/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/xiaoluolyg-god/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/aiming-lab-autoresearchclaw/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://agents.kymatalabs.com/p/elder-plinius-t3mp3st/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
