@@ -11,5 +11,8 @@
       "destination": "/p/ekkolearnai-ekko-studio/",
       "permanent": true
     }
-  ]
+  ],
+  "git": {
+    "deploymentEnabled": false
+  }
 }
