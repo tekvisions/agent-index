@@ -286,7 +286,26 @@
     "https://agents.kymatalabs.com/p/tiger-ai-lab-theoremexplainagent/",
     "https://agents.kymatalabs.com/p/myshell-ai-ailice/"
   ],
-  "retained_references": [],
+  "retained_references": [
+    {
+      "slug": "memgraph-memgraph",
+      "entity": "memgraph/memgraph",
+      "canonical_url": "https://agents.kymatalabs.com/p/memgraph-memgraph/",
+      "repository": "https://github.com/memgraph/memgraph",
+      "summary": "Memgraph publishes a graph database and graph tooling with documented GraphRAG and agent-memory integrations.",
+      "selection_context": "Reference for evaluating graph-backed retrieval and memory infrastructure used by agent applications.",
+      "limitations": "Repository availability and recent activity do not establish deployment quality or license suitability. Check component and edition licenses, integration requirements and the project's own documentation. No current catalog rank or momentum score is assigned here.",
+      "reviewed_on": "2026-11-03",
+      "last_catalog_snapshot": "2026-11-02T20:24:34.123043+00:00",
+      "primary_sources": [
+        {
+          "title": "Memgraph official repository and metadata",
+          "url": "https://github.com/memgraph/memgraph"
+        }
+      ],
+      "decision": "retain reviewed reference; public repository is available, not archived or disabled"
+    }
+  ],
   "retirements": [],
   "planned_release_urls": [],
   "baseline_maintenance": "This captured baseline and proposed additions are explicit release inputs, not a rolling publication log. After each authorized release, refresh the protected baseline from verified published sitemaps before reviewing the next snapshot; keep capture provenance separate.",
@@ -304,5 +323,7 @@
       "reason": "Exact same GitHub repository ID resolves from old identifier to current identifier; target was independently verified by parent HTTP200/indexable/selfcanonical/in captured sitemap about2026-11-03T03:16UTC.",
       "release_state": "reviewed proposed alias; no deployment or production approval"
     }
-  ]
+  ],
+  "site_name": "The Agent Index",
+  "detail_prefix": "p"
 }
