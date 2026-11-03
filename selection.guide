@@ -1,0 +1,84 @@
+{
+  "host": "agents.kymatalabs.com",
+  "reviewed_on": "2026-11-03",
+  "title": "Choose an AI agent framework by execution needs",
+  "answer": "Start with the work your agent must complete and the state it must preserve. This catalog spans SDKs, orchestrators, multi-agent systems and supporting components; its GitHub momentum order is a discovery signal rather than a framework-quality verdict.",
+  "choices": [
+    {
+      "categories": [
+        "Agent SDKs",
+        "Agent Frameworks"
+      ],
+      "task": "Build one typed tool-using agent",
+      "guidance": "Check tool schemas, output validation, supported model providers and a complete example for your language. Run a small task with a known expected answer before introducing more agents."
+    },
+    {
+      "categories": [
+        "Orchestration",
+        "Memory & State"
+      ],
+      "task": "Resume a workflow and review its actions",
+      "guidance": "Inspect checkpoint storage, retry behavior, state migration and human approval points. Verify what survives a failed tool call and how a run is resumed in the version you will deploy."
+    },
+    {
+      "categories": [
+        "Multi-Agent",
+        "Autonomous Agents",
+        "Tools & Browser"
+      ],
+      "task": "Coordinate agents or execute actions",
+      "guidance": "Define handoffs, termination conditions, tool permissions and a time/cost budget. Evaluate the whole task, including failures and unwanted actions, rather than only the final response."
+    }
+  ],
+  "checks": [
+    "Record the package version, model/provider and deployment target used in your test.",
+    "Keep a task set with expected outputs and tool-call traces; compare correctness, recovery behavior, latency and cost under the same conditions.",
+    "Check both framework and plugin documentation; capabilities overlap across these catalog categories."
+  ],
+  "unknowns": "No comparative task-success, security, latency or cost benchmark is verified by this directory. A category does not imply that other frameworks lack the same feature.",
+  "related": [
+    {
+      "url": "https://eval.kymatalabs.com/",
+      "label": "eval"
+    },
+    {
+      "url": "https://observability.kymatalabs.com/",
+      "label": "observability"
+    },
+    {
+      "url": "https://mcp.kymatalabs.com/",
+      "label": "mcp"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Published collection and scoring rules",
+      "url": "https://github.com/tekvisions/agent-index/blob/3a485c7065608bdd899260bc69ef26eb1d999af4/build_data.py",
+      "reviewed_on": "2026-11-03"
+    },
+    {
+      "title": "langchain-ai/langgraph README.md",
+      "url": "https://github.com/langchain-ai/langgraph/blob/main/README.md",
+      "reviewed_on": "2026-11-03",
+      "blob_sha": "97c31e9cb4d8fe56be8d768ce3eb5e22400e897e"
+    },
+    {
+      "title": "pydantic/pydantic-ai README.md",
+      "url": "https://github.com/pydantic/pydantic-ai/blob/main/README.md",
+      "reviewed_on": "2026-11-03",
+      "blob_sha": "20135d074c6e1a25c13ad91bbb72373e08daf2db"
+    }
+  ],
+  "featured": [
+    {
+      "entity": "langchain-ai/langgraph",
+      "note": "Its primary README describes orchestration for stateful workflows, including persistence and human intervention. Verify the APIs and storage behavior for your selected version.",
+      "source": "https://github.com/langchain-ai/langgraph/blob/main/README.md"
+    },
+    {
+      "entity": "pydantic/pydantic-ai",
+      "note": "Its primary README describes a typed Python agent SDK and validated outputs. Verify the tool/output contracts with a task-specific example.",
+      "source": "https://github.com/pydantic/pydantic-ai/blob/main/README.md"
+    }
+  ]
+}

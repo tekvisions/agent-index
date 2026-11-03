@@ -1,0 +1,15 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "redirects": [
+    {
+      "source": "/p/ekkolearnai-hermes-studio",
+      "destination": "/p/ekkolearnai-ekko-studio/",
+      "permanent": true
+    },
+    {
+      "source": "/p/ekkolearnai-hermes-studio/",
+      "destination": "/p/ekkolearnai-ekko-studio/",
+      "permanent": true
+    }
+  ]
+}

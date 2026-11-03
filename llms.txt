@@ -1,50 +1,64 @@
 # The Agent Index
 
-> The living index of AI agent frameworks — the libraries used to build agentic systems:
-> multi-agent, autonomous agents, orchestration, memory and agent SDKs — ranked daily by GitHub momentum.
+> The Agent Index: a source-backed catalog published by Kymata Labs.
 
-Updated: 2026-11-02T20:24:34.123043+00:00
-Tools indexed: 280
+Snapshot collected: 2026-11-02T20:24:34.123043+00:00
+Current catalog records: 280
 
-## Top AI agent frameworks by momentum
+## Sources and interpretation
 
-- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) — momentum 91, ⭐269492 — Agent Frameworks — DeepSeek Harness: Everything is a Plugin.
-- [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) — momentum 89, ⭐57228 — Agent Frameworks — 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do i
-- [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) — momentum 86, ⭐12761 — Autonomous Agents — Towards a More Autonomous Agent System
-- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) — momentum 85, ⭐187879 — Autonomous Agents — AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provi
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) — momentum 85, ⭐182791 — Agent Frameworks — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) — momentum 84, ⭐148892 — Agent Frameworks — The agent engineering platform.
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) — momentum 83, ⭐119858 — Tools & Browser — Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hos
-- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) — momentum 83, ⭐110299 — Agent Frameworks — The open-source app everyone uses to manage agents at work
-- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) — momentum 83, ⭐108595 — Agent Frameworks — Agent skills that give coding agents taste: art direction, reference images and a browser check inst
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) — momentum 82, ⭐86784 — Agent Frameworks — Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdo
-- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) — momentum 82, ⭐84891 — Agent Frameworks — An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of
-- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) — momentum 82, ⭐77643 — Agent Frameworks — Write HTML. Render video. Built for agents.
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) — momentum 80, ⭐68288 — Memory & State — The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that 
-- [microsoft/autogen](https://github.com/microsoft/autogen) — momentum 80, ⭐61681 — Multi-Agent — A programming framework for agentic AI
-- [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) — momentum 80, ⭐60429 — Multi-Agent — Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intellige
-- [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) — momentum 80, ⭐58074 — Memory & State — Hindsight: Agent Memory That Learns
-- [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) — momentum 80, ⭐54258 — Agent Frameworks — DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
-- [lexmount/moli](https://github.com/lexmount/moli) — momentum 80, ⭐22229 — Agent Frameworks — Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) — momentum 79, ⭐52779 — Agent Frameworks — LlamaIndex is the document processing platform for AI
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) — momentum 79, ⭐49766 — Agent SDKs — Your lightweight open-source personal agent.
-- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) — momentum 79, ⭐49288 — Agent Frameworks — Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: det
-- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) — momentum 79, ⭐45662 — Agent Frameworks — AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and A
-- [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) — momentum 79, ⭐45288 — Agent Frameworks — 免费大模型API，支持免费调用GPT、DeepSeek等主流模型，免费额度10000点，每日刷新！另付费价格最低官方1-2折！
-- [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) — momentum 79, ⭐44336 — Orchestration — Build resilient agents.
-- [agno-agi/agno](https://github.com/agno-agi/agno) — momentum 79, ⭐43019 — Agent Frameworks — The self-driving agent platform
-- [volcengine/OpenViking](https://github.com/volcengine/OpenViking) — momentum 79, ⭐41384 — Memory & State — Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
-- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) — momentum 79, ⭐41167 — Agent Frameworks — Open-source agent for the terminal written in Rust. Use any provider or model. Issues & PRs always w
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) — momentum 78, ⭐38476 — Agent Frameworks — The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of t
-- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) — momentum 78, ⭐38198 — Agent Frameworks — Open Source Alternative to Vercel, Netlify and Heroku.
-- [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) — momentum 78, ⭐37217 — Agent Frameworks — Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports mu
-- [Tencent/WeKnora](https://github.com/Tencent/WeKnora) — momentum 78, ⭐36268 — Autonomous Agents — Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning
-- [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) — momentum 78, ⭐35223 — Agent Frameworks — Build and run agents you can see, understand and trust.
-- [Twigpine/openclaude](https://github.com/Twigpine/openclaude) — momentum 78, ⭐34252 — Agent Frameworks — runs anywhere. uses anything
-- [topoteretes/cognee](https://github.com/topoteretes/cognee) — momentum 78, ⭐33010 — Memory & State — Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term me
-- [trycua/cua](https://github.com/trycua/cua) — momentum 78, ⭐31589 — Tools & Browser — Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, ev
-- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) — momentum 77, ⭐39834 — Agent Frameworks — The unified workspace where open-source models get things done for you.
-- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) — momentum 77, ⭐34643 — Multi-Agent — ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
-- [getzep/graphiti](https://github.com/getzep/graphiti) — momentum 77, ⭐32451 — Memory & State — Build Real-Time Knowledge Graphs for AI Agents
-- [feder-cr/invisible_dots](https://github.com/feder-cr/invisible_dots) — momentum 77, ⭐32357 — Agent Frameworks — Open-source, self-hosted alternative to OpenAI Dots, Grok Bot. Built to be undetectable by anti-bot 
-- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) — momentum 77, ⭐30882 — Agent Frameworks — Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed wor
+- [Public GitHub repository searches and API signals](https://docs.github.com/en/rest/search)
+- [Collection and scoring source](https://github.com/tekvisions/agent-index/blob/main/build_data.py)
+
+Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 days (32%), and a young-repository bonus for repositories under 120 days old with at least 20 stars (13%), rounded and clamped to 1–100. Configured searches select the catalog; coverage is not exhaustive. Stars and repository activity are proxies, not measured adoption, reviews, security or product-quality benchmarks.
+
+## Readable and structured resources
+
+- [Catalog](https://agents.kymatalabs.com/)
+- [Selection guide and evidence limits](https://agents.kymatalabs.com/#catalog-guidance)
+- [Methodology and snapshot date](https://agents.kymatalabs.com/#catalog-methodology)
+- [Current source snapshot (JSON)](https://agents.kymatalabs.com/data.json)
+- [Sitemap of published pages](https://agents.kymatalabs.com/sitemap.xml)
+
+## Current catalog sample
+
+- [deepseek-ai/deepseek-harness](https://agents.kymatalabs.com/p/deepseek-ai-deepseek-harness/) — Agent Frameworks
+- [Ebony-Vinyl/dsh-our-free-model](https://agents.kymatalabs.com/p/ebony-vinyl-dsh-our-free-model/) — Agent Frameworks
+- [deepseek-ai/dsh-superagent-prototype](https://agents.kymatalabs.com/p/deepseek-ai-dsh-superagent-prototype/) — Autonomous Agents
+- [Significant-Gravitas/AutoGPT](https://agents.kymatalabs.com/p/significant-gravitas-autogpt/) — Autonomous Agents
+- [DietrichGebert/ponytail](https://agents.kymatalabs.com/p/dietrichgebert-ponytail/) — Agent Frameworks
+- [langchain-ai/langchain](https://agents.kymatalabs.com/p/langchain-ai-langchain/) — Agent Frameworks
+- [browser-use/browser-use](https://agents.kymatalabs.com/p/browser-use-browser-use/) — Tools & Browser
+- [paperclipai/paperclip](https://agents.kymatalabs.com/p/paperclipai-paperclip/) — Agent Frameworks
+- [Leonxlnx/taste-skill](https://agents.kymatalabs.com/p/leonxlnx-taste-skill/) — Agent Frameworks
+- [unclecode/crawl4ai](https://agents.kymatalabs.com/p/unclecode-crawl4ai/) — Agent Frameworks
+- [bytedance/deer-flow](https://agents.kymatalabs.com/p/bytedance-deer-flow/) — Agent Frameworks
+- [heygen-com/hyperframes](https://agents.kymatalabs.com/p/heygen-com-hyperframes/) — Agent Frameworks
+- [mem0ai/mem0](https://agents.kymatalabs.com/p/mem0ai-mem0/) — Memory & State
+- [microsoft/autogen](https://agents.kymatalabs.com/p/microsoft-autogen/) — Multi-Agent
+- [crewAIInc/crewAI](https://agents.kymatalabs.com/p/crewaiinc-crewai/) — Multi-Agent
+- [vectorize-io/hindsight](https://agents.kymatalabs.com/p/vectorize-io-hindsight/) — Memory & State
+- [HKUDS/DeepTutor](https://agents.kymatalabs.com/p/hkuds-deeptutor/) — Agent Frameworks
+- [lexmount/moli](https://agents.kymatalabs.com/p/lexmount-moli/) — Agent Frameworks
+- [run-llama/llama_index](https://agents.kymatalabs.com/p/run-llama-llama-index/) — Agent Frameworks
+- [HKUDS/nanobot](https://agents.kymatalabs.com/p/hkuds-nanobot/) — Agent SDKs
+- [alibaba/open-code-review](https://agents.kymatalabs.com/p/alibaba-open-code-review/) — Agent Frameworks
+- [AstrBotDevs/AstrBot](https://agents.kymatalabs.com/p/astrbotdevs-astrbot/) — Agent Frameworks
+- [chatanywhere/GPT_API_free](https://agents.kymatalabs.com/p/chatanywhere-gpt-api-free/) — Agent Frameworks
+- [langchain-ai/langgraph](https://agents.kymatalabs.com/p/langchain-ai-langgraph/) — Orchestration
+- [agno-agi/agno](https://agents.kymatalabs.com/p/agno-agi-agno/) — Agent Frameworks
+- [volcengine/OpenViking](https://agents.kymatalabs.com/p/volcengine-openviking/) — Memory & State
+- [codewhale-hq/Codewhale](https://agents.kymatalabs.com/p/codewhale-hq-codewhale/) — Agent Frameworks
+- [CopilotKit/CopilotKit](https://agents.kymatalabs.com/p/copilotkit-copilotkit/) — Agent Frameworks
+- [Dokploy/dokploy](https://agents.kymatalabs.com/p/dokploy-dokploy/) — Agent Frameworks
+- [agentscope-ai/QwenPaw](https://agents.kymatalabs.com/p/agentscope-ai-qwenpaw/) — Agent Frameworks
+- [Tencent/WeKnora](https://agents.kymatalabs.com/p/tencent-weknora/) — Autonomous Agents
+- [agentscope-ai/agentscope](https://agents.kymatalabs.com/p/agentscope-ai-agentscope/) — Agent Frameworks
+- [Twigpine/openclaude](https://agents.kymatalabs.com/p/twigpine-openclaude/) — Agent Frameworks
+- [topoteretes/cognee](https://agents.kymatalabs.com/p/topoteretes-cognee/) — Memory & State
+- [trycua/cua](https://agents.kymatalabs.com/p/trycua-cua/) — Tools & Browser
+- [mindsdb/mindshub](https://agents.kymatalabs.com/p/mindsdb-mindshub/) — Agent Frameworks
+- [OpenBMB/ChatDev](https://agents.kymatalabs.com/p/openbmb-chatdev/) — Multi-Agent
+- [getzep/graphiti](https://agents.kymatalabs.com/p/getzep-graphiti/) — Memory & State
+- [feder-cr/invisible_dots](https://agents.kymatalabs.com/p/feder-cr-invisible-dots/) — Agent Frameworks
+- [ComposioHQ/composio](https://agents.kymatalabs.com/p/composiohq-composio/) — Agent Frameworks
