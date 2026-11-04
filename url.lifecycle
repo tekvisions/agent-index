@@ -304,6 +304,108 @@
         }
       ],
       "decision": "retain reviewed reference; public repository is available, not archived or disabled"
+    },
+    {
+      "slug": "agentjido-jido",
+      "entity": "agentjido/jido",
+      "canonical_url": "https://agents.kymatalabs.com/p/agentjido-jido/",
+      "repository": "https://github.com/agentjido/jido",
+      "summary": "An Elixir agent framework with documented workflow and distributed-agent interfaces.",
+      "selection_context": "Use this dated reference to locate the publisher documentation and compare the documented scope; consult the current catalog for ranked entries.",
+      "limitations": "Verify current publisher terms, compatibility and requirements. No new runtime, safety, quality or benchmark test is claimed.",
+      "last_catalog_snapshot": "2026-11-02T20:24:34.123043+00:00",
+      "reviewed_on": "2026-11-04",
+      "primary_sources": [
+        {
+          "url": "https://github.com/agentjido/jido/blob/main/README.md",
+          "title": "Publisher documentation"
+        }
+      ]
+    },
+    {
+      "slug": "agentlas-ai-agentlas-os",
+      "entity": "agentlas-ai/Agentlas-OS",
+      "canonical_url": "https://agents.kymatalabs.com/p/agentlas-ai-agentlas-os/",
+      "repository": "https://github.com/agentlas-ai/Agentlas-OS",
+      "summary": "A desktop agent project documented for coordinating specialist agents and interacting with applications.",
+      "selection_context": "Use this dated reference to locate the publisher documentation and compare the documented scope; consult the current catalog for ranked entries.",
+      "limitations": "Verify current publisher terms, compatibility and requirements. No new runtime, safety, quality or benchmark test is claimed.",
+      "last_catalog_snapshot": "2026-11-02T20:24:34.123043+00:00",
+      "reviewed_on": "2026-11-04",
+      "primary_sources": [
+        {
+          "url": "https://github.com/agentlas-ai/Agentlas-OS/blob/main/README.md",
+          "title": "Publisher documentation"
+        }
+      ]
+    },
+    {
+      "slug": "feder-cr-invisible-dots",
+      "entity": "feder-cr/invisible_dots",
+      "canonical_url": "https://agents.kymatalabs.com/p/feder-cr-invisible-dots/",
+      "repository": "https://github.com/feder-cr/invisible_dots",
+      "summary": "A self-hosted computer-use agent project with documented skills and MCP integration.",
+      "selection_context": "Use this dated reference to locate the publisher documentation and compare the documented scope; consult the current catalog for ranked entries.",
+      "limitations": "Verify current publisher terms, compatibility and requirements. No new runtime, safety, quality or benchmark test is claimed.",
+      "last_catalog_snapshot": "2026-11-02T20:24:34.123043+00:00",
+      "reviewed_on": "2026-11-04",
+      "primary_sources": [
+        {
+          "url": "https://github.com/feder-cr/invisible_dots/blob/main/README.md",
+          "title": "Publisher documentation"
+        }
+      ]
+    },
+    {
+      "slug": "i-am-bee-beeai-framework",
+      "entity": "i-am-bee/beeai-framework",
+      "canonical_url": "https://agents.kymatalabs.com/p/i-am-bee-beeai-framework/",
+      "repository": "https://github.com/i-am-bee/beeai-framework",
+      "summary": "A framework for building multi-agent applications in Python and TypeScript.",
+      "selection_context": "Use this dated reference to locate the publisher documentation and compare the documented scope; consult the current catalog for ranked entries.",
+      "limitations": "Verify current publisher terms, compatibility and requirements. No new runtime, safety, quality or benchmark test is claimed.",
+      "last_catalog_snapshot": "2026-11-02T20:24:34.123043+00:00",
+      "reviewed_on": "2026-11-04",
+      "primary_sources": [
+        {
+          "url": "https://github.com/i-am-bee/beeai-framework/blob/main/README.md",
+          "title": "Publisher documentation"
+        }
+      ]
+    },
+    {
+      "slug": "langchain-ai-langgraphjs",
+      "entity": "langchain-ai/langgraphjs",
+      "canonical_url": "https://agents.kymatalabs.com/p/langchain-ai-langgraphjs/",
+      "repository": "https://github.com/langchain-ai/langgraphjs",
+      "summary": "A JavaScript framework for stateful agent workflows represented as graphs.",
+      "selection_context": "Use this dated reference to locate the publisher documentation and compare the documented scope; consult the current catalog for ranked entries.",
+      "limitations": "Verify current publisher terms, compatibility and requirements. No new runtime, safety, quality or benchmark test is claimed.",
+      "last_catalog_snapshot": "2026-11-02T20:24:34.123043+00:00",
+      "reviewed_on": "2026-11-04",
+      "primary_sources": [
+        {
+          "url": "https://github.com/langchain-ai/langgraphjs/blob/main/README.md",
+          "title": "Publisher documentation"
+        }
+      ]
+    },
+    {
+      "slug": "trhhubsd-artex",
+      "entity": "trhhubsd/ARTEX",
+      "canonical_url": "https://agents.kymatalabs.com/p/trhhubsd-artex/",
+      "repository": "https://github.com/trhhubsd/ARTEX",
+      "summary": "ARTEX appeared in the dated catalog as a multi-agent security-testing project. The connected repository read returned 404 on review; current public availability is not confirmed. This preserves historical context, not a successor or retirement claim.",
+      "selection_context": "Use only as historical catalog context. Check with the publisher before relying on current availability; no replacement identity is asserted.",
+      "limitations": "Verify current publisher terms, compatibility and requirements. No new runtime, safety, quality or benchmark test is claimed. Availability is unresolved; do not assume this source is currently downloadable or maintained.",
+      "last_catalog_snapshot": "2026-11-02T20:24:34.123043+00:00",
+      "reviewed_on": "2026-11-04",
+      "primary_sources": [
+        {
+          "url": "https://github.com/trhhubsd/ARTEX",
+          "title": "Historical publisher reference; current availability unconfirmed"
+        }
+      ]
     }
   ],
   "retirements": [],
