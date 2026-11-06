@@ -2,7 +2,7 @@
 
 > The Agent Index: a source-backed catalog published by Kymata Labs.
 
-Snapshot collected: 2026-11-06T17:24:20.429244+00:00
+Snapshot collected: 2026-11-06T17:28:34.696623+00:00
 Current catalog records: 280
 
 ## Sources and interpretation
