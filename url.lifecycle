@@ -406,6 +406,44 @@
           "title": "Historical publisher reference; current availability unconfirmed"
         }
       ]
+    },
+    {
+      "slug": "adongwanai-agentguide",
+      "entity": "adongwanai/AgentGuide",
+      "canonical_url": "https://agents.kymatalabs.com/p/adongwanai-agentguide/",
+      "repository": "https://github.com/adongwanai/AgentGuide",
+      "summary": "Agent development learning materials covering orchestration, RAG and related tutorials. This is educational material, not a runtime framework certification.",
+      "selection_context": "Use for finding the publisher learning path and worked examples; compare scope with a deployable orchestration framework.",
+      "limitations": "Publisher documentation is source evidence, not an independent runtime, safety, licensing or performance certification. Confirm current terms, requirements and outputs. No current catalog rank or momentum score is assigned to a retained reference.",
+      "reviewed_on": "2026-11-06",
+      "last_catalog_snapshot": "2026-11-02T20:24:34.123043+00:00",
+      "primary_sources": [
+        {
+          "title": "Publisher repository and documentation (availability checked 6 November 2026)",
+          "url": "https://github.com/adongwanai/AgentGuide"
+        }
+      ],
+      "evidence_sha256": "b59e1f2ba9386aef9fd47a3dea1b39c8332f958bce77ee9460fd728a0a286a6b",
+      "decision": "Retain the previously published route outside the ranked discovery snapshot; do not infer obsolescence from discovery-window churn."
+    },
+    {
+      "slug": "nomadamas-cozyclay",
+      "entity": "NomaDamas/CozyClay",
+      "canonical_url": "https://agents.kymatalabs.com/p/nomadamas-cozyclay/",
+      "repository": "https://github.com/NomaDamas/CozyClay",
+      "summary": "CozyClay is browser-based 3D previsualization software for arranging scenes, camera moves and reference exports for AI video workflows. The former repository URL now serves documentation under HaD0Yun/CozyClay.",
+      "selection_context": "Use for planning shots before video generation; a visual production tool is not a general-purpose agent framework.",
+      "limitations": "Publisher documentation is source evidence, not an independent runtime, safety, licensing or performance certification. Confirm current terms, requirements and outputs. No current catalog rank or momentum score is assigned to a retained reference.",
+      "reviewed_on": "2026-11-06",
+      "last_catalog_snapshot": "2026-11-02T20:24:34.123043+00:00",
+      "primary_sources": [
+        {
+          "title": "Publisher repository and documentation (availability checked 6 November 2026)",
+          "url": "https://github.com/NomaDamas/CozyClay"
+        }
+      ],
+      "evidence_sha256": "05b907588db8710a4171c2e7b656f7e079ea2189f9ea1b20edeffac5fb6956a7",
+      "decision": "Retain the previously published route outside the ranked discovery snapshot; do not infer obsolescence from discovery-window churn."
     }
   ],
   "retirements": [],
