@@ -2,7 +2,7 @@
 
 > The Agent Index: a source-backed catalog published by Kymata Labs.
 
-Snapshot collected: 2026-11-06T17:33:08.445807+00:00
+Snapshot collected: 2026-11-06T17:58:47.095897+00:00
 Current catalog records: 280
 
 ## Sources and interpretation
@@ -39,10 +39,10 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [vectorize-io/hindsight](https://agents.kymatalabs.com/p/vectorize-io-hindsight/) — Memory & State
 - [HKUDS/DeepTutor](https://agents.kymatalabs.com/p/hkuds-deeptutor/) — Agent Frameworks
 - [run-llama/llama_index](https://agents.kymatalabs.com/p/run-llama-llama-index/) — Agent Frameworks
-- [HKUDS/nanobot](https://agents.kymatalabs.com/p/hkuds-nanobot/) — Agent SDKs
 - [lexmount/moli](https://agents.kymatalabs.com/p/lexmount-moli/) — Agent Frameworks
 - [Fei2411/DS-Bot](https://agents.kymatalabs.com/p/fei2411-ds-bot/) — Multi-Agent
 - [microsoft/autogen](https://agents.kymatalabs.com/p/microsoft-autogen/) — Multi-Agent
+- [HKUDS/nanobot](https://agents.kymatalabs.com/p/hkuds-nanobot/) — Agent SDKs
 - [alibaba/open-code-review](https://agents.kymatalabs.com/p/alibaba-open-code-review/) — Agent Frameworks
 - [AstrBotDevs/AstrBot](https://agents.kymatalabs.com/p/astrbotdevs-astrbot/) — Agent Frameworks
 - [langchain-ai/langgraph](https://agents.kymatalabs.com/p/langchain-ai-langgraph/) — Orchestration
