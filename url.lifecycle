@@ -444,6 +444,24 @@
       ],
       "evidence_sha256": "05b907588db8710a4171c2e7b656f7e079ea2189f9ea1b20edeffac5fb6956a7",
       "decision": "Retain the previously published route outside the ranked discovery snapshot; do not infer obsolescence from discovery-window churn."
+    },
+    {
+      "slug": "withastro-flue",
+      "entity": "withastro/flue",
+      "canonical_url": "https://agents.kymatalabs.com/p/withastro-flue/",
+      "repository": "https://github.com/withastro/flue",
+      "summary": "Flue is a TypeScript harness for composing agents with model, skill, tool and sandbox configuration. The publisher documents local CLI use and deployment to hosted runtimes.",
+      "selection_context": "Compare the harness configuration and supported runtime boundaries; a repository description is not proof that an agent is safe or reliable.",
+      "limitations": "Dated publisher-documentation review, not an independent runtime, safety or performance certification. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "reviewed_on": "2026-11-06",
+      "last_catalog_snapshot": "2026-11-02T20:24:34.123043+00:00",
+      "primary_sources": [
+        {
+          "title": "Publisher documentation reviewed 6 November 2026",
+          "url": "https://github.com/withastro/flue"
+        }
+      ],
+      "evidence_sha256": "cdc97eea6de115936350d0486f149608a30e119a4b2fb212d0ce4c37286bb253"
     }
   ],
   "retirements": [],
