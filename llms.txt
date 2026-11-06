@@ -2,7 +2,7 @@
 
 > The Agent Index: a source-backed catalog published by Kymata Labs.
 
-Snapshot collected: 2026-11-02T20:24:34.123043+00:00
+Snapshot collected: 2026-11-06T17:24:20.429244+00:00
 Current catalog records: 280
 
 ## Sources and interpretation
@@ -35,32 +35,32 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [bytedance/deer-flow](https://agents.kymatalabs.com/p/bytedance-deer-flow/) — Agent Frameworks
 - [heygen-com/hyperframes](https://agents.kymatalabs.com/p/heygen-com-hyperframes/) — Agent Frameworks
 - [mem0ai/mem0](https://agents.kymatalabs.com/p/mem0ai-mem0/) — Memory & State
-- [microsoft/autogen](https://agents.kymatalabs.com/p/microsoft-autogen/) — Multi-Agent
 - [crewAIInc/crewAI](https://agents.kymatalabs.com/p/crewaiinc-crewai/) — Multi-Agent
 - [vectorize-io/hindsight](https://agents.kymatalabs.com/p/vectorize-io-hindsight/) — Memory & State
 - [HKUDS/DeepTutor](https://agents.kymatalabs.com/p/hkuds-deeptutor/) — Agent Frameworks
-- [lexmount/moli](https://agents.kymatalabs.com/p/lexmount-moli/) — Agent Frameworks
 - [run-llama/llama_index](https://agents.kymatalabs.com/p/run-llama-llama-index/) — Agent Frameworks
 - [HKUDS/nanobot](https://agents.kymatalabs.com/p/hkuds-nanobot/) — Agent SDKs
+- [lexmount/moli](https://agents.kymatalabs.com/p/lexmount-moli/) — Agent Frameworks
+- [Fei2411/DS-Bot](https://agents.kymatalabs.com/p/fei2411-ds-bot/) — Multi-Agent
+- [microsoft/autogen](https://agents.kymatalabs.com/p/microsoft-autogen/) — Multi-Agent
 - [alibaba/open-code-review](https://agents.kymatalabs.com/p/alibaba-open-code-review/) — Agent Frameworks
 - [AstrBotDevs/AstrBot](https://agents.kymatalabs.com/p/astrbotdevs-astrbot/) — Agent Frameworks
-- [chatanywhere/GPT_API_free](https://agents.kymatalabs.com/p/chatanywhere-gpt-api-free/) — Agent Frameworks
 - [langchain-ai/langgraph](https://agents.kymatalabs.com/p/langchain-ai-langgraph/) — Orchestration
 - [agno-agi/agno](https://agents.kymatalabs.com/p/agno-agi-agno/) — Agent Frameworks
 - [volcengine/OpenViking](https://agents.kymatalabs.com/p/volcengine-openviking/) — Memory & State
 - [codewhale-hq/Codewhale](https://agents.kymatalabs.com/p/codewhale-hq-codewhale/) — Agent Frameworks
+- [chatanywhere/GPT_API_free](https://agents.kymatalabs.com/p/chatanywhere-gpt-api-free/) — Agent Frameworks
 - [CopilotKit/CopilotKit](https://agents.kymatalabs.com/p/copilotkit-copilotkit/) — Agent Frameworks
 - [Dokploy/dokploy](https://agents.kymatalabs.com/p/dokploy-dokploy/) — Agent Frameworks
 - [agentscope-ai/QwenPaw](https://agents.kymatalabs.com/p/agentscope-ai-qwenpaw/) — Agent Frameworks
 - [Tencent/WeKnora](https://agents.kymatalabs.com/p/tencent-weknora/) — Autonomous Agents
 - [agentscope-ai/agentscope](https://agents.kymatalabs.com/p/agentscope-ai-agentscope/) — Agent Frameworks
+- [OpenBMB/ChatDev](https://agents.kymatalabs.com/p/openbmb-chatdev/) — Multi-Agent
 - [Twigpine/openclaude](https://agents.kymatalabs.com/p/twigpine-openclaude/) — Agent Frameworks
 - [topoteretes/cognee](https://agents.kymatalabs.com/p/topoteretes-cognee/) — Memory & State
-- [trycua/cua](https://agents.kymatalabs.com/p/trycua-cua/) — Tools & Browser
-- [mindsdb/mindshub](https://agents.kymatalabs.com/p/mindsdb-mindshub/) — Agent Frameworks
-- [OpenBMB/ChatDev](https://agents.kymatalabs.com/p/openbmb-chatdev/) — Multi-Agent
 - [getzep/graphiti](https://agents.kymatalabs.com/p/getzep-graphiti/) — Memory & State
-- [feder-cr/invisible_dots](https://agents.kymatalabs.com/p/feder-cr-invisible-dots/) — Agent Frameworks
+- [feder-cr/Jobs_Applier_AI_Agent](https://agents.kymatalabs.com/p/feder-cr-jobs-applier-ai-agent/) — Agent Frameworks
+- [trycua/cua](https://agents.kymatalabs.com/p/trycua-cua/) — Tools & Browser
 - [ComposioHQ/composio](https://agents.kymatalabs.com/p/composiohq-composio/) — Agent Frameworks
 
 <!-- Kymata discovery capabilities -->
