@@ -462,6 +462,322 @@
         }
       ],
       "evidence_sha256": "cdc97eea6de115936350d0486f149608a30e119a4b2fb212d0ce4c37286bb253"
+    },
+    {
+      "slug": "anil-matcha-open-duet",
+      "entity": "Anil-matcha/open-duet",
+      "canonical_url": "https://agents.kymatalabs.com/p/anil-matcha-open-duet/",
+      "repository": "https://github.com/Anil-matcha/suparagent",
+      "summary": "Publisher description of Anil-matcha/open-duet: Open-source, self-hosted alternative to Grok Bot, Claude Duet, OpenAI Dots, Meta Muse, Instinct, Manus Cue: AI coworkers (named agents) with instructions, memory, routines, their own isolated computer, and your approval before they act. The saved 2026-11-07 catalog classified it under Memory & State.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Memory & State work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements. GitHub now resolves Anil-matcha/open-duet to Anil-matcha/suparagent. Confirm the current scope under that name.",
+      "last_catalog_snapshot": "2026-11-07T16:30:43.800238+00:00",
+      "reviewed_on": "2026-11-25",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "previous_repository": "https://github.com/Anil-matcha/open-duet",
+      "primary_sources": [
+        {
+          "url": "https://github.com/Anil-matcha/suparagent/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "698af64fee6a4b3caf030b4ec2884f343aa2046591585b8d9686451c2e98da9a",
+          "blob_sha": "2f2c90810442ce1c985ac5849f526441f14c4b10"
+        }
+      ],
+      "evidence_sha256": "698af64fee6a4b3caf030b4ec2884f343aa2046591585b8d9686451c2e98da9a"
+    },
+    {
+      "slug": "codewhale-hq-codewhale",
+      "entity": "codewhale-hq/Codewhale",
+      "canonical_url": "https://agents.kymatalabs.com/p/codewhale-hq-codewhale/",
+      "repository": "https://github.com/codewhale-hq/Codewhale",
+      "summary": "Publisher description of codewhale-hq/Codewhale: Open-source agent for the terminal written in Rust. Use any provider or model. Issues & PRs always welcome. The saved 2026-11-07 catalog classified it under Agent Frameworks.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Agent Frameworks work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T16:30:43.800238+00:00",
+      "reviewed_on": "2026-11-25",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/codewhale-hq/Codewhale/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "7e0e7ebc680bd4267b892d09987bee10e210fc529d76189e78f945b399766317",
+          "blob_sha": "5ef6df14fcf6c4e4c5e13961733cf76999bf6553"
+        }
+      ],
+      "evidence_sha256": "7e0e7ebc680bd4267b892d09987bee10e210fc529d76189e78f945b399766317"
+    },
+    {
+      "slug": "copilotkit-openbot",
+      "entity": "CopilotKit/OpenBot",
+      "canonical_url": "https://agents.kymatalabs.com/p/copilotkit-openbot/",
+      "repository": "https://github.com/CopilotKit/OpenBot",
+      "summary": "Publisher description of CopilotKit/OpenBot: Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent. The saved 2026-11-07 catalog classified it under Agent Frameworks.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Agent Frameworks work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T16:30:43.800238+00:00",
+      "reviewed_on": "2026-11-25",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/CopilotKit/OpenBot/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "9bf3f70eac6097135c69b82218d3b7572b614b300007f5be454904cfa1ab03b2",
+          "blob_sha": "29218b420633474a386a60dcd74a4a7b77628e45"
+        }
+      ],
+      "evidence_sha256": "9bf3f70eac6097135c69b82218d3b7572b614b300007f5be454904cfa1ab03b2"
+    },
+    {
+      "slug": "gcwing-openbitfun",
+      "entity": "GCWing/OpenBitFun",
+      "canonical_url": "https://agents.kymatalabs.com/p/gcwing-openbitfun/",
+      "repository": "https://github.com/openBitFun/OpenBitFun",
+      "summary": "Publisher description of GCWing/OpenBitFun: OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development. The saved 2026-11-07 catalog classified it under Agent Frameworks.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Agent Frameworks work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements. GitHub now resolves GCWing/OpenBitFun to openBitFun/OpenBitFun. Confirm the current scope under that name.",
+      "last_catalog_snapshot": "2026-11-07T16:30:43.800238+00:00",
+      "reviewed_on": "2026-11-25",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "previous_repository": "https://github.com/GCWing/OpenBitFun",
+      "primary_sources": [
+        {
+          "url": "https://github.com/openBitFun/OpenBitFun/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "d103c7f59899dfa39404353e4ca115a58423dbe12c0f9ae67effc96817a591dd",
+          "blob_sha": "c7e9ccb8f127c78a31acc4222ab6f965a2e78c9d"
+        }
+      ],
+      "evidence_sha256": "d103c7f59899dfa39404353e4ca115a58423dbe12c0f9ae67effc96817a591dd"
+    },
+    {
+      "slug": "heygen-com-hyperframes",
+      "entity": "heygen-com/hyperframes",
+      "canonical_url": "https://agents.kymatalabs.com/p/heygen-com-hyperframes/",
+      "repository": "https://github.com/heygen-com/hyperframes",
+      "summary": "Publisher description of heygen-com/hyperframes: Write HTML. Render video. Built for agents. The saved 2026-11-07 catalog classified it under Agent Frameworks.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Agent Frameworks work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T16:30:43.800238+00:00",
+      "reviewed_on": "2026-11-25",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/heygen-com/hyperframes/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "0a9784cd964f7c81f70e854f2d339a9fedee3c0f38c1973ae70a5ea50152d8f2",
+          "blob_sha": "f56f244cda088cac4a3a9d7888ceb893ffe443e2"
+        }
+      ],
+      "evidence_sha256": "0a9784cd964f7c81f70e854f2d339a9fedee3c0f38c1973ae70a5ea50152d8f2"
+    },
+    {
+      "slug": "hughyau-qiushi-skill",
+      "entity": "HughYau/qiushi-skill",
+      "canonical_url": "https://agents.kymatalabs.com/p/hughyau-qiushi-skill/",
+      "repository": "https://github.com/HughYau/qiushi-skill",
+      "summary": "Publisher description of HughYau/qiushi-skill: Qiushi-Skill: Build agents that investigate first, focus on the main contradiction, validate in practice, and keep pushing until the work is actually done. Its Chinese description adds that it distills one general principle and nine methodology tools from classical materialist dialectics and the philosophy of practice. The saved 2026-11-07 catalog classified it under Agent Frameworks.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Agent Frameworks work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T16:30:43.800238+00:00",
+      "reviewed_on": "2026-11-25",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/HughYau/qiushi-skill/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "6a3066e4e9749f75dbbdc8ec05b1cbdf97a12f88be2786b8311591c5a9353f7e",
+          "blob_sha": "f246fc11843dde17e62add304ea74844a7894b28"
+        }
+      ],
+      "evidence_sha256": "6a3066e4e9749f75dbbdc8ec05b1cbdf97a12f88be2786b8311591c5a9353f7e"
+    },
+    {
+      "slug": "jina-ai-langchain-serve",
+      "entity": "jina-ai/langchain-serve",
+      "canonical_url": "https://agents.kymatalabs.com/p/jina-ai-langchain-serve/",
+      "repository": "https://github.com/jina-ai/langchain-serve",
+      "summary": "Publisher description of jina-ai/langchain-serve: ⚡ Langchain apps in production using Jina & FastAPI. The saved 2026-11-07 catalog classified it under Agent Frameworks.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Agent Frameworks work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements. The publisher has archived the repository, so it is read-only and no longer maintained there.",
+      "last_catalog_snapshot": "2026-11-07T16:30:43.800238+00:00",
+      "reviewed_on": "2026-11-25",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/jina-ai/langchain-serve/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "60dfe8e76809a3aca0c9225d3c4d2c46e4ee68404809220522449632c3817eee",
+          "blob_sha": "fef216776e29dfe2b9aa8c190423b6f452a32d6d"
+        }
+      ],
+      "evidence_sha256": "60dfe8e76809a3aca0c9225d3c4d2c46e4ee68404809220522449632c3817eee"
+    },
+    {
+      "slug": "loopx-project-loopx",
+      "entity": "loopx-project/loopx",
+      "canonical_url": "https://agents.kymatalabs.com/p/loopx-project-loopx/",
+      "repository": "https://github.com/loopx-project/loopx",
+      "summary": "Publisher description of loopx-project/loopx: Turn long-horizon goals into verifiable results. A local-first semantic control plane and research workbench for long-running agent teams, across sessions and runtimes. The saved 2026-11-07 catalog classified it under Multi-Agent.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Multi-Agent work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T16:30:43.800238+00:00",
+      "reviewed_on": "2026-11-25",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/loopx-project/loopx/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "e1eec97a5a688529cad696d9952a643445050f7c4ce2ff01d1d42786df5a5c44",
+          "blob_sha": "2a7a15f16e33fd7db80cf00c36f93ad3fd1d420c"
+        }
+      ],
+      "evidence_sha256": "e1eec97a5a688529cad696d9952a643445050f7c4ce2ff01d1d42786df5a5c44"
+    },
+    {
+      "slug": "microsoft-agent-framework",
+      "entity": "microsoft/agent-framework",
+      "canonical_url": "https://agents.kymatalabs.com/p/microsoft-agent-framework/",
+      "repository": "https://github.com/microsoft/agent-framework",
+      "summary": "The saved 2026-11-07 catalog classified microsoft/agent-framework under Multi-Agent and recorded the publisher description: A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET. The publisher repository returned HTTP 404 on the GitHub API and web page during the 2026-11-25 check; that does not establish whether it was deleted, renamed without a redirect or made private.",
+      "selection_context": "Use this dated reference to trace the previously indexed project and its historical catalog classification; choose a currently available alternative from the ranked catalog.",
+      "limitations": "The publisher repository is currently unavailable, so this reference relies on an archived copy of its page. Current documentation, installation, licensing and maintenance could not be verified because the publisher source is unavailable. No current rank or momentum score is assigned, and no runtime test or benchmark is claimed.",
+      "last_catalog_snapshot": "2026-11-07T16:30:43.800238+00:00",
+      "reviewed_on": "2026-11-25",
+      "primary_sources": [
+        {
+          "url": "https://web.archive.org/web/20261114032536/https://github.com/microsoft/agent-framework",
+          "title": "Archived publisher repository page (Wayback Machine capture 2026-11-14)",
+          "evidence_sha256": "45349aa221b5672bdcaeb2f61f4c002e1d7b28f4f56a261ab52147c1e38e7cb3"
+        }
+      ],
+      "decision": "Preserve the existing published URL as a dated historical reference while the publisher source is unavailable.",
+      "evidence_sha256": "45349aa221b5672bdcaeb2f61f4c002e1d7b28f4f56a261ab52147c1e38e7cb3"
+    },
+    {
+      "slug": "prefecthq-fastmcp",
+      "entity": "PrefectHQ/fastmcp",
+      "canonical_url": "https://agents.kymatalabs.com/p/prefecthq-fastmcp/",
+      "repository": "https://github.com/PrefectHQ/fastmcp",
+      "summary": "Publisher description of PrefectHQ/fastmcp: 🚀 The fast, Pythonic way to build MCP servers and clients. The saved 2026-11-07 catalog classified it under Agent Frameworks.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Agent Frameworks work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T16:30:43.800238+00:00",
+      "reviewed_on": "2026-11-25",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/PrefectHQ/fastmcp/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "8028da944d332c96c903639500c259d0d2154ad9a2b866cf7d76f740258a96af",
+          "blob_sha": "436e1a9d3d88404dcb5c2ec904d60c8a27e57d23"
+        }
+      ],
+      "evidence_sha256": "8028da944d332c96c903639500c259d0d2154ad9a2b866cf7d76f740258a96af"
+    },
+    {
+      "slug": "ray-r-ren-agent-apprenticeship",
+      "entity": "ray-r-ren/agent-apprenticeship",
+      "canonical_url": "https://agents.kymatalabs.com/p/ray-r-ren-agent-apprenticeship/",
+      "repository": "https://github.com/ray-r-ren/agent-apprenticeship",
+      "summary": "Publisher description of ray-r-ren/agent-apprenticeship: The living ecosystem where AI agents complete tasks through workflow loops, improve through iterative execution, are evaluated by mentor agents or humans in the loop, and turn completed work into reusable work experience and data to improve future agents. The saved 2026-11-07 catalog classified it under Orchestration.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Orchestration work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T16:30:43.800238+00:00",
+      "reviewed_on": "2026-11-25",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/ray-r-ren/agent-apprenticeship/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "7310abc5264646d5444251fad8445644939052f594830487e1eca9d91a0a1920",
+          "blob_sha": "977e048c45bc1e6b10c0f73b60f0ca46383621aa"
+        }
+      ],
+      "evidence_sha256": "7310abc5264646d5444251fad8445644939052f594830487e1eca9d91a0a1920"
+    },
+    {
+      "slug": "software-mansion-argent",
+      "entity": "software-mansion/argent",
+      "canonical_url": "https://agents.kymatalabs.com/p/software-mansion-argent/",
+      "repository": "https://github.com/software-mansion/argent",
+      "summary": "Publisher description of software-mansion/argent: An agentic toolkit to control, debug, and profile iOS and Android apps. Made by Software Mansion. The saved 2026-11-07 catalog classified it under Agent Frameworks.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Agent Frameworks work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T16:30:43.800238+00:00",
+      "reviewed_on": "2026-11-25",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/software-mansion/argent/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "60af44392322594aa2724904e8c96a9ae3cfe9633ec0f886d8a698e4b4a71411",
+          "blob_sha": "d56eccdd293d59b7254f15925a7f03a36318729d"
+        }
+      ],
+      "evidence_sha256": "60af44392322594aa2724904e8c96a9ae3cfe9633ec0f886d8a698e4b4a71411"
+    },
+    {
+      "slug": "wecoai-aideml",
+      "entity": "WecoAI/aideml",
+      "canonical_url": "https://agents.kymatalabs.com/p/wecoai-aideml/",
+      "repository": "https://github.com/WecoAI/aideml",
+      "summary": "Publisher description of WecoAI/aideml: AIDE: an LLM agent for machine learning engineering - the research Weco grew out of. Referenced in OpenAI MLE-bench. The saved 2026-11-07 catalog classified it under Agent Frameworks.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Agent Frameworks work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T16:30:43.800238+00:00",
+      "reviewed_on": "2026-11-25",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/WecoAI/aideml/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "8b8bf948d0eb8d6552c31dd7e5ffc49049a5b51b8a955ea6857734b2999cc32b",
+          "blob_sha": "c0e03f1bcfc4fbac6ce3d00686aec65a59fbe838"
+        }
+      ],
+      "evidence_sha256": "8b8bf948d0eb8d6552c31dd7e5ffc49049a5b51b8a955ea6857734b2999cc32b"
+    },
+    {
+      "slug": "xiaoluolyg-god",
+      "entity": "XiaoLuoLYG/GOD",
+      "canonical_url": "https://agents.kymatalabs.com/p/xiaoluolyg-god/",
+      "repository": "https://github.com/XiaoLuoLYG/GOD",
+      "summary": "Publisher description of XiaoLuoLYG/GOD: Govern, Observe, Direct - a real-time control room for agent societies. The saved 2026-11-07 catalog classified it under Agent Frameworks.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Agent Frameworks work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T16:30:43.800238+00:00",
+      "reviewed_on": "2026-11-25",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/XiaoLuoLYG/GOD/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "9083d65f2c85881e02d5d8f25efcb203fa15112cef01400bc0329deffd84df3d",
+          "blob_sha": "3c5e8435d7d19d9657906dae86ff090cf370dd37"
+        }
+      ],
+      "evidence_sha256": "9083d65f2c85881e02d5d8f25efcb203fa15112cef01400bc0329deffd84df3d"
+    },
+    {
+      "slug": "yomorun-yomo",
+      "entity": "yomorun/yomo",
+      "canonical_url": "https://agents.kymatalabs.com/p/yomorun-yomo/",
+      "repository": "https://github.com/yomorun/yomo",
+      "summary": "Publisher description of yomorun/yomo: 🦖 Serverless AI Agent Framework with Geo-distributed Edge AI Infra. The saved 2026-11-07 catalog classified it under Agent Frameworks.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Agent Frameworks work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T16:30:43.800238+00:00",
+      "reviewed_on": "2026-11-25",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/yomorun/yomo/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "f179c64c955bd906a3c5e4cf295d7b8bcb4de3ba9cff9acbeddbc6a4f60164e3",
+          "blob_sha": "7c7cdb7eb9cefdb6f862b3184499180875d83062"
+        }
+      ],
+      "evidence_sha256": "f179c64c955bd906a3c5e4cf295d7b8bcb4de3ba9cff9acbeddbc6a4f60164e3"
     }
   ],
   "retirements": [],
