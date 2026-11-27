@@ -801,6 +801,52 @@
         }
       ],
       "evidence_sha256": "687bac876c651f7b595f4079bb657d1934f34a3be9ff6bb49deb024c8bad0f03"
+    },
+    {
+      "slug": "evermind-ai-raven",
+      "entity": "EverMind-AI/Raven",
+      "canonical_url": "https://agents.kymatalabs.com/p/evermind-ai-raven/",
+      "repository": "https://github.com/EverMind-AI/Raven",
+      "summary": "Publisher description of EverMind-AI/Raven: The Harness of Harnesses • Super Agent: a trusted, persistent, self-evolving multi-agent ecosystem for all-domain collaboration. The saved 2026-11-26 catalog classified it under Multi-Agent.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Multi-Agent work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Automated dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-26T19:42:37.628604+00:00",
+      "reviewed_on": "2026-11-27",
+      "last_successful_source_commit": "6364722a16c11e4d7cb721a9bfb4aee2021d7ef7",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "upstream_status": "publisher source reachable (HTTP 200) on the 2026-11-27 automated check",
+      "primary_sources": [
+        {
+          "url": "https://github.com/EverMind-AI/Raven/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "739985f9414181bacf1be3fd78bc4f9b733440ca307ec6fe6d597f16b8cea0fb",
+          "blob_sha": "37dba76327c4f57e52f76b02c90609cf7a60a474"
+        }
+      ],
+      "evidence_sha256": "739985f9414181bacf1be3fd78bc4f9b733440ca307ec6fe6d597f16b8cea0fb"
+    },
+    {
+      "slug": "oracle-devrel-oracle-ai-developer-hub",
+      "entity": "oracle-devrel/oracle-ai-developer-hub",
+      "canonical_url": "https://agents.kymatalabs.com/p/oracle-devrel-oracle-ai-developer-hub/",
+      "repository": "https://github.com/oracle-devrel/oracle-ai-developer-hub",
+      "summary": "Publisher description of oracle-devrel/oracle-ai-developer-hub: Technical resources for AI developers to build applications, agents, and systems using Oracle AI Database and OCI services. The saved 2026-11-26 catalog classified it under Agent Frameworks.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Agent Frameworks work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Automated dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-26T19:42:37.628604+00:00",
+      "reviewed_on": "2026-11-27",
+      "last_successful_source_commit": "6364722a16c11e4d7cb721a9bfb4aee2021d7ef7",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "upstream_status": "publisher source reachable (HTTP 200) on the 2026-11-27 automated check",
+      "primary_sources": [
+        {
+          "url": "https://github.com/oracle-devrel/oracle-ai-developer-hub/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "1a4b55dd82896b9ec16abf95fa4aede2d4596753c96e17ac45aa47b539e3baef",
+          "blob_sha": "cbd7ad75a4c00447b76aeaa71962a483556d0323"
+        }
+      ],
+      "evidence_sha256": "1a4b55dd82896b9ec16abf95fa4aede2d4596753c96e17ac45aa47b539e3baef"
     }
   ],
   "retirements": [],
